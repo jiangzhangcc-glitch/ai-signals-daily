@@ -1,5 +1,5 @@
 {
- "date": "2026-09-12",
+ "date": "2026-09-13",
  "picks": [
   {
    "source": "github",
@@ -13,8 +13,8 @@
   },
   {
    "source": "youtube",
-   "title": "When will AI be better than human experts?",
-   "url": "https://www.youtube.com/watch?v=F8C0Imuwy38"
+   "title": "Why Chinese AI Labs Are Keeping Up",
+   "url": "https://www.youtube.com/watch?v=BSCChdPCP54"
   },
   {
    "source": "siliconvalley",
@@ -27,16 +27,16 @@
    "github": 20,
    "huggingface": 49,
    "youtube": 23,
-   "siliconvalley": 27,
+   "siliconvalley": 23,
    "arxiv": 20,
    "arena": 50,
    "hardware": 25,
-   "compass": 147
+   "compass": 149
   },
   "top_orgs": [
    [
     "Anthropic",
-    19
+    20
    ],
    [
     "Google",
@@ -75,6 +75,6 @@
     5
    ]
   ],
-  "total": 361
+  "total": 359
  }
 }
