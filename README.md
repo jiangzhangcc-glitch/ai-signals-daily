@@ -8,6 +8,9 @@ Every day a machine writes one Markdown file here with that day's picks plus col
 - `data/YYYY-MM-DD.md` — the day's 4 signals (human-readable)
 - `data/YYYY-MM-DD.json` — every item collected that day (machine-readable)
 - `latest.json` — pointer to the most recent day
+- [`DATASET.md`](DATASET.md) — dataset card: field schema, cadence, how to cite
+- [`data/schema.json`](data/schema.json) — JSON Schema for the daily files
+- [`CITATION.cff`](CITATION.cff) · [`LICENSE`](LICENSE) — cite it / CC BY 4.0
 
 ## Days published
 - [2026-09-15](data/2026-09-15.md)
