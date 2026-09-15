@@ -1,5 +1,5 @@
 {
- "date": "2026-09-06",
+ "date": "2026-09-07",
  "picks": [
   {
    "source": "github",
@@ -8,13 +8,13 @@
   },
   {
    "source": "huggingface",
-   "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
-   "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp"
+   "title": "XHToken/Spark-X2.5-4B",
+   "url": "https://huggingface.co/XHToken/Spark-X2.5-4B"
   },
   {
    "source": "youtube",
-   "title": "Best AI model for coding: Fable vs Opus 5 vs Sol vs Grok vs DeepSeek | DHH and Lex Fridman",
-   "url": "https://www.youtube.com/watch?v=76gS56Bnhjg"
+   "title": "Do AI Agents Really Have Goals - Ajeya Cotra",
+   "url": "https://www.youtube.com/watch?v=gYEgDNyBXMU"
   },
   {
    "source": "siliconvalley",
@@ -27,16 +27,16 @@
    "github": 20,
    "huggingface": 49,
    "youtube": 25,
-   "siliconvalley": 23,
+   "siliconvalley": 30,
    "arxiv": 65,
    "arena": 50,
    "hardware": 25,
-   "compass": 149
+   "compass": 150
   },
   "top_orgs": [
    [
     "Anthropic",
-    19
+    20
    ],
    [
     "Google",
@@ -75,6 +75,6 @@
     5
    ]
   ],
-  "total": 406
+  "total": 414
  }
 }
