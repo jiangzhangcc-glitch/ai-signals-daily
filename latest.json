@@ -1,5 +1,5 @@
 {
- "date": "2026-09-02",
+ "date": "2026-09-03",
  "picks": [
   {
    "source": "github",
@@ -13,8 +13,8 @@
   },
   {
    "source": "youtube",
-   "title": "DHH responds to haters & critics | Lex Fridman Podcast Clips",
-   "url": "https://www.youtube.com/watch?v=nEKCGtQrUsA"
+   "title": "GPT 6 Astra in 10 mins!",
+   "url": "https://www.youtube.com/watch?v=Xkz0VFZqh0c"
   },
   {
    "source": "siliconvalley",
@@ -26,21 +26,21 @@
   "by_source": {
    "github": 20,
    "huggingface": 49,
-   "youtube": 23,
+   "youtube": 26,
    "siliconvalley": 31,
    "arxiv": 61,
-   "arena": 44,
-   "hardware": 32,
-   "compass": 155
+   "arena": 48,
+   "hardware": 25,
+   "compass": 151
   },
   "top_orgs": [
    [
     "Anthropic",
-    19
+    20
    ],
    [
     "Google",
-    15
+    17
    ],
    [
     "The Robot Report",
@@ -48,7 +48,7 @@
    ],
    [
     "Lex Clips",
-    13
+    14
    ],
    [
     "OpenAI",
@@ -59,6 +59,10 @@
     10
    ],
    [
+    "Qwen",
+    7
+   ],
+   [
     "Dwarkesh Clips",
     7
    ],
@@ -67,14 +71,10 @@
     7
    ],
    [
-    "VentureBeat AI",
-    7
-   ],
-   [
-    "Qwen",
-    6
+    "NVIDIA",
+    5
    ]
   ],
-  "total": 415
+  "total": 411
  }
 }
