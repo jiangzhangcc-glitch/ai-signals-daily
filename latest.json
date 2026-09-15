@@ -1,0 +1,80 @@
+{
+ "date": "2026-09-01",
+ "picks": [
+  {
+   "source": "github",
+   "title": "codecrafters-io/build-your-own-x",
+   "url": "https://github.com/codecrafters-io/build-your-own-x"
+  },
+  {
+   "source": "huggingface",
+   "title": "Qwen/Qwen3.8-Flash-Next",
+   "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next"
+  },
+  {
+   "source": "youtube",
+   "title": "Why Linux will win over MacOS/Windows: Linux is best for AI agents | DHH and Lex Fridman",
+   "url": "https://www.youtube.com/watch?v=dja1V5Y9igI"
+  },
+  {
+   "source": "siliconvalley",
+   "title": "Weekly Dose of Optimism #208",
+   "url": "https://www.notboring.co/p/weekly-dose-of-optimism-208"
+  }
+ ],
+ "stats": {
+  "by_source": {
+   "github": 20,
+   "huggingface": 49,
+   "youtube": 23,
+   "siliconvalley": 31,
+   "arxiv": 65,
+   "arena": 44,
+   "hardware": 32,
+   "compass": 157
+  },
+  "top_orgs": [
+   [
+    "Anthropic",
+    20
+   ],
+   [
+    "Google",
+    15
+   ],
+   [
+    "The Robot Report",
+    15
+   ],
+   [
+    "OpenAI",
+    12
+   ],
+   [
+    "Lex Clips",
+    11
+   ],
+   [
+    "AMD News",
+    10
+   ],
+   [
+    "Qwen",
+    7
+   ],
+   [
+    "Dwarkesh Clips",
+    7
+   ],
+   [
+    "DeepSeek",
+    7
+   ],
+   [
+    "VentureBeat AI",
+    7
+   ]
+  ],
+  "total": 421
+ }
+}
