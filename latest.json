@@ -26,9 +26,8 @@
   "by_source": {
    "github": 20,
    "huggingface": 49,
-   "youtube": 19,
-   "siliconvalley": 29,
-   "arxiv": 20,
+   "youtube": 18,
+   "siliconvalley": 31,
    "arena": 47,
    "hardware": 25,
    "compass": 150
@@ -36,7 +35,7 @@
   "top_orgs": [
    [
     "Anthropic",
-    20
+    19
    ],
    [
     "Google",
@@ -52,7 +51,7 @@
    ],
    [
     "Lex Clips",
-    12
+    11
    ],
    [
     "AMD News",
@@ -75,6 +74,6 @@
     5
    ]
   ],
-  "total": 359
+  "total": 340
  }
 }
