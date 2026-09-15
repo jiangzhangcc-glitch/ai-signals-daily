@@ -1,5 +1,5 @@
 {
- "date": "2026-09-08",
+ "date": "2026-09-09",
  "picks": [
   {
    "source": "github",
@@ -8,13 +8,13 @@
   },
   {
    "source": "huggingface",
-   "title": "XHToken/Spark-X2.5-4B",
-   "url": "https://huggingface.co/XHToken/Spark-X2.5-4B"
+   "title": "openbmb/MiniCPM5-2B",
+   "url": "https://huggingface.co/openbmb/MiniCPM5-2B"
   },
   {
    "source": "youtube",
-   "title": "DHH on fatherhood: What I love about being a father | Lex Fridman Podcast Clips",
-   "url": "https://www.youtube.com/watch?v=V1NeLsFOPcQ"
+   "title": "Why Punishing AI for Cheating Could Backfire - Ajeya Cotra",
+   "url": "https://www.youtube.com/watch?v=Wth831jKhlw"
   },
   {
    "source": "siliconvalley",
@@ -25,13 +25,13 @@
  "stats": {
   "by_source": {
    "github": 20,
-   "huggingface": 49,
+   "huggingface": 48,
    "youtube": 26,
    "siliconvalley": 23,
-   "arxiv": 65,
+   "arxiv": 61,
    "arena": 50,
    "hardware": 25,
-   "compass": 151
+   "compass": 150
   },
   "top_orgs": [
    [
@@ -59,22 +59,22 @@
     10
    ],
    [
-    "Qwen",
-    7
-   ],
-   [
     "Dwarkesh Clips",
     7
    ],
    [
-    "DeepSeek",
-    7
+    "Qwen",
+    6
    ],
    [
-    "NVIDIA",
+    "DeepSeek",
+    6
+   ],
+   [
+    "Meta",
     5
    ]
   ],
-  "total": 409
+  "total": 403
  }
 }
