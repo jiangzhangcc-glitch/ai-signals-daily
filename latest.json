@@ -1,5 +1,5 @@
 {
- "date": "2026-09-01",
+ "date": "2026-09-02",
  "picks": [
   {
    "source": "github",
@@ -8,13 +8,13 @@
   },
   {
    "source": "huggingface",
-   "title": "Qwen/Qwen3.8-Flash-Next",
-   "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next"
+   "title": "zai-org/GLM-5.3",
+   "url": "https://huggingface.co/zai-org/GLM-5.3"
   },
   {
    "source": "youtube",
-   "title": "Why Linux will win over MacOS/Windows: Linux is best for AI agents | DHH and Lex Fridman",
-   "url": "https://www.youtube.com/watch?v=dja1V5Y9igI"
+   "title": "DHH responds to haters & critics | Lex Fridman Podcast Clips",
+   "url": "https://www.youtube.com/watch?v=nEKCGtQrUsA"
   },
   {
    "source": "siliconvalley",
@@ -28,15 +28,15 @@
    "huggingface": 49,
    "youtube": 23,
    "siliconvalley": 31,
-   "arxiv": 65,
+   "arxiv": 61,
    "arena": 44,
    "hardware": 32,
-   "compass": 157
+   "compass": 155
   },
   "top_orgs": [
    [
     "Anthropic",
-    20
+    19
    ],
    [
     "Google",
@@ -47,20 +47,16 @@
     15
    ],
    [
-    "OpenAI",
-    12
+    "Lex Clips",
+    13
    ],
    [
-    "Lex Clips",
-    11
+    "OpenAI",
+    13
    ],
    [
     "AMD News",
     10
-   ],
-   [
-    "Qwen",
-    7
    ],
    [
     "Dwarkesh Clips",
@@ -73,8 +69,12 @@
    [
     "VentureBeat AI",
     7
+   ],
+   [
+    "Qwen",
+    6
    ]
   ],
-  "total": 421
+  "total": 415
  }
 }
