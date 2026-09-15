@@ -1,0 +1,67 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "title": "AI Signals Daily — one collected item",
+ "type": "array",
+ "items": {
+  "type": "object",
+  "required": [
+   "id",
+   "timestamp",
+   "source",
+   "title",
+   "url"
+  ],
+  "properties": {
+   "id": {
+    "type": "string"
+   },
+   "timestamp": {
+    "type": "string"
+   },
+   "source": {
+    "type": "string",
+    "enum": [
+     "github",
+     "huggingface",
+     "arxiv",
+     "youtube",
+     "siliconvalley",
+     "compass",
+     "hardware",
+     "arena"
+    ]
+   },
+   "kind": {
+    "type": "string"
+   },
+   "type": {
+    "type": "string"
+   },
+   "title": {
+    "type": "string"
+   },
+   "url": {
+    "type": "string"
+   },
+   "summary": {
+    "type": "string"
+   },
+   "org": {
+    "type": "string"
+   },
+   "companies": {
+    "type": "array",
+    "items": {
+     "type": "string"
+    }
+   },
+   "topics": {
+    "type": "array",
+    "items": {
+     "type": "string"
+    }
+   }
+  },
+  "additionalProperties": true
+ }
+}
