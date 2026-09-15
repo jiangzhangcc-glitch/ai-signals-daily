@@ -1,5 +1,5 @@
 {
- "date": "2026-09-13",
+ "date": "2026-09-14",
  "picks": [
   {
    "source": "github",
@@ -13,8 +13,8 @@
   },
   {
    "source": "youtube",
-   "title": "Why Chinese AI Labs Are Keeping Up",
-   "url": "https://www.youtube.com/watch?v=BSCChdPCP54"
+   "title": "Why So Many AI Models Sound Like Claude",
+   "url": "https://www.youtube.com/watch?v=cu8JoThq88A"
   },
   {
    "source": "siliconvalley",
@@ -27,11 +27,11 @@
    "github": 20,
    "huggingface": 49,
    "youtube": 23,
-   "siliconvalley": 23,
-   "arxiv": 20,
-   "arena": 50,
+   "siliconvalley": 25,
+   "arxiv": 64,
+   "arena": 47,
    "hardware": 25,
-   "compass": 149
+   "compass": 150
   },
   "top_orgs": [
    [
@@ -40,7 +40,7 @@
    ],
    [
     "Google",
-    17
+    16
    ],
    [
     "Lex Clips",
@@ -52,7 +52,7 @@
    ],
    [
     "OpenAI",
-    14
+    13
    ],
    [
     "AMD News",
@@ -75,6 +75,6 @@
     5
    ]
   ],
-  "total": 359
+  "total": 403
  }
 }
