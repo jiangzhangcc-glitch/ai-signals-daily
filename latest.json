@@ -1,5 +1,5 @@
 {
- "date": "2026-09-04",
+ "date": "2026-09-05",
  "picks": [
   {
    "source": "github",
@@ -13,8 +13,8 @@
   },
   {
    "source": "youtube",
-   "title": "FOMO in the agentic AI era - advice from DHH | Lex Fridman Podcast Clips",
-   "url": "https://www.youtube.com/watch?v=I1YJe4XWGH0"
+   "title": "Is programming dead? | DHH and Lex Fridman",
+   "url": "https://www.youtube.com/watch?v=Nrz5cJwBW9A"
   },
   {
    "source": "siliconvalley",
@@ -26,12 +26,12 @@
   "by_source": {
    "github": 20,
    "huggingface": 49,
-   "youtube": 26,
-   "siliconvalley": 31,
+   "youtube": 25,
+   "siliconvalley": 23,
    "arxiv": 65,
-   "arena": 48,
+   "arena": 49,
    "hardware": 25,
-   "compass": 150
+   "compass": 151
   },
   "top_orgs": [
    [
@@ -59,6 +59,10 @@
     10
    ],
    [
+    "Qwen",
+    7
+   ],
+   [
     "Dwarkesh Clips",
     7
    ],
@@ -67,14 +71,10 @@
     7
    ],
    [
-    "Qwen",
-    6
-   ],
-   [
     "NVIDIA",
     5
    ]
   ],
-  "total": 414
+  "total": 407
  }
 }
