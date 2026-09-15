@@ -1,0 +1,63 @@
+{
+ "name": "ai-signals-daily",
+ "title": "AI Signals Daily — daily AI signals dataset (Signals 4)",
+ "description": "Daily machine-written collection of AI signals from public sources: one item per core source per day, each linking to the original. Published automatically by Signals 4 (Signals API).",
+ "homepage": "https://data.jiangzhang.ca/signals4/archive/",
+ "version": "2026.1",
+ "licenses": [
+  {
+   "name": "CC-BY-4.0",
+   "path": "https://creativecommons.org/licenses/by/4.0/legalcode",
+   "title": "Creative Commons Attribution 4.0 International"
+  }
+ ],
+ "contributors": [
+  {
+   "title": "Signals 4 (Signals API)",
+   "path": "https://data.jiangzhang.ca/signals4/about.html"
+  }
+ ],
+ "keywords": [
+  "artificial intelligence",
+  "machine learning",
+  "dataset",
+  "news",
+  "rss"
+ ],
+ "created": "2026-09-15",
+ "resources": [
+  {
+   "name": "latest",
+   "path": "latest.json",
+   "profile": "json",
+   "title": "Latest edition (4 picks + collection stats)",
+   "schema": {
+    "path": "latest.schema.json"
+   }
+  },
+  {
+   "name": "daily-items",
+   "path": "data/2026-09-15.json",
+   "profile": "tabular-json",
+   "title": "All items collected on 2026-09-15",
+   "schema": {
+    "path": "data/schema.json"
+   },
+   "format": "json",
+   "mediatype": "application/json"
+  },
+  {
+   "name": "daily-digest",
+   "path": "data/2026-09-15.md",
+   "profile": "markdown",
+   "title": "Human-readable digest for 2026-09-15",
+   "mediatype": "text/markdown"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Signals 4 machine-readable endpoints",
+   "path": "https://data.jiangzhang.ca/signals4/api/entities.json"
+  }
+ ]
+}
