@@ -1,5 +1,5 @@
 {
- "date": "2026-09-14",
+ "date": "2026-09-15",
  "picks": [
   {
    "source": "github",
@@ -13,8 +13,8 @@
   },
   {
    "source": "youtube",
-   "title": "Why So Many AI Models Sound Like Claude",
-   "url": "https://www.youtube.com/watch?v=cu8JoThq88A"
+   "title": "Claude Is Now Leaving Invisible Fingerprints In Its Text",
+   "url": "https://www.youtube.com/watch?v=YoEWjZSwoys"
   },
   {
    "source": "siliconvalley",
@@ -26,9 +26,9 @@
   "by_source": {
    "github": 20,
    "huggingface": 49,
-   "youtube": 23,
-   "siliconvalley": 25,
-   "arxiv": 64,
+   "youtube": 19,
+   "siliconvalley": 29,
+   "arxiv": 20,
    "arena": 47,
    "hardware": 25,
    "compass": 150
@@ -43,16 +43,16 @@
     16
    ],
    [
-    "Lex Clips",
-    15
-   ],
-   [
     "The Robot Report",
     15
    ],
    [
     "OpenAI",
-    13
+    14
+   ],
+   [
+    "Lex Clips",
+    12
    ],
    [
     "AMD News",
@@ -75,6 +75,6 @@
     5
    ]
   ],
-  "total": 403
+  "total": 359
  }
 }
