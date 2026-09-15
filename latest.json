@@ -1,5 +1,5 @@
 {
- "date": "2026-09-03",
+ "date": "2026-09-04",
  "picks": [
   {
    "source": "github",
@@ -8,18 +8,18 @@
   },
   {
    "source": "huggingface",
-   "title": "zai-org/GLM-5.3",
-   "url": "https://huggingface.co/zai-org/GLM-5.3"
+   "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+   "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp"
   },
   {
    "source": "youtube",
-   "title": "GPT 6 Astra in 10 mins!",
-   "url": "https://www.youtube.com/watch?v=Xkz0VFZqh0c"
+   "title": "FOMO in the agentic AI era - advice from DHH | Lex Fridman Podcast Clips",
+   "url": "https://www.youtube.com/watch?v=I1YJe4XWGH0"
   },
   {
    "source": "siliconvalley",
-   "title": "Weekly Dose of Optimism #208",
-   "url": "https://www.notboring.co/p/weekly-dose-of-optimism-208"
+   "title": "Weekly Dose of Optimism #209",
+   "url": "https://www.notboring.co/p/weekly-dose-of-optimism-209"
   }
  ],
  "stats": {
@@ -28,10 +28,10 @@
    "huggingface": 49,
    "youtube": 26,
    "siliconvalley": 31,
-   "arxiv": 61,
+   "arxiv": 65,
    "arena": 48,
    "hardware": 25,
-   "compass": 151
+   "compass": 150
   },
   "top_orgs": [
    [
@@ -43,12 +43,12 @@
     17
    ],
    [
-    "The Robot Report",
+    "Lex Clips",
     15
    ],
    [
-    "Lex Clips",
-    14
+    "The Robot Report",
+    15
    ],
    [
     "OpenAI",
@@ -59,10 +59,6 @@
     10
    ],
    [
-    "Qwen",
-    7
-   ],
-   [
     "Dwarkesh Clips",
     7
    ],
@@ -71,10 +67,14 @@
     7
    ],
    [
+    "Qwen",
+    6
+   ],
+   [
     "NVIDIA",
     5
    ]
   ],
-  "total": 411
+  "total": 414
  }
 }
