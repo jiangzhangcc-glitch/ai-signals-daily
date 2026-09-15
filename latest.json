@@ -1,5 +1,5 @@
 {
- "date": "2026-09-05",
+ "date": "2026-09-06",
  "picks": [
   {
    "source": "github",
@@ -13,8 +13,8 @@
   },
   {
    "source": "youtube",
-   "title": "Is programming dead? | DHH and Lex Fridman",
-   "url": "https://www.youtube.com/watch?v=Nrz5cJwBW9A"
+   "title": "Best AI model for coding: Fable vs Opus 5 vs Sol vs Grok vs DeepSeek | DHH and Lex Fridman",
+   "url": "https://www.youtube.com/watch?v=76gS56Bnhjg"
   },
   {
    "source": "siliconvalley",
@@ -29,14 +29,14 @@
    "youtube": 25,
    "siliconvalley": 23,
    "arxiv": 65,
-   "arena": 49,
+   "arena": 50,
    "hardware": 25,
-   "compass": 151
+   "compass": 149
   },
   "top_orgs": [
    [
     "Anthropic",
-    20
+    19
    ],
    [
     "Google",
@@ -75,6 +75,6 @@
     5
    ]
   ],
-  "total": 407
+  "total": 406
  }
 }
