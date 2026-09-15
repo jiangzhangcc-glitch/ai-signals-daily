@@ -1,0 +1,42 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "title": "AI Signals Daily — latest.json",
+ "type": "object",
+ "required": [
+  "date",
+  "picks",
+  "stats"
+ ],
+ "properties": {
+  "date": {
+   "type": "string"
+  },
+  "picks": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "required": [
+     "source",
+     "title",
+     "url"
+    ],
+    "properties": {
+     "source": {
+      "type": "string"
+     },
+     "title": {
+      "type": "string"
+     },
+     "url": {
+      "type": "string"
+     }
+    },
+    "additionalProperties": true
+   }
+  },
+  "stats": {
+   "type": "object"
+  }
+ },
+ "additionalProperties": true
+}
