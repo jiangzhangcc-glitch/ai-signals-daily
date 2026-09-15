@@ -1,5 +1,5 @@
 {
- "date": "2026-09-09",
+ "date": "2026-09-10",
  "picks": [
   {
    "source": "github",
@@ -8,27 +8,27 @@
   },
   {
    "source": "huggingface",
-   "title": "openbmb/MiniCPM5-2B",
-   "url": "https://huggingface.co/openbmb/MiniCPM5-2B"
+   "title": "deepseek-ai/DeepSeek-V4.1-Flash",
+   "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash"
   },
   {
    "source": "youtube",
-   "title": "Why Punishing AI for Cheating Could Backfire - Ajeya Cotra",
-   "url": "https://www.youtube.com/watch?v=Wth831jKhlw"
+   "title": "DHH on drama with Theo | Lex Fridman Podcast Clips",
+   "url": "https://www.youtube.com/watch?v=uJMjlKksSks"
   },
   {
    "source": "siliconvalley",
-   "title": "Everyone is Reading Lonesome Dove",
-   "url": "https://www.notboring.co/p/everyone-is-reading-lonesome-dove"
+   "title": "An Ode to Counter-Positioning",
+   "url": "https://www.notboring.co/p/an-ode-to-counter-positioning"
   }
  ],
  "stats": {
   "by_source": {
    "github": 20,
-   "huggingface": 48,
-   "youtube": 26,
-   "siliconvalley": 23,
-   "arxiv": 61,
+   "huggingface": 49,
+   "youtube": 25,
+   "siliconvalley": 31,
+   "arxiv": 65,
    "arena": 50,
    "hardware": 25,
    "compass": 150
@@ -36,7 +36,7 @@
   "top_orgs": [
    [
     "Anthropic",
-    20
+    19
    ],
    [
     "Google",
@@ -59,11 +59,11 @@
     10
    ],
    [
-    "Dwarkesh Clips",
-    7
+    "Qwen",
+    6
    ],
    [
-    "Qwen",
+    "Dwarkesh Clips",
     6
    ],
    [
@@ -75,6 +75,6 @@
     5
    ]
   ],
-  "total": 403
+  "total": 415
  }
 }
