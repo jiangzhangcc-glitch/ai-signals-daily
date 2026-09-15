@@ -42,5 +42,37 @@ Use the "Cite this repository" button (from `CITATION.cff`), or cite as:
 
 > Signals 4 (Signals API), *AI Signals Daily*, https://github.com/jiangzhangcc-glitch/ai-signals-daily (data) / https://data.jiangzhang.ca/signals4/archive/ (digest), accessed 2026-09-15.
 
+## Examples (paste-ready, verified automatically)
+### Today's 4 signals (JSON)
+```bash
+curl -s https://data.jiangzhang.ca/signals4/api/today.json | python3 -c "import json,sys; d=json.load(sys.stdin); print(d['date'], len(d['signals']), 'signals')"
+```
+
+### Top model by downloads, with our own rank and momentum (one line, ready to quote)
+```bash
+curl -s https://data.jiangzhang.ca/signals4/api/models.json | python3 -c "import json,sys; print(json.load(sys.stdin)['entries'][0]['citation'])"
+```
+
+### What changed since the previous snapshot
+```bash
+curl -s https://data.jiangzhang.ca/signals4/api/changes.json | python3 -c "import json,sys; d=json.load(sys.stdin); print(d['changes']['models']['mover_count'], 'rank moves')"
+```
+
+### Arena board position + score change
+```bash
+curl -s https://data.jiangzhang.ca/signals4/api/arena.json | python3 -c "import json,sys; b=json.load(sys.stdin)['boards'][0]; e=b['entries'][0]; print(b['board'], e['name'], e['score'], e['score_change'])"
+```
+
+### Latest daily edition from the data repo (raw)
+```bash
+curl -s https://raw.githubusercontent.com/jiangzhangcc-glitch/ai-signals-daily/main/latest.json | python3 -c "import json,sys; d=json.load(sys.stdin); print(d['date'], [p['source'] for p in d['picks']])"
+```
+
+### All machine-readable endpoints, printed as URLs
+```bash
+curl -s https://data.jiangzhang.ca/signals4/api/entities.json | python3 -c "import json,sys; d=json.load(sys.stdin)['endpoints']; print(chr(10).join(d[k] for k in sorted(d)))"
+```
+
+
 ## License
 Data: CC BY 4.0 (attribution required). Each item links to its original source; we do not rewrite it.
