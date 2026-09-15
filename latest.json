@@ -1,5 +1,5 @@
 {
- "date": "2026-09-07",
+ "date": "2026-09-08",
  "picks": [
   {
    "source": "github",
@@ -13,25 +13,25 @@
   },
   {
    "source": "youtube",
-   "title": "Do AI Agents Really Have Goals - Ajeya Cotra",
-   "url": "https://www.youtube.com/watch?v=gYEgDNyBXMU"
+   "title": "DHH on fatherhood: What I love about being a father | Lex Fridman Podcast Clips",
+   "url": "https://www.youtube.com/watch?v=V1NeLsFOPcQ"
   },
   {
    "source": "siliconvalley",
-   "title": "Weekly Dose of Optimism #209",
-   "url": "https://www.notboring.co/p/weekly-dose-of-optimism-209"
+   "title": "Everyone is Reading Lonesome Dove",
+   "url": "https://www.notboring.co/p/everyone-is-reading-lonesome-dove"
   }
  ],
  "stats": {
   "by_source": {
    "github": 20,
    "huggingface": 49,
-   "youtube": 25,
-   "siliconvalley": 30,
+   "youtube": 26,
+   "siliconvalley": 23,
    "arxiv": 65,
    "arena": 50,
    "hardware": 25,
-   "compass": 150
+   "compass": 151
   },
   "top_orgs": [
    [
@@ -52,7 +52,7 @@
    ],
    [
     "OpenAI",
-    13
+    14
    ],
    [
     "AMD News",
@@ -75,6 +75,6 @@
     5
    ]
   ],
-  "total": 414
+  "total": 409
  }
 }
