@@ -9,8 +9,9 @@ abstract: >-
   the raw snapshots and reconciled with the site by an automated audit.
 type: dataset
 authors:
-  - family-names: "Signals 4"
-    name: "Signals 4 (Signals API)"
+  # 必须是 CFF 的「entity」形式：允许 name/website/alias…，不允许 family-names（那是 person 形式）
+  # 混用两种形式会被官方 schema 判为不通过（2026-09-15 由 external standards 校验抓到）
+  - name: "Signals 4 (Signals API)"
     website: "https://data.jiangzhang.ca/signals4/"
 repository-code: "https://github.com/jiangzhangcc-glitch/ai-signals-daily"
 url: "https://data.jiangzhang.ca/signals4/archive/"
