@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "AI Signals Daily — daily AI signals dataset (Signals 4)"
+abstract: >-
+  A daily machine-written dataset of AI signals collected from public sources: one item per core
+  source per day (GitHub trending repos, Hugging Face models, arXiv papers, YouTube talks and
+  Silicon Valley news), each linking to the original. Published automatically every day by
+  Signals 4, a free daily AI digest. Derived rankings and momentum numbers are recomputed from
+  the raw snapshots and reconciled with the site by an automated audit.
+type: dataset
+authors:
+  - family-names: "Signals 4"
+    name: "Signals 4 (Signals API)"
+    website: "https://data.jiangzhang.ca/signals4/"
+repository-code: "https://github.com/jiangzhangcc-glitch/ai-signals-daily"
+url: "https://data.jiangzhang.ca/signals4/archive/"
+license: CC-BY-4.0
+keywords:
+  - artificial intelligence
+  - machine learning
+  - dataset
+  - news
+  - rss
+date-released: "2026-09-15"
+version: "2026.1"
