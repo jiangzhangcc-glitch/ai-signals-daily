@@ -1,5 +1,5 @@
 {
- "date": "2026-09-15",
+ "date": "2026-09-16",
  "picks": [
   {
    "source": "github",
@@ -13,8 +13,8 @@
   },
   {
    "source": "youtube",
-   "title": "Claude Is Now Leaving Invisible Fingerprints In Its Text",
-   "url": "https://www.youtube.com/watch?v=YoEWjZSwoys"
+   "title": "AI Might Build Better AI Before It Can Be a Paralegal",
+   "url": "https://www.youtube.com/watch?v=O9ZU5A3F1wI"
   },
   {
    "source": "siliconvalley",
@@ -26,8 +26,9 @@
   "by_source": {
    "github": 20,
    "huggingface": 49,
-   "youtube": 18,
+   "youtube": 12,
    "siliconvalley": 31,
+   "arxiv": 64,
    "arena": 47,
    "hardware": 25,
    "compass": 150
@@ -35,7 +36,7 @@
   "top_orgs": [
    [
     "Anthropic",
-    19
+    20
    ],
    [
     "Google",
@@ -47,11 +48,7 @@
    ],
    [
     "OpenAI",
-    14
-   ],
-   [
-    "Lex Clips",
-    11
+    13
    ],
    [
     "AMD News",
@@ -70,10 +67,14 @@
     5
    ],
    [
+    "Lex Clips",
+    5
+   ],
+   [
     "Meta",
     5
    ]
   ],
-  "total": 340
+  "total": 398
  }
 }
