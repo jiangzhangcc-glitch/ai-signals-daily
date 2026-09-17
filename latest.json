@@ -1,5 +1,5 @@
 {
- "date": "2026-09-16",
+ "date": "2026-09-17",
  "picks": [
   {
    "source": "github",
@@ -8,13 +8,13 @@
   },
   {
    "source": "huggingface",
-   "title": "deepseek-ai/DeepSeek-V4.1-Flash",
-   "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash"
+   "title": "Edge0/Edge0-35B-A3B-preview",
+   "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview"
   },
   {
    "source": "youtube",
-   "title": "AI Might Build Better AI Before It Can Be a Paralegal",
-   "url": "https://www.youtube.com/watch?v=O9ZU5A3F1wI"
+   "title": "What schizophrenia feels like | Andrew Scull and Lex Fridman",
+   "url": "https://www.youtube.com/watch?v=XYvCVR2uZU4"
   },
   {
    "source": "siliconvalley",
@@ -26,12 +26,12 @@
   "by_source": {
    "github": 20,
    "huggingface": 49,
-   "youtube": 12,
+   "youtube": 8,
    "siliconvalley": 31,
-   "arxiv": 64,
+   "arxiv": 45,
    "arena": 47,
    "hardware": 25,
-   "compass": 150
+   "compass": 151
   },
   "top_orgs": [
    [
@@ -48,7 +48,7 @@
    ],
    [
     "OpenAI",
-    13
+    14
    ],
    [
     "AMD News",
@@ -67,14 +67,14 @@
     5
    ],
    [
-    "Lex Clips",
+    "Meta",
     5
    ],
    [
-    "Meta",
+    "NVIDIA",
     5
    ]
   ],
-  "total": 398
+  "total": 376
  }
 }
