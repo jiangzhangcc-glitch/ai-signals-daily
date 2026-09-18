@@ -1,5 +1,5 @@
 {
- "date": "2026-09-17",
+ "date": "2026-09-18",
  "picks": [
   {
    "source": "github",
@@ -13,8 +13,8 @@
   },
   {
    "source": "youtube",
-   "title": "What schizophrenia feels like | Andrew Scull and Lex Fridman",
-   "url": "https://www.youtube.com/watch?v=XYvCVR2uZU4"
+   "title": "DeepSeek’s Insane New Architecture",
+   "url": "https://www.youtube.com/watch?v=vIHw_2VjSUw"
   },
   {
    "source": "siliconvalley",
@@ -26,21 +26,21 @@
   "by_source": {
    "github": 20,
    "huggingface": 49,
-   "youtube": 8,
+   "youtube": 14,
    "siliconvalley": 31,
-   "arxiv": 45,
-   "arena": 47,
+   "arxiv": 46,
+   "arena": 45,
    "hardware": 25,
-   "compass": 151
+   "compass": 150
   },
   "top_orgs": [
    [
     "Anthropic",
-    20
+    19
    ],
    [
     "Google",
-    16
+    15
    ],
    [
     "The Robot Report",
@@ -56,7 +56,11 @@
    ],
    [
     "Qwen",
-    6
+    7
+   ],
+   [
+    "Lex Clips",
+    7
    ],
    [
     "DeepSeek",
@@ -67,14 +71,10 @@
     5
    ],
    [
-    "Meta",
-    5
-   ],
-   [
     "NVIDIA",
     5
    ]
   ],
-  "total": 376
+  "total": 380
  }
 }
