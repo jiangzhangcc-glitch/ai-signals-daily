@@ -1,5 +1,5 @@
 {
- "date": "2026-09-18",
+ "date": "2026-09-19",
  "picks": [
   {
    "source": "github",
@@ -8,39 +8,39 @@
   },
   {
    "source": "huggingface",
-   "title": "Edge0/Edge0-35B-A3B-preview",
-   "url": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview"
+   "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+   "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf"
   },
   {
    "source": "youtube",
-   "title": "DeepSeek’s Insane New Architecture",
-   "url": "https://www.youtube.com/watch?v=vIHw_2VjSUw"
+   "title": "John Nash's schizophrenia (A Beautiful Mind) - failed horrific treatments | Andrew Scull",
+   "url": "https://www.youtube.com/watch?v=WJL9jg_jQcw"
   },
   {
    "source": "siliconvalley",
-   "title": "Weekly Dose of Optimism #210",
-   "url": "https://www.notboring.co/p/weekly-dose-of-optimism-210"
+   "title": "Weekly Dose of Optimism #211",
+   "url": "https://www.notboring.co/p/weekly-dose-of-optimism-211"
   }
  ],
  "stats": {
   "by_source": {
    "github": 20,
    "huggingface": 49,
-   "youtube": 14,
-   "siliconvalley": 31,
-   "arxiv": 46,
-   "arena": 45,
+   "youtube": 20,
+   "siliconvalley": 23,
+   "arxiv": 61,
+   "arena": 47,
    "hardware": 25,
-   "compass": 150
+   "compass": 149
   },
   "top_orgs": [
    [
     "Anthropic",
-    19
+    18
    ],
    [
     "Google",
-    15
+    16
    ],
    [
     "The Robot Report",
@@ -51,6 +51,10 @@
     14
    ],
    [
+    "Lex Clips",
+    12
+   ],
+   [
     "AMD News",
     10
    ],
@@ -59,22 +63,18 @@
     7
    ],
    [
-    "Lex Clips",
-    7
+    "Dwarkesh Clips",
+    6
    ],
    [
     "DeepSeek",
     6
    ],
    [
-    "Dwarkesh Clips",
-    5
-   ],
-   [
-    "NVIDIA",
+    "Meta",
     5
    ]
   ],
-  "total": 380
+  "total": 394
  }
 }
