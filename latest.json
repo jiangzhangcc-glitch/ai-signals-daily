@@ -1,5 +1,5 @@
 {
- "date": "2026-09-19",
+ "date": "2026-09-20",
  "picks": [
   {
    "source": "github",
@@ -13,8 +13,8 @@
   },
   {
    "source": "youtube",
-   "title": "John Nash's schizophrenia (A Beautiful Mind) - failed horrific treatments | Andrew Scull",
-   "url": "https://www.youtube.com/watch?v=WJL9jg_jQcw"
+   "title": "Prison system is an insane asylum | Andrew Scull and Lex Fridman",
+   "url": "https://www.youtube.com/watch?v=UyoA-r1sii8"
   },
   {
    "source": "siliconvalley",
@@ -26,21 +26,25 @@
   "by_source": {
    "github": 20,
    "huggingface": 49,
-   "youtube": 20,
+   "youtube": 23,
    "siliconvalley": 23,
    "arxiv": 61,
    "arena": 47,
    "hardware": 25,
-   "compass": 149
+   "compass": 150
   },
   "top_orgs": [
    [
     "Anthropic",
-    18
+    19
    ],
    [
     "Google",
     16
+   ],
+   [
+    "Lex Clips",
+    15
    ],
    [
     "The Robot Report",
@@ -49,10 +53,6 @@
    [
     "OpenAI",
     14
-   ],
-   [
-    "Lex Clips",
-    12
    ],
    [
     "AMD News",
@@ -75,6 +75,6 @@
     5
    ]
   ],
-  "total": 394
+  "total": 398
  }
 }
