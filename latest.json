@@ -1,5 +1,5 @@
 {
- "date": "2026-09-20",
+ "date": "2026-09-21",
  "picks": [
   {
    "source": "github",
@@ -13,8 +13,8 @@
   },
   {
    "source": "youtube",
-   "title": "Prison system is an insane asylum | Andrew Scull and Lex Fridman",
-   "url": "https://www.youtube.com/watch?v=UyoA-r1sii8"
+   "title": "Cognitive Behavioral Therapy (CBT) vs Psychoanalysis | Andrew Scull and Lex Fridman",
+   "url": "https://www.youtube.com/watch?v=GvQb2jgjerw"
   },
   {
    "source": "siliconvalley",
@@ -27,9 +27,9 @@
    "github": 20,
    "huggingface": 49,
    "youtube": 23,
-   "siliconvalley": 23,
-   "arxiv": 61,
-   "arena": 47,
+   "siliconvalley": 31,
+   "arxiv": 54,
+   "arena": 45,
    "hardware": 25,
    "compass": 150
   },
@@ -39,11 +39,11 @@
     19
    ],
    [
-    "Google",
-    16
+    "Lex Clips",
+    15
    ],
    [
-    "Lex Clips",
+    "Google",
     15
    ],
    [
@@ -60,7 +60,7 @@
    ],
    [
     "Qwen",
-    7
+    8
    ],
    [
     "Dwarkesh Clips",
@@ -71,10 +71,10 @@
     6
    ],
    [
-    "Meta",
+    "mrthor102",
     5
    ]
   ],
-  "total": 398
+  "total": 397
  }
 }
