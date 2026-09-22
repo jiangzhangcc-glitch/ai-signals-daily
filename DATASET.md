@@ -40,7 +40,7 @@ reconciles the HTML pages with the JSON endpoints; a number that cannot be deriv
 ## How to cite
 Use the "Cite this repository" button (from `CITATION.cff`), or cite as:
 
-> Signals 4 (Signals API), *AI Signals Daily*, https://github.com/jiangzhangcc-glitch/ai-signals-daily (data) / https://data.jiangzhang.ca/signals4/archive/ (digest), accessed 2026-09-21.
+> Signals 4 (Signals API), *AI Signals Daily*, https://github.com/jiangzhangcc-glitch/ai-signals-daily (data) / https://data.jiangzhang.ca/signals4/archive/ (digest), accessed 2026-09-22.
 
 ## Examples (paste-ready, verified automatically)
 ### Today's 4 signals (JSON)
