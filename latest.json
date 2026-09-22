@@ -1,5 +1,5 @@
 {
- "date": "2026-09-21",
+ "date": "2026-09-22",
  "picks": [
   {
    "source": "github",
@@ -8,13 +8,13 @@
   },
   {
    "source": "huggingface",
-   "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
-   "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf"
+   "title": "convaiinnovations/laya",
+   "url": "https://huggingface.co/convaiinnovations/laya"
   },
   {
    "source": "youtube",
-   "title": "Cognitive Behavioral Therapy (CBT) vs Psychoanalysis | Andrew Scull and Lex Fridman",
-   "url": "https://www.youtube.com/watch?v=GvQb2jgjerw"
+   "title": "Yes, Jev Is Insane, But There's A Catch",
+   "url": "https://www.youtube.com/watch?v=qBBRRsH0rQc"
   },
   {
    "source": "siliconvalley",
@@ -27,16 +27,16 @@
    "github": 20,
    "huggingface": 49,
    "youtube": 23,
-   "siliconvalley": 31,
-   "arxiv": 54,
+   "siliconvalley": 29,
+   "arxiv": 62,
    "arena": 45,
    "hardware": 25,
-   "compass": 150
+   "compass": 151
   },
   "top_orgs": [
    [
     "Anthropic",
-    19
+    20
    ],
    [
     "Lex Clips",
@@ -71,10 +71,10 @@
     6
    ],
    [
-    "mrthor102",
+    "NVIDIA",
     5
    ]
   ],
-  "total": 397
+  "total": 404
  }
 }
