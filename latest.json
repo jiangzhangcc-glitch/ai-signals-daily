@@ -1,5 +1,5 @@
 {
- "date": "2026-09-22",
+ "date": "2026-09-23",
  "picks": [
   {
    "source": "github",
@@ -13,8 +13,8 @@
   },
   {
    "source": "youtube",
-   "title": "Yes, Jev Is Insane, But There's A Catch",
-   "url": "https://www.youtube.com/watch?v=qBBRRsH0rQc"
+   "title": "Why Punishing an AI’s “Bad Thoughts” Can Backfire - Noam Brown",
+   "url": "https://www.youtube.com/watch?v=rSQzMoDESTY"
   },
   {
    "source": "siliconvalley",
@@ -28,15 +28,15 @@
    "huggingface": 49,
    "youtube": 23,
    "siliconvalley": 29,
-   "arxiv": 62,
+   "arxiv": 48,
    "arena": 45,
    "hardware": 25,
-   "compass": 151
+   "compass": 148
   },
   "top_orgs": [
    [
     "Anthropic",
-    20
+    19
    ],
    [
     "Lex Clips",
@@ -68,13 +68,13 @@
    ],
    [
     "DeepSeek",
-    6
+    5
    ],
    [
     "NVIDIA",
     5
    ]
   ],
-  "total": 404
+  "total": 387
  }
 }
