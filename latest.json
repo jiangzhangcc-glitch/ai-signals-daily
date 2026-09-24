@@ -1,5 +1,5 @@
 {
- "date": "2026-09-23",
+ "date": "2026-09-24",
  "picks": [
   {
    "source": "github",
@@ -13,30 +13,30 @@
   },
   {
    "source": "youtube",
-   "title": "Why Punishing an AI’s “Bad Thoughts” Can Backfire - Noam Brown",
-   "url": "https://www.youtube.com/watch?v=rSQzMoDESTY"
+   "title": "Claude Opus 5.5 AI: A Massive Leap Forward",
+   "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0"
   },
   {
    "source": "siliconvalley",
-   "title": "Weekly Dose of Optimism #211",
-   "url": "https://www.notboring.co/p/weekly-dose-of-optimism-211"
+   "title": "Would We Send Our Kids to HAA?",
+   "url": "https://www.notboring.co/p/haa"
   }
  ],
  "stats": {
   "by_source": {
    "github": 20,
    "huggingface": 49,
-   "youtube": 23,
+   "youtube": 24,
    "siliconvalley": 29,
-   "arxiv": 48,
+   "arxiv": 47,
    "arena": 45,
    "hardware": 25,
-   "compass": 148
+   "compass": 151
   },
   "top_orgs": [
    [
     "Anthropic",
-    19
+    20
    ],
    [
     "Lex Clips",
@@ -68,13 +68,13 @@
    ],
    [
     "DeepSeek",
-    5
+    6
    ],
    [
     "NVIDIA",
     5
    ]
   ],
-  "total": 387
+  "total": 390
  }
 }
