@@ -24,7 +24,7 @@
   "news",
   "rss"
  ],
- "created": "2026-09-24",
+ "created": "2026-09-25",
  "resources": [
   {
    "name": "latest",
@@ -37,9 +37,9 @@
   },
   {
    "name": "daily-items",
-   "path": "data/2026-09-24.json",
+   "path": "data/2026-09-25.json",
    "profile": "tabular-json",
-   "title": "All items collected on 2026-09-24",
+   "title": "All items collected on 2026-09-25",
    "schema": {
     "path": "data/schema.json"
    },
@@ -48,9 +48,9 @@
   },
   {
    "name": "daily-digest",
-   "path": "data/2026-09-24.md",
+   "path": "data/2026-09-25.md",
    "profile": "markdown",
-   "title": "Human-readable digest for 2026-09-24",
+   "title": "Human-readable digest for 2026-09-25",
    "mediatype": "text/markdown"
   }
  ],
