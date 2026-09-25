@@ -1,5 +1,5 @@
 {
- "date": "2026-09-24",
+ "date": "2026-09-25",
  "picks": [
   {
    "source": "github",
@@ -13,8 +13,8 @@
   },
   {
    "source": "youtube",
-   "title": "Claude Opus 5.5 AI: A Massive Leap Forward",
-   "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0"
+   "title": "What the Hugging Face Incident Reveals About AI Alignment - Noam Brown",
+   "url": "https://www.youtube.com/watch?v=Z88ZUZB2VWs"
   },
   {
    "source": "siliconvalley",
@@ -28,31 +28,31 @@
    "huggingface": 49,
    "youtube": 24,
    "siliconvalley": 29,
-   "arxiv": 47,
-   "arena": 45,
+   "arxiv": 48,
+   "arena": 48,
    "hardware": 25,
-   "compass": 151
+   "compass": 149
   },
   "top_orgs": [
    [
     "Anthropic",
-    20
+    19
+   ],
+   [
+    "Google",
+    16
    ],
    [
     "Lex Clips",
     15
    ],
    [
-    "Google",
+    "OpenAI",
     15
    ],
    [
     "The Robot Report",
     15
-   ],
-   [
-    "OpenAI",
-    14
    ],
    [
     "AMD News",
@@ -64,17 +64,17 @@
    ],
    [
     "Dwarkesh Clips",
-    6
+    7
    ],
    [
     "DeepSeek",
     6
    ],
    [
-    "NVIDIA",
+    "Meta",
     5
    ]
   ],
-  "total": 390
+  "total": 392
  }
 }
