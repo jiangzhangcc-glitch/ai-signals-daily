@@ -1,5 +1,5 @@
 {
- "date": "2026-09-25",
+ "date": "2026-09-26",
  "picks": [
   {
    "source": "github",
@@ -18,29 +18,29 @@
   },
   {
    "source": "siliconvalley",
-   "title": "Would We Send Our Kids to HAA?",
-   "url": "https://www.notboring.co/p/haa"
+   "title": "Weekly Dose of Optimism #212",
+   "url": "https://www.notboring.co/p/weekly-dose-of-optimism-212"
   }
  ],
  "stats": {
   "by_source": {
    "github": 20,
-   "huggingface": 49,
-   "youtube": 24,
-   "siliconvalley": 29,
-   "arxiv": 48,
-   "arena": 48,
+   "huggingface": 50,
+   "youtube": 23,
+   "siliconvalley": 21,
+   "arxiv": 60,
+   "arena": 50,
    "hardware": 25,
-   "compass": 149
+   "compass": 140
   },
   "top_orgs": [
    [
     "Anthropic",
-    19
+    22
    ],
    [
     "Google",
-    16
+    17
    ],
    [
     "Lex Clips",
@@ -64,7 +64,7 @@
    ],
    [
     "Dwarkesh Clips",
-    7
+    6
    ],
    [
     "DeepSeek",
@@ -75,6 +75,6 @@
     5
    ]
   ],
-  "total": 392
+  "total": 389
  }
 }
