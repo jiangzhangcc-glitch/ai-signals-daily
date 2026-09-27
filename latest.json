@@ -1,5 +1,5 @@
 {
- "date": "2026-09-26",
+ "date": "2026-09-27",
  "picks": [
   {
    "source": "github",
@@ -13,8 +13,8 @@
   },
   {
    "source": "youtube",
-   "title": "What the Hugging Face Incident Reveals About AI Alignment - Noam Brown",
-   "url": "https://www.youtube.com/watch?v=Z88ZUZB2VWs"
+   "title": "How Japan's invasion of China led to Pearl Harbor - Sarah Paine",
+   "url": "https://www.youtube.com/watch?v=e_nSyHSmOmo"
   },
   {
    "source": "siliconvalley",
@@ -26,25 +26,21 @@
   "by_source": {
    "github": 20,
    "huggingface": 50,
-   "youtube": 23,
+   "youtube": 19,
    "siliconvalley": 21,
    "arxiv": 60,
    "arena": 50,
    "hardware": 25,
-   "compass": 140
+   "compass": 150
   },
   "top_orgs": [
    [
     "Anthropic",
-    22
+    21
    ],
    [
     "Google",
     17
-   ],
-   [
-    "Lex Clips",
-    15
    ],
    [
     "OpenAI",
@@ -53,6 +49,10 @@
    [
     "The Robot Report",
     15
+   ],
+   [
+    "Lex Clips",
+    11
    ],
    [
     "AMD News",
@@ -75,6 +75,6 @@
     5
    ]
   ],
-  "total": 389
+  "total": 395
  }
 }
