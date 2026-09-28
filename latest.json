@@ -1,5 +1,5 @@
 {
- "date": "2026-09-27",
+ "date": "2026-09-28",
  "picks": [
   {
    "source": "github",
@@ -13,8 +13,8 @@
   },
   {
    "source": "youtube",
-   "title": "How Japan's invasion of China led to Pearl Harbor - Sarah Paine",
-   "url": "https://www.youtube.com/watch?v=e_nSyHSmOmo"
+   "title": "When Japan Started a War and Counted on America to End It - Sarah Paine",
+   "url": "https://www.youtube.com/watch?v=iGVtd2wTz_s"
   },
   {
    "source": "siliconvalley",
@@ -26,9 +26,9 @@
   "by_source": {
    "github": 20,
    "huggingface": 50,
-   "youtube": 19,
-   "siliconvalley": 21,
-   "arxiv": 60,
+   "youtube": 14,
+   "siliconvalley": 29,
+   "arxiv": 52,
    "arena": 50,
    "hardware": 25,
    "compass": 150
@@ -36,7 +36,7 @@
   "top_orgs": [
    [
     "Anthropic",
-    21
+    22
    ],
    [
     "Google",
@@ -51,10 +51,6 @@
     15
    ],
    [
-    "Lex Clips",
-    11
-   ],
-   [
     "AMD News",
     10
    ],
@@ -67,6 +63,10 @@
     6
    ],
    [
+    "Lex Clips",
+    6
+   ],
+   [
     "DeepSeek",
     6
    ],
@@ -75,6 +75,6 @@
     5
    ]
   ],
-  "total": 395
+  "total": 390
  }
 }
