@@ -1,5 +1,5 @@
 {
- "date": "2026-09-29",
+ "date": "2026-09-30",
  "picks": [
   {
    "source": "github",
@@ -13,8 +13,8 @@
   },
   {
    "source": "youtube",
-   "title": "The Gulf War Worked Because America Knew What It Wanted - Sarah Paine",
-   "url": "https://www.youtube.com/watch?v=zIw08QsdY-4"
+   "title": "Why Great Powers Keep Losing to Insurgencies - Sarah Paine",
+   "url": "https://www.youtube.com/watch?v=6tVCx8AMH38"
   },
   {
    "source": "siliconvalley",
@@ -25,18 +25,18 @@
  "stats": {
   "by_source": {
    "github": 20,
-   "huggingface": 50,
-   "youtube": 8,
-   "siliconvalley": 27,
+   "huggingface": 49,
+   "youtube": 7,
+   "siliconvalley": 29,
    "arxiv": 60,
    "arena": 48,
    "hardware": 25,
-   "compass": 150
+   "compass": 138
   },
   "top_orgs": [
    [
     "Anthropic",
-    23
+    24
    ],
    [
     "Google",
@@ -63,18 +63,18 @@
     6
    ],
    [
-    "DeepSeek",
-    6
-   ],
-   [
     "Meta",
     5
    ],
    [
     "NVIDIA",
     5
+   ],
+   [
+    "Kimi",
+    5
    ]
   ],
-  "total": 388
+  "total": 376
  }
 }
