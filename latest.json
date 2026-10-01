@@ -1,5 +1,5 @@
 {
- "date": "2026-09-30",
+ "date": "2026-10-01",
  "picks": [
   {
    "source": "github",
@@ -8,13 +8,13 @@
   },
   {
    "source": "huggingface",
-   "title": "convaiinnovations/laya",
-   "url": "https://huggingface.co/convaiinnovations/laya"
+   "title": "Edge0/Audio8-ASR-Infinite",
+   "url": "https://huggingface.co/Edge0/Audio8-ASR-Infinite"
   },
   {
    "source": "youtube",
-   "title": "Why Great Powers Keep Losing to Insurgencies - Sarah Paine",
-   "url": "https://www.youtube.com/watch?v=6tVCx8AMH38"
+   "title": "Korea Shows Why Every War Needs a Clear Goal - Sarah Paine",
+   "url": "https://www.youtube.com/watch?v=shnwID5sN5Q"
   },
   {
    "source": "siliconvalley",
@@ -26,21 +26,21 @@
   "by_source": {
    "github": 20,
    "huggingface": 49,
-   "youtube": 7,
+   "youtube": 6,
    "siliconvalley": 29,
-   "arxiv": 60,
-   "arena": 48,
+   "arxiv": 53,
+   "arena": 47,
    "hardware": 25,
    "compass": 138
   },
   "top_orgs": [
    [
     "Anthropic",
-    24
+    23
    ],
    [
     "Google",
-    16
+    17
    ],
    [
     "The Robot Report",
@@ -71,10 +71,10 @@
     5
    ],
    [
-    "Kimi",
+    "Google Gemini",
     5
    ]
   ],
-  "total": 376
+  "total": 367
  }
 }
