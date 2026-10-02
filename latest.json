@@ -1,5 +1,5 @@
 {
- "date": "2026-10-01",
+ "date": "2026-10-02",
  "picks": [
   {
    "source": "github",
@@ -8,13 +8,13 @@
   },
   {
    "source": "huggingface",
-   "title": "Edge0/Audio8-ASR-Infinite",
-   "url": "https://huggingface.co/Edge0/Audio8-ASR-Infinite"
+   "title": "convaiinnovations/laya",
+   "url": "https://huggingface.co/convaiinnovations/laya"
   },
   {
    "source": "youtube",
-   "title": "Korea Shows Why Every War Needs a Clear Goal - Sarah Paine",
-   "url": "https://www.youtube.com/watch?v=shnwID5sN5Q"
+   "title": "The Mistake Both Sides Made in the Korean War - Sarah Paine",
+   "url": "https://www.youtube.com/watch?v=NKMHnGb4S1s"
   },
   {
    "source": "siliconvalley",
@@ -27,16 +27,16 @@
    "github": 20,
    "huggingface": 49,
    "youtube": 6,
-   "siliconvalley": 29,
-   "arxiv": 53,
+   "siliconvalley": 31,
+   "arxiv": 57,
    "arena": 47,
    "hardware": 25,
-   "compass": 138
+   "compass": 146
   },
   "top_orgs": [
    [
     "Anthropic",
-    23
+    24
    ],
    [
     "Google",
@@ -55,10 +55,6 @@
     10
    ],
    [
-    "Qwen",
-    8
-   ],
-   [
     "Dwarkesh Clips",
     6
    ],
@@ -71,10 +67,14 @@
     5
    ],
    [
-    "Google Gemini",
+    "DeepSeek",
+    5
+   ],
+   [
+    "Kimi",
     5
    ]
   ],
-  "total": 367
+  "total": 381
  }
 }
