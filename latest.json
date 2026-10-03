@@ -1,5 +1,5 @@
 {
- "date": "2026-10-02",
+ "date": "2026-10-03",
  "picks": [
   {
    "source": "github",
@@ -13,30 +13,30 @@
   },
   {
    "source": "youtube",
-   "title": "The Mistake Both Sides Made in the Korean War - Sarah Paine",
-   "url": "https://www.youtube.com/watch?v=NKMHnGb4S1s"
+   "title": "How 168 Spaniards Captured the Inca Emperor - Si Sheppard",
+   "url": "https://www.youtube.com/watch?v=KbhNeFEqZS4"
   },
   {
    "source": "siliconvalley",
-   "title": "Airbound: As We May Move",
-   "url": "https://www.notboring.co/p/airbound-as-we-may-move"
+   "title": "Weekly Dose of Optimism #213",
+   "url": "https://www.notboring.co/p/weekly-dose-of-optimism-213"
   }
  ],
  "stats": {
   "by_source": {
    "github": 20,
    "huggingface": 49,
-   "youtube": 6,
-   "siliconvalley": 31,
+   "youtube": 7,
+   "siliconvalley": 23,
    "arxiv": 57,
-   "arena": 47,
+   "arena": 46,
    "hardware": 25,
-   "compass": 146
+   "compass": 150
   },
   "top_orgs": [
    [
     "Anthropic",
-    24
+    23
    ],
    [
     "Google",
@@ -48,15 +48,19 @@
    ],
    [
     "OpenAI",
-    14
+    13
    ],
    [
     "AMD News",
     10
    ],
    [
+    "Qwen",
+    8
+   ],
+   [
     "Dwarkesh Clips",
-    6
+    7
    ],
    [
     "Meta",
@@ -69,12 +73,8 @@
    [
     "DeepSeek",
     5
-   ],
-   [
-    "Kimi",
-    5
    ]
   ],
-  "total": 381
+  "total": 377
  }
 }
