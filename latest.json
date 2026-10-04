@@ -1,5 +1,5 @@
 {
- "date": "2026-10-03",
+ "date": "2026-10-04",
  "picks": [
   {
    "source": "github",
@@ -8,13 +8,13 @@
   },
   {
    "source": "huggingface",
-   "title": "convaiinnovations/laya",
-   "url": "https://huggingface.co/convaiinnovations/laya"
+   "title": "Cloudflare/clef",
+   "url": "https://huggingface.co/Cloudflare/clef"
   },
   {
    "source": "youtube",
-   "title": "How 168 Spaniards Captured the Inca Emperor - Si Sheppard",
-   "url": "https://www.youtube.com/watch?v=KbhNeFEqZS4"
+   "title": "Why Spain’s New World Riches Backfired - Si Sheppard",
+   "url": "https://www.youtube.com/watch?v=KO8JE7XK4Gs"
   },
   {
    "source": "siliconvalley",
@@ -27,16 +27,16 @@
    "github": 20,
    "huggingface": 49,
    "youtube": 7,
-   "siliconvalley": 23,
+   "siliconvalley": 21,
    "arxiv": 57,
    "arena": 46,
    "hardware": 25,
-   "compass": 150
+   "compass": 151
   },
   "top_orgs": [
    [
     "Anthropic",
-    23
+    24
    ],
    [
     "Google",
@@ -75,6 +75,6 @@
     5
    ]
   ],
-  "total": 377
+  "total": 376
  }
 }
