@@ -1,5 +1,5 @@
 {
- "date": "2026-10-04",
+ "date": "2026-10-05",
  "picks": [
   {
    "source": "github",
@@ -13,8 +13,8 @@
   },
   {
    "source": "youtube",
-   "title": "Why Spain’s New World Riches Backfired - Si Sheppard",
-   "url": "https://www.youtube.com/watch?v=KO8JE7XK4Gs"
+   "title": "The Billion Dollar AI Advantage Is Disappearing",
+   "url": "https://www.youtube.com/watch?v=ZHVNTTKu9fU"
   },
   {
    "source": "siliconvalley",
@@ -26,17 +26,17 @@
   "by_source": {
    "github": 20,
    "huggingface": 49,
-   "youtube": 7,
-   "siliconvalley": 21,
-   "arxiv": 57,
+   "youtube": 8,
+   "siliconvalley": 31,
+   "arxiv": 67,
    "arena": 46,
    "hardware": 25,
-   "compass": 151
+   "compass": 138
   },
   "top_orgs": [
    [
     "Anthropic",
-    24
+    22
    ],
    [
     "Google",
@@ -75,6 +75,6 @@
     5
    ]
   ],
-  "total": 376
+  "total": 384
  }
 }
