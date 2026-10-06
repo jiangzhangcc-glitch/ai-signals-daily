@@ -1,5 +1,5 @@
 {
- "date": "2026-10-05",
+ "date": "2026-10-06",
  "picks": [
   {
    "source": "github",
@@ -13,8 +13,8 @@
   },
   {
    "source": "youtube",
-   "title": "The Billion Dollar AI Advantage Is Disappearing",
-   "url": "https://www.youtube.com/watch?v=ZHVNTTKu9fU"
+   "title": "Cortés fought other Spaniards while conquering the Aztecs - Si Sheppard",
+   "url": "https://www.youtube.com/watch?v=3yEg-eQozvU"
   },
   {
    "source": "siliconvalley",
@@ -27,16 +27,16 @@
    "github": 20,
    "huggingface": 49,
    "youtube": 8,
-   "siliconvalley": 31,
-   "arxiv": 67,
+   "siliconvalley": 21,
+   "arxiv": 58,
    "arena": 46,
    "hardware": 25,
-   "compass": 138
+   "compass": 140
   },
   "top_orgs": [
    [
     "Anthropic",
-    22
+    23
    ],
    [
     "Google",
@@ -55,8 +55,12 @@
     10
    ],
    [
-    "Qwen",
+    "hf-tiny-v2",
     8
+   ],
+   [
+    "Qwen",
+    7
    ],
    [
     "Dwarkesh Clips",
@@ -69,12 +73,8 @@
    [
     "NVIDIA",
     5
-   ],
-   [
-    "DeepSeek",
-    5
    ]
   ],
-  "total": 384
+  "total": 367
  }
 }
