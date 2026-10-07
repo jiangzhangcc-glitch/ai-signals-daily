@@ -1,5 +1,5 @@
 {
- "date": "2026-10-06",
+ "date": "2026-10-07",
  "picks": [
   {
    "source": "github",
@@ -13,8 +13,8 @@
   },
   {
    "source": "youtube",
-   "title": "Cortés fought other Spaniards while conquering the Aztecs - Si Sheppard",
-   "url": "https://www.youtube.com/watch?v=3yEg-eQozvU"
+   "title": "Why the Aztecs couldn’t adapt to the Spanish — Si Sheppard",
+   "url": "https://www.youtube.com/watch?v=TvKNejVXxqM"
   },
   {
    "source": "siliconvalley",
@@ -27,16 +27,16 @@
    "github": 20,
    "huggingface": 49,
    "youtube": 8,
-   "siliconvalley": 21,
-   "arxiv": 58,
-   "arena": 46,
+   "siliconvalley": 31,
+   "arxiv": 64,
+   "arena": 47,
    "hardware": 25,
-   "compass": 140
+   "compass": 150
   },
   "top_orgs": [
    [
     "Anthropic",
-    23
+    24
    ],
    [
     "Google",
@@ -55,10 +55,6 @@
     10
    ],
    [
-    "hf-tiny-v2",
-    8
-   ],
-   [
     "Qwen",
     7
    ],
@@ -73,8 +69,12 @@
    [
     "NVIDIA",
     5
+   ],
+   [
+    "DeepSeek",
+    5
    ]
   ],
-  "total": 367
+  "total": 394
  }
 }
