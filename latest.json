@@ -1,5 +1,5 @@
 {
- "date": "2026-10-07",
+ "date": "2026-10-08",
  "picks": [
   {
    "source": "github",
@@ -8,13 +8,13 @@
   },
   {
    "source": "huggingface",
-   "title": "Cloudflare/clef",
-   "url": "https://huggingface.co/Cloudflare/clef"
+   "title": "autotrust/JEV-27B-VL",
+   "url": "https://huggingface.co/autotrust/JEV-27B-VL"
   },
   {
    "source": "youtube",
-   "title": "Why the Aztecs couldn’t adapt to the Spanish — Si Sheppard",
-   "url": "https://www.youtube.com/watch?v=TvKNejVXxqM"
+   "title": "What the Aztec and Inca emperors got wrong about the Spanish — Si Sheppard",
+   "url": "https://www.youtube.com/watch?v=dpjf-6wZhSg"
   },
   {
    "source": "siliconvalley",
@@ -26,12 +26,12 @@
   "by_source": {
    "github": 20,
    "huggingface": 49,
-   "youtube": 8,
+   "youtube": 9,
    "siliconvalley": 31,
    "arxiv": 64,
    "arena": 47,
    "hardware": 25,
-   "compass": 150
+   "compass": 151
   },
   "top_orgs": [
    [
@@ -75,6 +75,6 @@
     5
    ]
   ],
-  "total": 394
+  "total": 396
  }
 }
