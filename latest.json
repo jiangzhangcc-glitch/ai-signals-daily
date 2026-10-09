@@ -1,5 +1,5 @@
 {
- "date": "2026-10-08",
+ "date": "2026-10-09",
  "picks": [
   {
    "source": "github",
@@ -13,8 +13,8 @@
   },
   {
    "source": "youtube",
-   "title": "What the Aztec and Inca emperors got wrong about the Spanish — Si Sheppard",
-   "url": "https://www.youtube.com/watch?v=dpjf-6wZhSg"
+   "title": "Why the Maya were harder to conquer than the Aztecs — Si Sheppard",
+   "url": "https://www.youtube.com/watch?v=rGjIBv-nAQw"
   },
   {
    "source": "siliconvalley",
@@ -28,10 +28,10 @@
    "huggingface": 49,
    "youtube": 9,
    "siliconvalley": 31,
-   "arxiv": 64,
+   "arxiv": 62,
    "arena": 47,
    "hardware": 25,
-   "compass": 151
+   "compass": 140
   },
   "top_orgs": [
    [
@@ -48,7 +48,7 @@
    ],
    [
     "OpenAI",
-    13
+    12
    ],
    [
     "AMD News",
@@ -75,6 +75,6 @@
     5
    ]
   ],
-  "total": 396
+  "total": 383
  }
 }
