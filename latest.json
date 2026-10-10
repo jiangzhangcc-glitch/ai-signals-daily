@@ -1,5 +1,5 @@
 {
- "date": "2026-10-09",
+ "date": "2026-10-10",
  "picks": [
   {
    "source": "github",
@@ -8,35 +8,35 @@
   },
   {
    "source": "huggingface",
-   "title": "autotrust/JEV-27B-VL",
-   "url": "https://huggingface.co/autotrust/JEV-27B-VL"
+   "title": "google/embeddinggemma-2",
+   "url": "https://huggingface.co/google/embeddinggemma-2"
   },
   {
    "source": "youtube",
-   "title": "Why the Maya were harder to conquer than the Aztecs — Si Sheppard",
-   "url": "https://www.youtube.com/watch?v=rGjIBv-nAQw"
+   "title": "Why the Aztecs were doomed - Si Sheppard",
+   "url": "https://www.youtube.com/watch?v=W5AzhHqawpU"
   },
   {
    "source": "siliconvalley",
-   "title": "Weekly Dose of Optimism #213",
-   "url": "https://www.notboring.co/p/weekly-dose-of-optimism-213"
+   "title": "Weekly Dose of Optimism #214",
+   "url": "https://www.notboring.co/p/weekly-dose-of-optimism-214"
   }
  ],
  "stats": {
   "by_source": {
    "github": 20,
-   "huggingface": 49,
+   "huggingface": 48,
    "youtube": 9,
-   "siliconvalley": 31,
+   "siliconvalley": 23,
    "arxiv": 62,
    "arena": 47,
    "hardware": 25,
-   "compass": 140
+   "compass": 150
   },
   "top_orgs": [
    [
     "Anthropic",
-    24
+    23
    ],
    [
     "Google",
@@ -48,7 +48,7 @@
    ],
    [
     "OpenAI",
-    12
+    13
    ],
    [
     "AMD News",
@@ -56,7 +56,7 @@
    ],
    [
     "Qwen",
-    7
+    8
    ],
    [
     "Dwarkesh Clips",
@@ -75,6 +75,6 @@
     5
    ]
   ],
-  "total": 383
+  "total": 384
  }
 }
