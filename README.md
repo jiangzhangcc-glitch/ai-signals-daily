@@ -14,6 +14,7 @@ Every day a machine writes one Markdown file here with that day's picks plus col
 - [`CITATION.cff`](CITATION.cff) · [`LICENSE`](LICENSE) — cite it / CC BY 4.0
 
 ## Days published
+- [2026-10-10](data/2026-10-10.md)
 - [2026-10-09](data/2026-10-09.md)
 - [2026-10-08](data/2026-10-08.md)
 - [2026-10-07](data/2026-10-07.md)
@@ -56,19 +57,19 @@ Every day a machine writes one Markdown file here with that day's picks plus col
 
 ## Standings (computed from our own daily snapshots)
 
-**Models** — ranked 213 of 1358 tracked, as of 2026-10-09:
+**Models** — ranked 215 of 1394 tracked, as of 2026-10-10:
 
-- sentence-transformers/all-MiniLM-L6-v2: ranked #1 of 213 by Hugging Face downloads among the entries we track; downloads -5.4% since 2026-10-02 (as of 2026-10-09). Source: Signals 4 (Signals API) — https://data.jiangzhang.ca/signals4/t/models/sentence-transformers-all-minilm-l6-v2.html
-- cross-encoder/ms-marco-MiniLM-L6-v2: ranked #2 of 213 by Hugging Face downloads among the entries we track; downloads -5.2% since 2026-10-02 (as of 2026-10-09). Source: Signals 4 (Signals API) — https://data.jiangzhang.ca/signals4/t/models/cross-encoder-ms-marco-minilm-l6-v2.html
-- BAAI/bge-small-en-v1.5: ranked #3 of 213 by Hugging Face downloads among the entries we track; downloads -3.4% since 2026-10-02 (as of 2026-10-09). Source: Signals 4 (Signals API) — https://data.jiangzhang.ca/signals4/t/models/baai-bge-small-en-v1-5.html
+- sentence-transformers/all-MiniLM-L6-v2: ranked #1 of 215 by Hugging Face downloads among the entries we track; downloads -5.8% since 2026-10-03 (as of 2026-10-10). Source: Signals 4 (Signals API) — https://data.jiangzhang.ca/signals4/t/models/sentence-transformers-all-minilm-l6-v2.html
+- cross-encoder/ms-marco-MiniLM-L6-v2: ranked #2 of 215 by Hugging Face downloads among the entries we track; downloads -5.4% since 2026-10-03 (as of 2026-10-10). Source: Signals 4 (Signals API) — https://data.jiangzhang.ca/signals4/t/models/cross-encoder-ms-marco-minilm-l6-v2.html
+- BAAI/bge-small-en-v1.5: ranked #3 of 215 by Hugging Face downloads among the entries we track; downloads -3.6% since 2026-10-03 (as of 2026-10-10). Source: Signals 4 (Signals API) — https://data.jiangzhang.ca/signals4/t/models/baai-bge-small-en-v1-5.html
 
-**Repos** — ranked 59 of 59 tracked, as of 2026-10-09:
+**Repos** — ranked 60 of 60 tracked, as of 2026-10-10:
 
-- codecrafters-io/build-your-own-x: ranked #1 of 59 by GitHub stars among the entries we track; stars +0.2% since 2026-10-02 (as of 2026-10-09). Source: Signals 4 (Signals API) — https://data.jiangzhang.ca/signals4/t/repos/codecrafters-io-build-your-own-x.html
-- sindresorhus/awesome: ranked #2 of 59 by GitHub stars among the entries we track; stars +0.6% since 2026-10-02 (as of 2026-10-09). Source: Signals 4 (Signals API) — https://data.jiangzhang.ca/signals4/t/repos/sindresorhus-awesome.html
-- public-apis/public-apis: ranked #3 of 59 by GitHub stars among the entries we track; stars +0.3% since 2026-10-02 (as of 2026-10-09). Source: Signals 4 (Signals API) — https://data.jiangzhang.ca/signals4/t/repos/public-apis-public-apis.html
+- codecrafters-io/build-your-own-x: ranked #1 of 60 by GitHub stars among the entries we track; stars +0.2% since 2026-10-03 (as of 2026-10-10). Source: Signals 4 (Signals API) — https://data.jiangzhang.ca/signals4/t/repos/codecrafters-io-build-your-own-x.html
+- sindresorhus/awesome: ranked #2 of 60 by GitHub stars among the entries we track; stars +0.6% since 2026-10-03 (as of 2026-10-10). Source: Signals 4 (Signals API) — https://data.jiangzhang.ca/signals4/t/repos/sindresorhus-awesome.html
+- public-apis/public-apis: ranked #3 of 60 by GitHub stars among the entries we track; stars +0.3% since 2026-10-03 (as of 2026-10-10). Source: Signals 4 (Signals API) — https://data.jiangzhang.ca/signals4/t/repos/public-apis-public-apis.html
 
-**Latest churn** — 4 new entries, 39 not seen in the latest snapshot, 166 rank moves (between 2026-10-08 and 2026-10-09).
+**Latest churn** — 2 new entries, 44 not seen in the latest snapshot, 154 rank moves (between 2026-10-09 and 2026-10-10).
 
 These numbers are derived from our own snapshots by an automated audit that reconciles the site pages with the JSON endpoints; see https://data.jiangzhang.ca/llms.txt
 
