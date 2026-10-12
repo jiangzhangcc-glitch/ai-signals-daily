@@ -1,5 +1,5 @@
 {
- "date": "2026-10-11",
+ "date": "2026-10-12",
  "picks": [
   {
    "source": "github",
@@ -13,8 +13,8 @@
   },
   {
    "source": "youtube",
-   "title": "Why the conquistadors thought they could win — Si Sheppard",
-   "url": "https://www.youtube.com/watch?v=3ZmX6Kog8sQ"
+   "title": "Why divide and conquer worked for Spain — Si Sheppard",
+   "url": "https://www.youtube.com/watch?v=ybw4AluWjas"
   },
   {
    "source": "siliconvalley",
@@ -27,11 +27,11 @@
    "github": 20,
    "huggingface": 48,
    "youtube": 9,
-   "siliconvalley": 23,
-   "arxiv": 62,
+   "siliconvalley": 31,
+   "arxiv": 68,
    "arena": 47,
    "hardware": 25,
-   "compass": 150
+   "compass": 149
   },
   "top_orgs": [
    [
@@ -75,6 +75,6 @@
     5
    ]
   ],
-  "total": 384
+  "total": 397
  }
 }
