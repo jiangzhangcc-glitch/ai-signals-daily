@@ -1,5 +1,5 @@
 {
- "date": "2026-10-12",
+ "date": "2026-10-13",
  "picks": [
   {
    "source": "github",
@@ -13,8 +13,8 @@
   },
   {
    "source": "youtube",
-   "title": "Why divide and conquer worked for Spain — Si Sheppard",
-   "url": "https://www.youtube.com/watch?v=ybw4AluWjas"
+   "title": "OpenAI Just Changed What It Means To Do Math",
+   "url": "https://www.youtube.com/watch?v=z_sXLlLVUls"
   },
   {
    "source": "siliconvalley",
@@ -26,12 +26,12 @@
   "by_source": {
    "github": 20,
    "huggingface": 48,
-   "youtube": 9,
+   "youtube": 10,
    "siliconvalley": 31,
    "arxiv": 68,
    "arena": 47,
    "hardware": 25,
-   "compass": 149
+   "compass": 140
   },
   "top_orgs": [
    [
@@ -75,6 +75,6 @@
     5
    ]
   ],
-  "total": 397
+  "total": 389
  }
 }
