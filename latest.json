@@ -1,5 +1,5 @@
 {
- "date": "2026-10-13",
+ "date": "2026-10-14",
  "picks": [
   {
    "source": "github",
@@ -13,8 +13,8 @@
   },
   {
    "source": "youtube",
-   "title": "OpenAI’s New AI Is Doing Things We Barely Understand",
-   "url": "https://www.youtube.com/watch?v=z_sXLlLVUls"
+   "title": "Eating everything at a Taiwanese Night Market with Jensen Huang | Lex Fridman",
+   "url": "https://www.youtube.com/watch?v=DZ4bXbFmtxk"
   },
   {
    "source": "siliconvalley",
@@ -26,12 +26,12 @@
   "by_source": {
    "github": 20,
    "huggingface": 49,
-   "youtube": 12,
-   "siliconvalley": 31,
-   "arxiv": 68,
+   "youtube": 11,
+   "siliconvalley": 23,
+   "arxiv": 53,
    "arena": 47,
    "hardware": 25,
-   "compass": 150
+   "compass": 151
   },
   "top_orgs": [
    [
@@ -59,6 +59,10 @@
     8
    ],
    [
+    "Dwarkesh Clips",
+    7
+   ],
+   [
     "Meta",
     5
    ],
@@ -69,13 +73,9 @@
    [
     "DeepSeek",
     5
-   ],
-   [
-    "Kimi",
-    5
    ]
   ],
-  "total": 402
+  "total": 379
  },
  "source": {
   "name": "Signals 4 (Signals API)",
