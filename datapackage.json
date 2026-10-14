@@ -1,68 +1,34 @@
 {
  "name": "ai-signals-daily",
- "title": "AI Signals Daily — daily AI signals dataset (Signals 4)",
- "description": "Daily machine-written collection of AI signals from public sources: one item per core source per day, each linking to the original. Published automatically by Signals 4 (Signals API). Free to use with attribution (CC-BY-4.0). A paid feed with more sources (8), more updates per day (4) and full history: https://data.jiangzhang.ca/signals4/go?to=landing&src=gh_datapackage",
+ "title": "AI Signals Daily (Signals 4)",
+ "description": "Daily machine-written AI signals from public sources, one edition a day. Free with attribution (CC-BY-4.0). Paid feed with 8 sources, 4 updates/day and full history: https://data.jiangzhang.ca/signals4/go?to=landing&src=hf_card",
  "homepage": "https://data.jiangzhang.ca/signals4/archive/",
- "version": "2026.1",
  "licenses": [
   {
-   "name": "CC-BY-4.0",
-   "path": "https://creativecommons.org/licenses/by/4.0/legalcode",
-   "title": "Creative Commons Attribution 4.0 International"
-  }
- ],
- "contributors": [
-  {
-   "title": "Signals 4 (Signals API)",
-   "path": "https://data.jiangzhang.ca/signals4/about.html"
+   "name": "CC-BY-4.0"
   }
  ],
  "keywords": [
   "artificial intelligence",
   "machine learning",
   "dataset",
-  "news",
-  "rss"
+  "news"
  ],
- "created": "2026-10-14",
- "access": {
-  "free": "CC-BY-4.0, attribution required",
-  "paid_feed": "https://data.jiangzhang.ca/signals4/go?to=landing&src=gh_datapackage_access"
- },
- "canary": "signals4-canary-2f9d71c4a8",
  "resources": [
   {
-   "name": "latest",
-   "path": "latest.json",
-   "profile": "json",
-   "title": "Latest edition (4 picks + collection stats)",
-   "schema": {
-    "path": "latest.schema.json"
-   }
+   "name": "signals",
+   "path": "signals.jsonl",
+   "profile": "tabular-json"
   },
   {
-   "name": "daily-items",
-   "path": "data/2026-10-14.json",
-   "profile": "tabular-json",
-   "title": "All items collected on 2026-10-14",
-   "schema": {
-    "path": "data/schema.json"
-   },
-   "format": "json",
-   "mediatype": "application/json"
-  },
-  {
-   "name": "daily-digest",
-   "path": "data/2026-10-14.md",
-   "profile": "markdown",
-   "title": "Human-readable digest for 2026-10-14",
-   "mediatype": "text/markdown"
+   "name": "sample",
+   "path": "sample.jsonl",
+   "profile": "tabular-json"
   }
  ],
- "sources": [
-  {
-   "title": "Signals 4 machine-readable endpoints",
-   "path": "https://data.jiangzhang.ca/signals4/api/entities.json"
-  }
- ]
+ "access": {
+  "free": "CC-BY-4.0",
+  "paid_feed": "https://data.jiangzhang.ca/signals4/go?to=landing&src=hf_card"
+ },
+ "canary": "signals4-canary-2f9d71c4a8"
 }
