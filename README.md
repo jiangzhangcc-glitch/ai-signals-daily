@@ -112,7 +112,14 @@ curl -s https://data.jiangzhang.ca/signals4/api/entities.json | python3 -c "impo
 ## Use it
 Free to read, quote and cite. Raw JSON is available for analysis; the paid plans of Signals API add more boards, API access and searchable history.
 
+**Building something on this? Read this first.** This repo is free for commercial use too (CC BY 4.0, attribution only).
+If you need more than one edition a day, more than 4 sources, or the full history as an API:
+
+→ **[What the paid feed includes (https://data.jiangzhang.ca/signals4/go?to=landing&src=gh_readme)](https://data.jiangzhang.ca/signals4/go?to=landing&src=gh_readme)** — 8 sources, 4 updates/day, full history, stable API key.
+
 - Digest archive: https://data.jiangzhang.ca/signals4/archive/
 - RSS: https://data.jiangzhang.ca/signals4/feed.xml
 - Machine-readable site summary: https://data.jiangzhang.ca/llms.txt
 - JSON endpoints (models/repos/arena/papers/changes): https://data.jiangzhang.ca/signals4/api/entities.json
+
+Provenance canary: `signals4-canary-2f9d71c4a8` (if you mirror this data, keep the attribution line).
