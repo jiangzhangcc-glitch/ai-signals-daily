@@ -1,7 +1,7 @@
 {
  "name": "ai-signals-daily",
  "title": "AI Signals Daily — daily AI signals dataset (Signals 4)",
- "description": "Daily machine-written collection of AI signals from public sources: one item per core source per day, each linking to the original. Published automatically by Signals 4 (Signals API).",
+ "description": "Daily machine-written collection of AI signals from public sources: one item per core source per day, each linking to the original. Published automatically by Signals 4 (Signals API). Free to use with attribution (CC-BY-4.0). A paid feed with more sources (8), more updates per day (4) and full history: https://data.jiangzhang.ca/signals4/go?to=landing&src=gh_datapackage",
  "homepage": "https://data.jiangzhang.ca/signals4/archive/",
  "version": "2026.1",
  "licenses": [
@@ -24,7 +24,12 @@
   "news",
   "rss"
  ],
- "created": "2026-10-13",
+ "created": "2026-10-14",
+ "access": {
+  "free": "CC-BY-4.0, attribution required",
+  "paid_feed": "https://data.jiangzhang.ca/signals4/go?to=landing&src=gh_datapackage_access"
+ },
+ "canary": "signals4-canary-2f9d71c4a8",
  "resources": [
   {
    "name": "latest",
@@ -37,9 +42,9 @@
   },
   {
    "name": "daily-items",
-   "path": "data/2026-10-13.json",
+   "path": "data/2026-10-14.json",
    "profile": "tabular-json",
-   "title": "All items collected on 2026-10-13",
+   "title": "All items collected on 2026-10-14",
    "schema": {
     "path": "data/schema.json"
    },
@@ -48,9 +53,9 @@
   },
   {
    "name": "daily-digest",
-   "path": "data/2026-10-13.md",
+   "path": "data/2026-10-14.md",
    "profile": "markdown",
-   "title": "Human-readable digest for 2026-10-13",
+   "title": "Human-readable digest for 2026-10-14",
    "mediatype": "text/markdown"
   }
  ],
