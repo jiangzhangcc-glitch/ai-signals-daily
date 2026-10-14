@@ -17,13 +17,15 @@
  "resources": [
   {
    "name": "signals",
-   "path": "signals.jsonl",
-   "profile": "tabular-json"
+   "path": "https://github.com/jiangzhangcc-glitch/ai-signals-daily/releases/download/data-latest/signals.jsonl",
+   "profile": "tabular-json",
+   "mediatype": "application/x-ndjson"
   },
   {
    "name": "sample",
-   "path": "sample.jsonl",
-   "profile": "tabular-json"
+   "path": "https://github.com/jiangzhangcc-glitch/ai-signals-daily/releases/download/data-latest/sample.jsonl",
+   "profile": "tabular-json",
+   "mediatype": "application/x-ndjson"
   }
  ],
  "access": {
