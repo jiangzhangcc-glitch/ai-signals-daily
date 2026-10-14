@@ -27,7 +27,8 @@
  "created": "2026-10-14",
  "access": {
   "free": "CC-BY-4.0, attribution required",
-  "paid_feed": "https://data.jiangzhang.ca/signals4/go?to=landing&src=gh_datapackage_access"
+  "paid_feed": "https://data.jiangzhang.ca/signals4/go?to=landing&src=gh_datapackage_access",
+  "one_time_purchase": "https://buy.stripe.com/00w28r4W08qq8CcecHgw008"
  },
  "canary": "signals4-canary-2f9d71c4a8",
  "resources": [
