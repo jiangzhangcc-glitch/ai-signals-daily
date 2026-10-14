@@ -13,8 +13,8 @@
   },
   {
    "source": "youtube",
-   "title": "Eating everything at a Taiwanese Night Market with Jensen Huang | Lex Fridman",
-   "url": "https://www.youtube.com/watch?v=DZ4bXbFmtxk"
+   "title": "Lex Fridman drinking Taiwanese beer with Jensen Huang (in Taiwan)",
+   "url": "https://www.youtube.com/watch?v=NZLx_XntJds"
   },
   {
    "source": "siliconvalley",
@@ -26,12 +26,12 @@
   "by_source": {
    "github": 20,
    "huggingface": 49,
-   "youtube": 11,
+   "youtube": 12,
    "siliconvalley": 23,
-   "arxiv": 53,
+   "arxiv": 40,
    "arena": 47,
    "hardware": 25,
-   "compass": 151
+   "compass": 141
   },
   "top_orgs": [
    [
@@ -49,6 +49,10 @@
    [
     "OpenAI",
     13
+   ],
+   [
+    "putty77",
+    10
    ],
    [
     "AMD News",
@@ -69,19 +73,16 @@
    [
     "NVIDIA",
     5
-   ],
-   [
-    "DeepSeek",
-    5
    ]
   ],
-  "total": 379
+  "total": 357
  },
  "source": {
   "name": "Signals 4 (Signals API)",
   "digest": "https://data.jiangzhang.ca/signals4/latest.html",
   "api": "https://data.jiangzhang.ca/signals4/api/latest.json",
   "more_sources_and_history": "https://data.jiangzhang.ca/signals4/go?to=landing&src=gh_latest_json",
+  "one_time_purchase": "https://buy.stripe.com/00w28r4W08qq8CcecHgw008",
   "canary": "signals4-canary-2f9d71c4a8"
  }
 }
