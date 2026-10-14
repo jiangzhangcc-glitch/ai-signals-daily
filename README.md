@@ -117,6 +117,7 @@ Free to read, quote and cite. Raw JSON is available for analysis; the paid plans
 If you need more than one edition a day, more than 4 sources, or the full history as an API:
 
 → **[What the paid feed includes (https://data.jiangzhang.ca/signals4/go?to=landing&src=gh_readme)](https://data.jiangzhang.ca/signals4/go?to=landing&src=gh_readme)** — 8 sources, 4 updates/day, full history, stable API key.
+→ **One-time purchase (CA$5, no subscription): https://buy.stripe.com/00w28r4W08qq8CcecHgw008** — the whole archived dataset as JSONL.
 
 - Digest archive: https://data.jiangzhang.ca/signals4/archive/
 - RSS: https://data.jiangzhang.ca/signals4/feed.xml
