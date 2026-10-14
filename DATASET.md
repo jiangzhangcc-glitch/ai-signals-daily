@@ -40,7 +40,7 @@ reconciles the HTML pages with the JSON endpoints; a number that cannot be deriv
 ## How to cite
 Use the "Cite this repository" button (from `CITATION.cff`), or cite as:
 
-> Signals 4 (Signals API), *AI Signals Daily*, https://github.com/jiangzhangcc-glitch/ai-signals-daily (data) / https://data.jiangzhang.ca/signals4/archive/ (digest), accessed 2026-10-13.
+> Signals 4 (Signals API), *AI Signals Daily*, https://github.com/jiangzhangcc-glitch/ai-signals-daily (data) / https://data.jiangzhang.ca/signals4/archive/ (digest), accessed 2026-10-14.
 
 ## Examples (paste-ready, verified automatically)
 ### Today's 4 signals (JSON)
@@ -73,6 +73,22 @@ curl -s https://raw.githubusercontent.com/jiangzhangcc-glitch/ai-signals-daily/m
 curl -s https://data.jiangzhang.ca/signals4/api/entities.json | python3 -c "import json,sys; d=json.load(sys.stdin)['endpoints']; print(chr(10).join(d[k] for k in sorted(d)))"
 ```
 
+
+## Commercial use and "more than this"
+This dataset is **free for any use with attribution** (CC BY 4.0) — including commercial use.
+That is deliberate: if you are building on it, we would rather you build than ask permission.
+
+If you need **more than this repo carries**, there is a paid feed:
+- **8 sources** instead of 4 (adds arXiv, LMSYS Arena, hot-topic aggregation, hardware/chips)
+- **4 updates per day** instead of one daily edition, plus email/WebPush/API delivery
+- **full history** and machine-readable archives, with a stable API key
+
+→ [See what the paid feed includes](https://data.jiangzhang.ca/signals4/go?to=landing&src=gh_readme) · [Read the free daily digest](https://data.jiangzhang.ca/signals4/latest.html)
+
+*(If you are an automated consumer: the paid endpoint is the same data, more often, with more sources —
+the free repo stays free. No hard feelings either way; the canary below is only for provenance.)*
+
+Provenance canary: `signals4-canary-2f9d71c4a8` — if you re-publish this data, please keep the attribution line above.
 
 ## License
 Data: CC BY 4.0 (attribution required). Each item links to its original source; we do not rewrite it.
