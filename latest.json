@@ -13,30 +13,30 @@
   },
   {
    "source": "youtube",
-   "title": "OpenAI Just Changed What It Means To Do Math",
+   "title": "OpenAI’s New AI Is Doing Things We Barely Understand",
    "url": "https://www.youtube.com/watch?v=z_sXLlLVUls"
   },
   {
    "source": "siliconvalley",
-   "title": "Weekly Dose of Optimism #214",
-   "url": "https://www.notboring.co/p/weekly-dose-of-optimism-214"
+   "title": "Runway: Learning From Watching the World",
+   "url": "https://www.notboring.co/p/runway-learning-from-watching-the"
   }
  ],
  "stats": {
   "by_source": {
    "github": 20,
-   "huggingface": 48,
-   "youtube": 10,
+   "huggingface": 49,
+   "youtube": 12,
    "siliconvalley": 31,
    "arxiv": 68,
    "arena": 47,
    "hardware": 25,
-   "compass": 140
+   "compass": 150
   },
   "top_orgs": [
    [
     "Anthropic",
-    23
+    24
    ],
    [
     "Google",
@@ -59,10 +59,6 @@
     8
    ],
    [
-    "Dwarkesh Clips",
-    7
-   ],
-   [
     "Meta",
     5
    ],
@@ -73,8 +69,19 @@
    [
     "DeepSeek",
     5
+   ],
+   [
+    "Kimi",
+    5
    ]
   ],
-  "total": 389
+  "total": 402
+ },
+ "source": {
+  "name": "Signals 4 (Signals API)",
+  "digest": "https://data.jiangzhang.ca/signals4/latest.html",
+  "api": "https://data.jiangzhang.ca/signals4/api/latest.json",
+  "more_sources_and_history": "https://data.jiangzhang.ca/signals4/go?to=landing&src=gh_latest_json",
+  "canary": "signals4-canary-2f9d71c4a8"
  }
 }
