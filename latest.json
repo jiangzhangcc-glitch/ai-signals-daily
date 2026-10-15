@@ -13,8 +13,8 @@
   },
   {
    "source": "youtube",
-   "title": "Lex Fridman drinking Taiwanese beer with Jensen Huang (in Taiwan)",
-   "url": "https://www.youtube.com/watch?v=NZLx_XntJds"
+   "title": "OpenAI’s New AI Is Doing Things We Barely Understand",
+   "url": "https://www.youtube.com/watch?v=z_sXLlLVUls"
   },
   {
    "source": "siliconvalley",
@@ -25,13 +25,13 @@
  "stats": {
   "by_source": {
    "github": 20,
-   "huggingface": 49,
-   "youtube": 12,
+   "huggingface": 48,
+   "youtube": 11,
    "siliconvalley": 23,
-   "arxiv": 40,
+   "arxiv": 53,
    "arena": 47,
    "hardware": 25,
-   "compass": 141
+   "compass": 151
   },
   "top_orgs": [
    [
@@ -51,10 +51,6 @@
     13
    ],
    [
-    "putty77",
-    10
-   ],
-   [
     "AMD News",
     10
    ],
@@ -63,24 +59,29 @@
     8
    ],
    [
-    "Dwarkesh Clips",
-    7
-   ],
-   [
     "Meta",
     5
    ],
    [
     "NVIDIA",
     5
+   ],
+   [
+    "DeepSeek",
+    5
+   ],
+   [
+    "Kimi",
+    5
    ]
   ],
-  "total": 357
+  "total": 378
  },
  "source": {
   "name": "Signals 4 (Signals API)",
   "digest": "https://data.jiangzhang.ca/signals4/latest.html",
-  "api": "https://data.jiangzhang.ca/signals4/api/latest.json",
+  "api": "https://data.jiangzhang.ca/signals4/api/today.json",
+  "archive_api": "https://data.jiangzhang.ca/signals4/api/archive.json",
   "more_sources_and_history": "https://data.jiangzhang.ca/signals4/go?to=landing&src=gh_latest_json",
   "one_time_purchase": "https://buy.stripe.com/00w28r4W08qq8CcecHgw008",
   "canary": "signals4-canary-2f9d71c4a8"
