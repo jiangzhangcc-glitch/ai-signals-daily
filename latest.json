@@ -1,5 +1,5 @@
 {
- "date": "2026-10-15",
+ "date": "2026-10-16",
  "picks": [
   {
    "source": "github",
@@ -13,8 +13,8 @@
   },
   {
    "source": "youtube",
-   "title": "Trying the world's smelliest fruit (Durian) in Taiwan | Lex Fridman and Jensen Huang",
-   "url": "https://www.youtube.com/watch?v=hDZgd6q76IE"
+   "title": "NVIDIA party with Jensen Huang in Taiwan | Lex Fridman",
+   "url": "https://www.youtube.com/watch?v=PGsfYxNi_c0"
   },
   {
    "source": "siliconvalley",
@@ -26,11 +26,11 @@
   "by_source": {
    "github": 20,
    "huggingface": 49,
-   "youtube": 14,
+   "youtube": 17,
    "siliconvalley": 31,
-   "arxiv": 54,
+   "arxiv": 60,
    "hardware": 25,
-   "compass": 139
+   "compass": 150
   },
   "top_orgs": [
    [
@@ -50,12 +50,12 @@
     8
    ],
    [
-    "Dwarkesh Clips",
-    7
+    "Lex Clips",
+    8
    ],
    [
-    "Lex Clips",
-    5
+    "Dwarkesh Clips",
+    7
    ],
    [
     "NVIDIA",
@@ -66,15 +66,15 @@
     5
    ],
    [
-    "DeepSeek",
+    "Anthropic",
     5
    ],
    [
-    "Kimi",
+    "DeepSeek",
     5
    ]
   ],
-  "total": 332
+  "total": 352
  },
  "source": {
   "name": "Signals 4 (Signals API)",
