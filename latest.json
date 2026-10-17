@@ -1,5 +1,5 @@
 {
- "date": "2026-10-16",
+ "date": "2026-10-17",
  "picks": [
   {
    "source": "github",
@@ -13,29 +13,33 @@
   },
   {
    "source": "youtube",
-   "title": "NVIDIA party with Jensen Huang in Taiwan | Lex Fridman",
-   "url": "https://www.youtube.com/watch?v=PGsfYxNi_c0"
+   "title": "China's approach to AI and robotics | Lex Fridman and Jensen Huang in Taiwan",
+   "url": "https://www.youtube.com/watch?v=pSopii-RTJg"
   },
   {
    "source": "siliconvalley",
-   "title": "Runway: Learning From Watching the World",
-   "url": "https://www.notboring.co/p/runway-learning-from-watching-the"
+   "title": "Weekly Dose of Optimism #215",
+   "url": "https://www.notboring.co/p/weekly-dose-of-optimism-215"
   }
  ],
  "stats": {
   "by_source": {
    "github": 20,
    "huggingface": 49,
-   "youtube": 17,
-   "siliconvalley": 31,
+   "youtube": 22,
+   "siliconvalley": 23,
    "arxiv": 60,
    "hardware": 25,
-   "compass": 150
+   "compass": 141
   },
   "top_orgs": [
    [
     "The Robot Report",
     15
+   ],
+   [
+    "Lex Clips",
+    13
    ],
    [
     "AMD News",
@@ -47,10 +51,6 @@
    ],
    [
     "Qwen",
-    8
-   ],
-   [
-    "Lex Clips",
     8
    ],
    [
@@ -74,7 +74,7 @@
     5
    ]
   ],
-  "total": 352
+  "total": 340
  },
  "source": {
   "name": "Signals 4 (Signals API)",
