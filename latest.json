@@ -1,5 +1,5 @@
 {
- "date": "2026-10-17",
+ "date": "2026-10-18",
  "picks": [
   {
    "source": "github",
@@ -8,13 +8,13 @@
   },
   {
    "source": "huggingface",
-   "title": "google/embeddinggemma-2",
-   "url": "https://huggingface.co/google/embeddinggemma-2"
+   "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+   "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
   },
   {
    "source": "youtube",
-   "title": "China's approach to AI and robotics | Lex Fridman and Jensen Huang in Taiwan",
-   "url": "https://www.youtube.com/watch?v=pSopii-RTJg"
+   "title": "Jensen Huang on China's AI labs | Lex Fridman in Taiwan",
+   "url": "https://www.youtube.com/watch?v=9rH1ChuVAe0"
   },
   {
    "source": "siliconvalley",
@@ -26,20 +26,20 @@
   "by_source": {
    "github": 20,
    "huggingface": 49,
-   "youtube": 22,
+   "youtube": 23,
    "siliconvalley": 23,
    "arxiv": 60,
    "hardware": 25,
-   "compass": 141
+   "compass": 149
   },
   "top_orgs": [
    [
-    "The Robot Report",
+    "Lex Clips",
     15
    ],
    [
-    "Lex Clips",
-    13
+    "The Robot Report",
+    15
    ],
    [
     "AMD News",
@@ -51,11 +51,19 @@
    ],
    [
     "Qwen",
-    8
+    7
    ],
    [
     "Dwarkesh Clips",
-    7
+    6
+   ],
+   [
+    "storytold",
+    5
+   ],
+   [
+    "black-forest-labs",
+    5
    ],
    [
     "NVIDIA",
@@ -64,17 +72,9 @@
    [
     "OpenAI",
     5
-   ],
-   [
-    "Anthropic",
-    5
-   ],
-   [
-    "DeepSeek",
-    5
    ]
   ],
-  "total": 340
+  "total": 349
  },
  "source": {
   "name": "Signals 4 (Signals API)",
