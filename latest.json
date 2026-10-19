@@ -1,5 +1,5 @@
 {
- "date": "2026-10-18",
+ "date": "2026-10-19",
  "picks": [
   {
    "source": "github",
@@ -13,8 +13,8 @@
   },
   {
    "source": "youtube",
-   "title": "Jensen Huang on China's AI labs | Lex Fridman in Taiwan",
-   "url": "https://www.youtube.com/watch?v=9rH1ChuVAe0"
+   "title": "Gemini 4 Argon Really Surprised Me",
+   "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc"
   },
   {
    "source": "siliconvalley",
@@ -27,10 +27,10 @@
    "github": 20,
    "huggingface": 49,
    "youtube": 23,
-   "siliconvalley": 23,
-   "arxiv": 60,
+   "siliconvalley": 31,
+   "arxiv": 70,
    "hardware": 25,
-   "compass": 149
+   "compass": 139
   },
   "top_orgs": [
    [
@@ -74,7 +74,7 @@
     5
    ]
   ],
-  "total": 349
+  "total": 357
  },
  "source": {
   "name": "Signals 4 (Signals API)",
