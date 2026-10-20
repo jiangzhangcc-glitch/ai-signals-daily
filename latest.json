@@ -1,5 +1,5 @@
 {
- "date": "2026-10-19",
+ "date": "2026-10-20",
  "picks": [
   {
    "source": "github",
@@ -13,7 +13,7 @@
   },
   {
    "source": "youtube",
-   "title": "Gemini 4 Argon Really Surprised Me",
+   "title": "Gemini 4 Argon Is Not What I Expected",
    "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc"
   },
   {
@@ -26,11 +26,11 @@
   "by_source": {
    "github": 20,
    "huggingface": 49,
-   "youtube": 23,
-   "siliconvalley": 31,
-   "arxiv": 70,
+   "youtube": 21,
+   "siliconvalley": 22,
+   "arxiv": 55,
    "hardware": 25,
-   "compass": 139
+   "compass": 138
   },
   "top_orgs": [
    [
@@ -54,10 +54,6 @@
     7
    ],
    [
-    "Dwarkesh Clips",
-    6
-   ],
-   [
     "storytold",
     5
    ],
@@ -66,15 +62,19 @@
     5
    ],
    [
+    "Dwarkesh Clips",
+    5
+   ],
+   [
     "NVIDIA",
     5
    ],
    [
-    "OpenAI",
+    "Kimi",
     5
    ]
   ],
-  "total": 357
+  "total": 330
  },
  "source": {
   "name": "Signals 4 (Signals API)",
