@@ -1,0 +1,4644 @@
+[
+ {
+  "id": "c3200ef3dc226c14",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "github",
+  "kind": "top",
+  "type": "app",
+  "signal_type": "opensource",
+  "title": "codecrafters-io/build-your-own-x",
+  "url": "https://github.com/codecrafters-io/build-your-own-x",
+  "summary": "Master programming by recreating your favorite technologies from scratch.",
+  "org": "codecrafters-io"
+ },
+ {
+  "id": "3aa8876b4c5a6100",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "github",
+  "kind": "top",
+  "type": "app",
+  "signal_type": "opensource",
+  "title": "sindresorhus/awesome",
+  "url": "https://github.com/sindresorhus/awesome",
+  "summary": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+  "org": "sindresorhus"
+ },
+ {
+  "id": "54b5b79f036a3e54",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "github",
+  "kind": "top",
+  "type": "general",
+  "signal_type": "opensource",
+  "title": "public-apis/public-apis",
+  "url": "https://github.com/public-apis/public-apis",
+  "summary": "A collective list of free APIs",
+  "org": "public-apis"
+ },
+ {
+  "id": "3191f8d4ba57286c",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "github",
+  "kind": "top",
+  "type": "general",
+  "signal_type": "opensource",
+  "title": "freeCodeCamp/freeCodeCamp",
+  "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+  "summary": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+  "org": "freeCodeCamp"
+ },
+ {
+  "id": "9837b7357388f8f7",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "github",
+  "kind": "top",
+  "type": "app",
+  "signal_type": "opensource",
+  "title": "EbookFoundation/free-programming-books",
+  "url": "https://github.com/EbookFoundation/free-programming-books",
+  "summary": ":books: Freely available programming books",
+  "org": "EbookFoundation"
+ },
+ {
+  "id": "bb22f6df2b307397",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "github",
+  "kind": "top",
+  "type": "app",
+  "signal_type": "opensource",
+  "title": "openclaw/openclaw",
+  "url": "https://github.com/openclaw/openclaw",
+  "summary": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
+  "org": "openclaw"
+ },
+ {
+  "id": "60e2cbfcc2e4d598",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "github",
+  "kind": "top",
+  "type": "app",
+  "signal_type": "model",
+  "title": "donnemartin/system-design-primer",
+  "url": "https://github.com/donnemartin/system-design-primer",
+  "summary": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+  "org": "donnemartin",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "869b28b8cd70d5b6",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "github",
+  "kind": "top",
+  "type": "app",
+  "signal_type": "opensource",
+  "title": "nilbuild/developer-roadmap",
+  "url": "https://github.com/nilbuild/developer-roadmap",
+  "summary": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+  "org": "nilbuild"
+ },
+ {
+  "id": "e0742b3fc6c4a760",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "github",
+  "kind": "top",
+  "type": "model",
+  "signal_type": "opensource",
+  "title": "jwasham/coding-interview-university",
+  "url": "https://github.com/jwasham/coding-interview-university",
+  "summary": "A complete computer science study plan to become a software engineer.",
+  "org": "jwasham"
+ },
+ {
+  "id": "a08913f6e399bb42",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "github",
+  "kind": "top",
+  "type": "general",
+  "signal_type": "model",
+  "title": "morluto/rea",
+  "url": "https://github.com/morluto/rea",
+  "summary": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+  "org": "morluto",
+  "topics": [
+   "model",
+   "agent",
+   "product"
+  ]
+ },
+ {
+  "id": "d7d38c309431ec85",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "github",
+  "kind": "rising",
+  "type": "general",
+  "signal_type": "opensource",
+  "title": "storytold/photocraft",
+  "url": "https://github.com/storytold/photocraft",
+  "summary": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
+  "org": "storytold"
+ },
+ {
+  "id": "3ddae2d7e90d89e6",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "github",
+  "kind": "rising",
+  "type": "general",
+  "signal_type": "model",
+  "title": "Ebony-Vinyl/dsh-our-free-model",
+  "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+  "summary": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash",
+  "org": "Ebony-Vinyl",
+  "companies": [
+   "OpenAI",
+   "DeepSeek"
+  ],
+  "topics": [
+   "model",
+   "agent"
+  ]
+ },
+ {
+  "id": "5ad0f740ae25c685",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "github",
+  "kind": "rising",
+  "type": "general",
+  "signal_type": "model",
+  "title": "Niko1221/Strata",
+  "url": "https://github.com/Niko1221/Strata",
+  "summary": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+  "org": "Niko1221",
+  "companies": [
+   "OpenAI",
+   "Anthropic"
+  ],
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "d4e4e0915c2449ed",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "github",
+  "kind": "rising",
+  "type": "general",
+  "signal_type": "model",
+  "title": "yetone/magpie",
+  "url": "https://github.com/yetone/magpie",
+  "summary": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+  "org": "yetone",
+  "companies": [
+   "DeepSeek"
+  ],
+  "topics": [
+   "model",
+   "agent"
+  ]
+ },
+ {
+  "id": "852019c55bff1026",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "github",
+  "kind": "rising",
+  "type": "general",
+  "signal_type": "agent",
+  "title": "wheresryan22/anatomy",
+  "url": "https://github.com/wheresryan22/anatomy",
+  "summary": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+  "org": "wheresryan22",
+  "topics": [
+   "agent"
+  ]
+ },
+ {
+  "id": "a8501dfbdc40beb6",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "github",
+  "kind": "rising",
+  "type": "app",
+  "signal_type": "opensource",
+  "title": "storytold/pdfcraft",
+  "url": "https://github.com/storytold/pdfcraft",
+  "summary": "PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust",
+  "org": "storytold"
+ },
+ {
+  "id": "e60db96d905614b8",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "github",
+  "kind": "rising",
+  "type": "model",
+  "signal_type": "opensource",
+  "title": "google-research/harness2",
+  "url": "https://github.com/google-research/harness2",
+  "summary": "google-research/harness2",
+  "org": "google-research",
+  "companies": [
+   "Google"
+  ]
+ },
+ {
+  "id": "d31c9a5ec4897b01",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "github",
+  "kind": "rising",
+  "type": "model",
+  "signal_type": "model",
+  "title": "deepseek-ai/DeepInfer",
+  "url": "https://github.com/deepseek-ai/DeepInfer",
+  "summary": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+  "org": "deepseek-ai",
+  "companies": [
+   "DeepSeek"
+  ],
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "044e4956bec29cd4",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "github",
+  "kind": "rising",
+  "type": "app",
+  "signal_type": "model",
+  "title": "Gathin23/cleanyourtv",
+  "url": "https://github.com/Gathin23/cleanyourtv",
+  "summary": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+  "org": "Gathin23",
+  "companies": [
+   "Google",
+   "Apple"
+  ],
+  "topics": [
+   "model",
+   "product"
+  ]
+ },
+ {
+  "id": "2fbe05b388cd3514",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "github",
+  "kind": "rising",
+  "type": "general",
+  "signal_type": "opensource",
+  "title": "storytold/filmcraft",
+  "url": "https://github.com/storytold/filmcraft",
+  "summary": "FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust",
+  "org": "storytold"
+ },
+ {
+  "id": "aada34776e239997",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "trendingScore",
+  "signal_type": "model",
+  "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+  "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+  "summary": "Hugging Face 社区热门模型，关注 transformers、safetensors、DeepSeek、文本生成、图文理解 等方向。社区累计下载 42,122 · 点赞 2,069。",
+  "org": "deepseek-ai",
+  "companies": [
+   "DeepSeek"
+  ],
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "c3d265f3f913ab6b",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "trendingScore",
+  "signal_type": "model",
+  "title": "black-forest-labs/flux-3-image-klein-comfy",
+  "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+  "summary": "Hugging Face 社区热门模型，关注 开源权重与工具生态 等方向。社区累计下载 490,447 · 点赞 1,128。",
+  "org": "black-forest-labs",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "08d14e6c429f22f9",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "trendingScore",
+  "signal_type": "model",
+  "title": "fishaudio/drama-3",
+  "url": "https://huggingface.co/fishaudio/drama-3",
+  "summary": "Hugging Face 社区热门模型，关注 safetensors、音频 等方向。社区累计下载 15,274 · 点赞 861。",
+  "org": "fishaudio"
+ },
+ {
+  "id": "f1b3a18fa7b50e65",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "trendingScore",
+  "signal_type": "model",
+  "title": "meta-models/Muse-Spark-Open-816B-A42B",
+  "url": "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B",
+  "summary": "Hugging Face 社区热门模型，关注 transformers、safetensors、图文理解、PyTorch、对话 等方向。社区累计下载 2,891 · 点赞 618。",
+  "org": "meta-models",
+  "companies": [
+   "Meta"
+  ],
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "df5dcfc49f2bba61",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "trendingScore",
+  "signal_type": "model",
+  "title": "black-forest-labs/flux-3-image-klein",
+  "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein",
+  "summary": "Hugging Face 社区热门模型，关注 Diffusers、safetensors 等方向。社区累计下载 92,604 · 点赞 585。",
+  "org": "black-forest-labs",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "239fe6add9dce1b8",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "trendingScore",
+  "signal_type": "model",
+  "title": "OpenMOSS-Team/MOSS-Image-SFT",
+  "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT",
+  "summary": "Hugging Face 社区热门模型，关注 Diffusers、safetensors、文生图 等方向。社区累计下载 5,840 · 点赞 511。",
+  "org": "OpenMOSS-Team",
+  "topics": [
+   "model",
+   "opensource"
+  ]
+ },
+ {
+  "id": "ed683d4d27b02f6c",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "trendingScore",
+  "signal_type": "model",
+  "title": "google/embeddinggemma-2",
+  "url": "https://huggingface.co/google/embeddinggemma-2",
+  "summary": "Hugging Face 社区热门模型，关注 transformers、safetensors、向量嵌入、多模态、视觉、音频 等方向。社区累计下载 179,734 · 点赞 2,785。",
+  "org": "google",
+  "companies": [
+   "Google"
+  ],
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "1ddf6305da65d878",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "trendingScore",
+  "signal_type": "model",
+  "title": "Lightricks/LTX-2.5",
+  "url": "https://huggingface.co/Lightricks/LTX-2.5",
+  "summary": "Hugging Face 社区热门模型，关注 视频、文生视频、音频 等方向。社区累计下载 2,057,942 · 点赞 8,673。",
+  "org": "Lightricks",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "b64ac40798afb3cb",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "trendingScore",
+  "signal_type": "opensource",
+  "title": "OpenMOSS-Team/MOSS-Image-Base",
+  "url": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base",
+  "summary": "Hugging Face 社区热门模型，关注 Diffusers、safetensors、文生图 等方向。社区累计下载 4,344 · 点赞 447。",
+  "org": "OpenMOSS-Team",
+  "topics": [
+   "opensource"
+  ]
+ },
+ {
+  "id": "9f5b79b64400d73f",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "trendingScore",
+  "signal_type": "model",
+  "title": "jialinyyzz/humanizer",
+  "url": "https://huggingface.co/jialinyyzz/humanizer",
+  "summary": "Hugging Face 社区热门模型，关注 GGUF、safetensors、Gemma、图文理解、transformers 等方向。社区累计下载 120,930 · 点赞 2,040。",
+  "org": "jialinyyzz",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "05a62a85e143846f",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "downloads",
+  "signal_type": "model",
+  "title": "sentence-transformers/all-MiniLM-L6-v2",
+  "url": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
+  "summary": "Hugging Face 社区热门模型，关注 transformers、PyTorch、ONNX、safetensors 等方向。社区累计下载 203,243,195 · 点赞 5,978。",
+  "org": "sentence-transformers",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "4a1f126b74280924",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "downloads",
+  "signal_type": "model",
+  "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
+  "url": "https://huggingface.co/cross-encoder/ms-marco-MiniLM-L6-v2",
+  "summary": "Hugging Face 社区热门模型，关注 transformers、PyTorch、ONNX、safetensors 等方向。社区累计下载 74,721,326 · 点赞 421。",
+  "org": "cross-encoder",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "310b6de9a6ef9c1f",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "downloads",
+  "signal_type": "model",
+  "title": "BAAI/bge-small-en-v1.5",
+  "url": "https://huggingface.co/BAAI/bge-small-en-v1.5",
+  "summary": "Hugging Face 社区热门模型，关注 transformers、PyTorch、ONNX、safetensors 等方向。社区累计下载 56,560,669 · 点赞 639。",
+  "org": "BAAI",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "50bf0fcce3ea9b74",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "downloads",
+  "signal_type": "model",
+  "title": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "summary": "Hugging Face 社区热门模型，关注 transformers、PyTorch、ONNX、safetensors 等方向。社区累计下载 43,006,495 · 点赞 1,481。",
+  "org": "sentence-transformers",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "9d5b7f7606c53506",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "downloads",
+  "signal_type": "model",
+  "title": "google/electra-base-discriminator",
+  "url": "https://huggingface.co/google/electra-base-discriminator",
+  "summary": "Hugging Face 社区热门模型，关注 transformers、PyTorch 等方向。社区累计下载 40,973,910 · 点赞 215。",
+  "org": "google",
+  "companies": [
+   "Google"
+  ],
+  "topics": [
+   "model",
+   "opensource"
+  ]
+ },
+ {
+  "id": "ed7eb7c7d6424e9f",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "downloads",
+  "signal_type": "model",
+  "title": "BAAI/bge-m3",
+  "url": "https://huggingface.co/BAAI/bge-m3",
+  "summary": "Hugging Face 社区热门模型，关注 transformers、PyTorch、ONNX 等方向。社区累计下载 31,032,360 · 点赞 3,908。",
+  "org": "BAAI",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "ee7ed84a0752fd26",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "downloads",
+  "signal_type": "model",
+  "title": "google-bert/bert-base-uncased",
+  "url": "https://huggingface.co/google-bert/bert-base-uncased",
+  "summary": "Hugging Face 社区热门模型，关注 transformers、PyTorch、ONNX、safetensors 等方向。社区累计下载 29,726,871 · 点赞 3,042。",
+  "org": "google-bert",
+  "companies": [
+   "Google"
+  ],
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "35faa8e21b731365",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "downloads",
+  "signal_type": "model",
+  "title": "Qwen/Qwen3-0.6B",
+  "url": "https://huggingface.co/Qwen/Qwen3-0.6B",
+  "summary": "Hugging Face 社区热门模型，关注 transformers、safetensors、Qwen、文本生成、对话 等方向。社区累计下载 28,228,809 · 点赞 1,840。",
+  "org": "Qwen",
+  "topics": [
+   "model",
+   "opensource"
+  ]
+ },
+ {
+  "id": "3ef4fda560767ab8",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "downloads",
+  "signal_type": "model",
+  "title": "Comfy-Org/MiniMax-H3",
+  "url": "https://huggingface.co/Comfy-Org/MiniMax-H3",
+  "summary": "Hugging Face 社区热门模型，关注 开源权重与工具生态 等方向。社区累计下载 25,942,413 · 点赞 2,350。",
+  "org": "Comfy-Org",
+  "companies": [
+   "MiniMax",
+   "xAI"
+  ],
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "ef1b3e453a535e60",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "downloads",
+  "signal_type": "model",
+  "title": "google-t5/t5-small",
+  "url": "https://huggingface.co/google-t5/t5-small",
+  "summary": "Hugging Face 社区热门模型，关注 transformers、PyTorch、ONNX、safetensors、文本生成、摘要 等方向。社区累计下载 24,464,017 · 点赞 680。",
+  "org": "google-t5",
+  "companies": [
+   "Google"
+  ],
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "c18cf315811f3c52",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "likes",
+  "signal_type": "model",
+  "title": "Qwen/Qwen3.8-27B",
+  "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+  "summary": "Hugging Face 社区热门模型，关注 transformers、safetensors、Qwen、图文理解、对话 等方向。社区累计下载 7,729,432 · 点赞 18,096。",
+  "org": "Qwen",
+  "topics": [
+   "model",
+   "opensource"
+  ]
+ },
+ {
+  "id": "1a60af3620f1334a",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "likes",
+  "signal_type": "model",
+  "title": "black-forest-labs/FLUX.1-dev",
+  "url": "https://huggingface.co/black-forest-labs/FLUX.1-dev",
+  "summary": "Hugging Face 社区热门模型，关注 Diffusers、safetensors、文生图 等方向。社区累计下载 650,318 · 点赞 15,675。",
+  "org": "black-forest-labs",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "7dee19cb9724a01d",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "likes",
+  "signal_type": "model",
+  "title": "deepseek-ai/DeepSeek-R1",
+  "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
+  "summary": "Hugging Face 社区热门模型，关注 transformers、safetensors、DeepSeek、文本生成、对话 等方向。社区累计下载 1,361,382 · 点赞 14,395。",
+  "org": "deepseek-ai",
+  "companies": [
+   "DeepSeek"
+  ],
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "45ea578a8a381eea",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "likes",
+  "signal_type": "model",
+  "title": "moonshotai/Kimi-K3",
+  "url": "https://huggingface.co/moonshotai/Kimi-K3",
+  "summary": "Hugging Face 社区热门模型，关注 transformers、safetensors、对话、图文理解 等方向。社区累计下载 988,698 · 点赞 11,784。",
+  "org": "moonshotai",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "8446d41b282b4f01",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "likes",
+  "signal_type": "model",
+  "title": "meta-llama/Llama-3.1-8B-Instruct",
+  "url": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
+  "summary": "Hugging Face 社区热门模型，关注 transformers、safetensors、Llama、文本生成、PyTorch、对话 等方向。社区累计下载 5,255,644 · 点赞 8,532。",
+  "org": "meta-llama",
+  "companies": [
+   "Meta"
+  ],
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "35e5df09d5640af4",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "likes",
+  "signal_type": "model",
+  "title": "stabilityai/stable-diffusion-xl-base-1.0",
+  "url": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0",
+  "summary": "Hugging Face 社区热门模型，关注 Diffusers、ONNX、safetensors、文生图 等方向。社区累计下载 4,272,412 · 点赞 8,366。",
+  "org": "stabilityai",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "d9c6e8875498d3fe",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "likes",
+  "signal_type": "model",
+  "title": "hexgrad/Kokoro-82M",
+  "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+  "summary": "Hugging Face 社区热门模型，关注 开源权重与工具生态 等方向。社区累计下载 10,502,252 · 点赞 7,244。",
+  "org": "hexgrad",
+  "topics": [
+   "model",
+   "opensource"
+  ]
+ },
+ {
+  "id": "8f43be86e330ab84",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "likes",
+  "signal_type": "model",
+  "title": "CompVis/stable-diffusion-v1-4",
+  "url": "https://huggingface.co/CompVis/stable-diffusion-v1-4",
+  "summary": "Hugging Face 社区热门模型，关注 Diffusers、safetensors、文生图 等方向。社区累计下载 496,451 · 点赞 7,134。",
+  "org": "CompVis",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "9c41ef62a739cb4d",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "likes",
+  "signal_type": "model",
+  "title": "meta-llama/Meta-Llama-3-8B",
+  "url": "https://huggingface.co/meta-llama/Meta-Llama-3-8B",
+  "summary": "Hugging Face 社区热门模型，关注 transformers、safetensors、Llama、文本生成、PyTorch 等方向。社区累计下载 154,595 · 点赞 6,761。",
+  "org": "meta-llama",
+  "companies": [
+   "Meta"
+  ],
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "2377760062847879",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "lastModified",
+  "signal_type": "model",
+  "title": "ijinyu1113/ft_mr8_410m_seed58_l3e-5w0.05_c6000s_nims50000_sym1_e25_initsym3pre2k",
+  "url": "https://huggingface.co/ijinyu1113/ft_mr8_410m_seed58_l3e-5w0.05_c6000s_nims50000_sym1_e25_initsym3pre2k",
+  "summary": "Hugging Face 社区热门模型，关注 开源权重与工具生态 等方向。社区累计下载 0 · 点赞 0。",
+  "org": "ijinyu1113",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "123e931ed90b4af9",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "lastModified",
+  "signal_type": "model",
+  "title": "Rex1090/grpo_058",
+  "url": "https://huggingface.co/Rex1090/grpo_058",
+  "summary": "Hugging Face 社区热门模型，关注 开源权重与工具生态 等方向。社区累计下载 0 · 点赞 0。",
+  "org": "Rex1090"
+ },
+ {
+  "id": "489eae25e4e40c76",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "lastModified",
+  "signal_type": "model",
+  "title": "lillyai1987/backup",
+  "url": "https://huggingface.co/lillyai1987/backup",
+  "summary": "Hugging Face 社区热门模型，关注 safetensors 等方向。社区累计下载 0 · 点赞 0。",
+  "org": "lillyai1987"
+ },
+ {
+  "id": "5856a198c2ffaa15",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "lastModified",
+  "signal_type": "model",
+  "title": "yang31210999/opd-lab-b300-pub",
+  "url": "https://huggingface.co/yang31210999/opd-lab-b300-pub",
+  "summary": "Hugging Face 社区热门模型，关注 safetensors 等方向。社区累计下载 0 · 点赞 0。",
+  "org": "yang31210999"
+ },
+ {
+  "id": "f9f201ee28977c21",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "lastModified",
+  "signal_type": "model",
+  "title": "quandao10/looptrans-looped_5x4_parcae",
+  "url": "https://huggingface.co/quandao10/looptrans-looped_5x4_parcae",
+  "summary": "Hugging Face 社区热门模型，关注 Diffusers、safetensors 等方向。社区累计下载 0 · 点赞 0。",
+  "org": "quandao10"
+ },
+ {
+  "id": "4bec3df35e95b147",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "lastModified",
+  "signal_type": "model",
+  "title": "Coercer/bananaSplitzXXL_v20_GGUF",
+  "url": "https://huggingface.co/Coercer/bananaSplitzXXL_v20_GGUF",
+  "summary": "Hugging Face 社区热门模型，关注 开源权重与工具生态 等方向。社区累计下载 0 · 点赞 0。",
+  "org": "Coercer"
+ },
+ {
+  "id": "cd96fd3a9caf1f50",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "lastModified",
+  "signal_type": "opensource",
+  "title": "Vi-LAB/KenT_400M_Base",
+  "url": "https://huggingface.co/Vi-LAB/KenT_400M_Base",
+  "summary": "Hugging Face 社区热门模型，关注 safetensors、文本生成 等方向。社区累计下载 607 · 点赞 0。",
+  "org": "Vi-LAB",
+  "topics": [
+   "opensource"
+  ]
+ },
+ {
+  "id": "77bac8fd19a7ae0b",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "lastModified",
+  "signal_type": "model",
+  "title": "mradermacher/Godoter3.8-27B-i1-GGUF",
+  "url": "https://huggingface.co/mradermacher/Godoter3.8-27B-i1-GGUF",
+  "summary": "Hugging Face 社区热门模型，关注 transformers、GGUF、Llama、Qwen、视觉语言 等方向。社区累计下载 0 · 点赞 1。",
+  "org": "mradermacher",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "bf0891315148436b",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "lastModified",
+  "signal_type": "model",
+  "title": "mradermacher/gemma-4-E4B-it-The-DECKARD-Expresso-Universe-HERETIC-UNCENSORED-Thinking-bf16-GGUF",
+  "url": "https://huggingface.co/mradermacher/gemma-4-E4B-it-The-DECKARD-Expresso-Universe-HERETIC-UNCENSORED-Thinking-bf16-GGUF",
+  "summary": "Hugging Face 社区热门模型，关注 GGUF、对话 等方向。社区累计下载 0 · 点赞 0。",
+  "org": "mradermacher"
+ },
+ {
+  "id": "ce5544d5b0ad5d99",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "lastModified",
+  "signal_type": "model",
+  "title": "zcheng256/OPSD-SDPO-v22-Qwen2.5-0.5B-LoRA",
+  "url": "https://huggingface.co/zcheng256/OPSD-SDPO-v22-Qwen2.5-0.5B-LoRA",
+  "summary": "Hugging Face 社区热门模型，关注 safetensors 等方向。社区累计下载 0 · 点赞 0。",
+  "org": "zcheng256",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "4b946b11f0c30e38",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "spaces",
+  "signal_type": "model",
+  "title": "enzostvs/deepsite",
+  "url": "https://huggingface.co/spaces/enzostvs/deepsite",
+  "summary": "Hugging Face 社区热门模型，关注 开源权重与工具生态 等方向。社区累计下载 None · 点赞 16,604。",
+  "org": "enzostvs"
+ },
+ {
+  "id": "98ca1aa0e4bdec19",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "spaces",
+  "signal_type": "model",
+  "title": "open-llm-leaderboard/open_llm_leaderboard",
+  "url": "https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard",
+  "summary": "Hugging Face 社区热门模型，关注 开源权重与工具生态 等方向。社区累计下载 None · 点赞 14,138。",
+  "org": "open-llm-leaderboard",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "c4b253b6651b51b2",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "spaces",
+  "signal_type": "model",
+  "title": "jbilcke-hf/ai-comic-factory",
+  "url": "https://huggingface.co/spaces/jbilcke-hf/ai-comic-factory",
+  "summary": "Hugging Face 社区热门模型，关注 开源权重与工具生态 等方向。社区累计下载 None · 点赞 11,304。",
+  "org": "jbilcke-hf"
+ },
+ {
+  "id": "b63acddf6aec6186",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "spaces",
+  "signal_type": "model",
+  "title": "Kwai-Kolors/Kolors-Virtual-Try-On",
+  "url": "https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On",
+  "summary": "Hugging Face 社区热门模型，关注 开源权重与工具生态 等方向。社区累计下载 None · 点赞 10,205。",
+  "org": "Kwai-Kolors"
+ },
+ {
+  "id": "0d049524de6e6e6c",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "spaces",
+  "signal_type": "model",
+  "title": "black-forest-labs/FLUX.1-dev",
+  "url": "https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev",
+  "summary": "Hugging Face 社区热门模型，关注 开源权重与工具生态 等方向。社区累计下载 None · 点赞 9,576。",
+  "org": "black-forest-labs",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "dee6dee96d4553c7",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "spaces",
+  "signal_type": "model",
+  "title": "mteb/leaderboard",
+  "url": "https://huggingface.co/spaces/mteb/leaderboard",
+  "summary": "Hugging Face 社区热门模型，关注 开源权重与工具生态 等方向。社区累计下载 None · 点赞 7,741。",
+  "org": "mteb"
+ },
+ {
+  "id": "bc6b625500115bc9",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "spaces",
+  "signal_type": "model",
+  "title": "dalle-mini/dalle-mini",
+  "url": "https://huggingface.co/spaces/dalle-mini/dalle-mini",
+  "summary": "Hugging Face 社区热门模型，关注 开源权重与工具生态 等方向。社区累计下载 None · 点赞 5,743。",
+  "org": "dalle-mini",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "9965e2a838f0f6ef",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "spaces",
+  "signal_type": "model",
+  "title": "AP123/IllusionDiffusion",
+  "url": "https://huggingface.co/spaces/AP123/IllusionDiffusion",
+  "summary": "Hugging Face 社区热门模型，关注 开源权重与工具生态 等方向。社区累计下载 None · 点赞 5,454。",
+  "org": "AP123",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "552c3d3cfa749015",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "spaces",
+  "signal_type": "model",
+  "title": "black-forest-labs/FLUX.1-schnell",
+  "url": "https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell",
+  "summary": "Hugging Face 社区热门模型，关注 开源权重与工具生态 等方向。社区累计下载 None · 点赞 5,158。",
+  "org": "black-forest-labs",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "bdc1ff66d23b7479",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "huggingface",
+  "kind": "spaces",
+  "signal_type": "model",
+  "title": "facebook/MusicGen",
+  "url": "https://huggingface.co/spaces/facebook/MusicGen",
+  "summary": "Hugging Face 社区热门模型，关注 开源权重与工具生态 等方向。社区累计下载 None · 点赞 5,111。",
+  "org": "facebook",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "f107cf791569a631",
+  "timestamp": "2026-10-19T08:49:21+00:00",
+  "source": "youtube",
+  "kind": "frontier",
+  "signal_type": "model",
+  "title": "Gemini 4 Argon Is Not What I Expected",
+  "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
+  "summary": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Gemini 4 Argon + report are available here: https://deepmind.google/models/model-cards/gemini-4-argon/ https://storage.googleapis.com/d",
+  "org": "Two Minute Papers",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "a564896cbe383653",
+  "timestamp": "2026-10-18T21:17:25+00:00",
+  "source": "youtube",
+  "kind": "interview",
+  "signal_type": "model",
+  "title": "Why Russia’s Tsar Lost Control - Sarah Paine",
+  "url": "https://www.youtube.com/watch?v=GbV0Aiw7_RU",
+  "summary": "Full episode: https://www.youtube.com/watch?v=f6cjAEr08qk Me on twitter: https://x.com/dwarkesh_sp",
+  "org": "Dwarkesh Clips",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "b09f7b6026af4b0b",
+  "timestamp": "2026-10-18T12:00:18+00:00",
+  "source": "youtube",
+  "kind": "interview",
+  "signal_type": "model",
+  "title": "Jensen Huang on growing up in Taiwan | Lex Fridman",
+  "url": "https://www.youtube.com/watch?v=E5ujpnDuLeM",
+  "summary": "Lex Fridman full video: https://www.youtube.com/watch?v=FGCP2F_7rQk Thank you for watching ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10084-sb See below for guest links, and to give feedback, submit ques",
+  "org": "Lex Clips",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "9ef8a0036f35d6d8",
+  "timestamp": "2026-10-18T04:00:19+00:00",
+  "source": "youtube",
+  "kind": "interview",
+  "signal_type": "model",
+  "title": "Jensen Huang on China's AI labs | Lex Fridman in Taiwan",
+  "url": "https://www.youtube.com/watch?v=9rH1ChuVAe0",
+  "summary": "Lex Fridman full video: https://www.youtube.com/watch?v=FGCP2F_7rQk Thank you for watching ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10081-sb See below for guest links, and to give feedback, submit ques",
+  "org": "Lex Clips",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "9616bd5650005732",
+  "timestamp": "2026-10-18T00:00:24+00:00",
+  "source": "youtube",
+  "kind": "interview",
+  "signal_type": "model",
+  "title": "Jensen Huang reflects on huge crowds greeting him in Taiwan | Lex Fridman",
+  "url": "https://www.youtube.com/watch?v=-AS5aIJc1-c",
+  "summary": "Lex Fridman full video: https://www.youtube.com/watch?v=FGCP2F_7rQk Thank you for watching ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10072-sb See below for guest links, and to give feedback, submit ques",
+  "org": "Lex Clips",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "fc44efce83b58a30",
+  "timestamp": "2026-10-17T20:00:19+00:00",
+  "source": "youtube",
+  "kind": "interview",
+  "signal_type": "model",
+  "title": "The best street food in Taiwan with Jensen Huang | Lex Fridman",
+  "url": "https://www.youtube.com/watch?v=LpH9BnXDEf0",
+  "summary": "Lex Fridman full video: https://www.youtube.com/watch?v=FGCP2F_7rQk Thank you for watching ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10083-sb See below for guest links, and to give feedback, submit ques",
+  "org": "Lex Clips",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "3ab0a9643d76ca92",
+  "timestamp": "2026-10-17T16:00:22+00:00",
+  "source": "youtube",
+  "kind": "interview",
+  "signal_type": "model",
+  "title": "Jensen Huang on China, GPUs, and export controls | Lex Fridman in Taiwan",
+  "url": "https://www.youtube.com/watch?v=NG6dKcAJCw0",
+  "summary": "Lex Fridman full video: https://www.youtube.com/watch?v=FGCP2F_7rQk Thank you for watching ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10087-sb See below for guest links, and to give feedback, submit ques",
+  "org": "Lex Clips",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "2610fce9c606624e",
+  "timestamp": "2026-10-17T12:00:18+00:00",
+  "source": "youtube",
+  "kind": "interview",
+  "signal_type": "model",
+  "title": "Jensen Huang on the phone call that changed everything | Lex Fridman in Taiwan",
+  "url": "https://www.youtube.com/watch?v=Qmafkf_08uQ",
+  "summary": "Lex Fridman full video: https://www.youtube.com/watch?v=FGCP2F_7rQk Thank you for watching ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10080-sb See below for guest links, and to give feedback, submit ques",
+  "org": "Lex Clips",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "19b0bbe9b306ae67",
+  "timestamp": "2026-10-17T04:00:21+00:00",
+  "source": "youtube",
+  "kind": "app",
+  "signal_type": "model",
+  "title": "China's approach to AI and robotics | Lex Fridman and Jensen Huang in Taiwan",
+  "url": "https://www.youtube.com/watch?v=pSopii-RTJg",
+  "summary": "Lex Fridman full video: https://www.youtube.com/watch?v=FGCP2F_7rQk Thank you for watching ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10086-sb See below for guest links, and to give feedback, submit ques",
+  "org": "Lex Clips",
+  "topics": [
+   "model",
+   "product"
+  ]
+ },
+ {
+  "id": "b6decc68acd66f03",
+  "timestamp": "2026-10-17T00:00:21+00:00",
+  "source": "youtube",
+  "kind": "interview",
+  "signal_type": "model",
+  "title": "Jensen Huang explains why Taiwan is so good at semiconductor engineering | Lex Fridman",
+  "url": "https://www.youtube.com/watch?v=gkFkIP2gKgY",
+  "summary": "Lex Fridman full video: https://www.youtube.com/watch?v=FGCP2F_7rQk Thank you for watching ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10085-sb See below for guest links, and to give feedback, submit ques",
+  "org": "Lex Clips",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "5a3828fc29091d92",
+  "timestamp": "2026-10-16T21:00:22+00:00",
+  "source": "youtube",
+  "kind": "interview",
+  "signal_type": "model",
+  "title": "Trillion dollars of compute: Secret to NVIDIA success | Lex Fridman and Jensen Huang in Taiwan",
+  "url": "https://www.youtube.com/watch?v=3Y4amw0KI8A",
+  "summary": "Lex Fridman full video: https://www.youtube.com/watch?v=FGCP2F_7rQk Thank you for watching ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10075-sb See below for guest links, and to give feedback, submit ques",
+  "org": "Lex Clips",
+  "companies": [
+   "NVIDIA"
+  ],
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "0b083a57acb3b6a5",
+  "timestamp": "2026-10-16T20:30:21+00:00",
+  "source": "youtube",
+  "kind": "interview",
+  "signal_type": "model",
+  "title": "When Should an Army Stop Attacking? - Sarah Paine",
+  "url": "https://www.youtube.com/watch?v=x7KxhNqPxtI",
+  "summary": "Full episode: https://www.youtube.com/watch?v=f6cjAEr08qk Me on twitter: https://x.com/dwarkesh_sp",
+  "org": "Dwarkesh Clips",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "3e5ff6aef44ae959",
+  "timestamp": "2026-10-16T17:18:34+00:00",
+  "source": "youtube",
+  "kind": "interview",
+  "signal_type": "model",
+  "title": "Why Taiwan dominates the semiconductor industry | Lex Fridman and Jensen Huang",
+  "url": "https://www.youtube.com/watch?v=zoWFwamxRdQ",
+  "summary": "Lex Fridman full video: https://www.youtube.com/watch?v=FGCP2F_7rQk Thank you for watching ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10071-sb See below for guest links, and to give feedback, submit ques",
+  "org": "Lex Clips",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "50f7b346de0148b4",
+  "timestamp": "2026-10-16T12:00:19+00:00",
+  "source": "youtube",
+  "kind": "interview",
+  "signal_type": "model",
+  "title": "The famous braised pig's feet dish in Taiwan | Lex Fridman and Jensen Huang",
+  "url": "https://www.youtube.com/watch?v=LY32E543H2M",
+  "summary": "Lex Fridman full video: https://www.youtube.com/watch?v=FGCP2F_7rQk Thank you for watching ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10078-sb See below for guest links, and to give feedback, submit ques",
+  "org": "Lex Clips",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "b06bae21bc90027e",
+  "timestamp": "2026-10-15T22:03:21+00:00",
+  "source": "youtube",
+  "kind": "interview",
+  "signal_type": "model",
+  "title": "NVIDIA party with Jensen Huang in Taiwan | Lex Fridman",
+  "url": "https://www.youtube.com/watch?v=PGsfYxNi_c0",
+  "summary": "Lex Fridman full video: https://www.youtube.com/watch?v=FGCP2F_7rQk Thank you for watching ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10073-sb See below for guest links, and to give feedback, submit ques",
+  "org": "Lex Clips",
+  "companies": [
+   "NVIDIA"
+  ],
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "87a24211dae0e21f",
+  "timestamp": "2026-10-15T20:36:18+00:00",
+  "source": "youtube",
+  "kind": "interview",
+  "signal_type": "model",
+  "title": "The War Russia Should Never Have Fought",
+  "url": "https://www.youtube.com/watch?v=8lFFJA1ScZU",
+  "summary": "Full episode: https://www.youtube.com/watch?v=f6cjAEr08qk Me on twitter: https://x.com/dwarkesh_sp",
+  "org": "Dwarkesh Clips",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "6234a5fe65e68e35",
+  "timestamp": "2026-10-15T16:00:20+00:00",
+  "source": "youtube",
+  "kind": "interview",
+  "signal_type": "model",
+  "title": "Jensen Huang gets mobbed by engineers in Taiwan | Lex Fridman",
+  "url": "https://www.youtube.com/watch?v=Xi_ehEsKAvI",
+  "summary": "Lex Fridman full video: https://www.youtube.com/watch?v=FGCP2F_7rQk Thank you for watching ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10082-sb See below for guest links, and to give feedback, submit ques",
+  "org": "Lex Clips",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "640259592b23627a",
+  "timestamp": "2026-10-15T12:00:17+00:00",
+  "source": "youtube",
+  "kind": "interview",
+  "signal_type": "model",
+  "title": "Trying the famous Taiwanese oyster pancake | Lex Fridman and Jensen Huang in Taiwan",
+  "url": "https://www.youtube.com/watch?v=W5BK-w6KJl8",
+  "summary": "Lex Fridman full video: https://www.youtube.com/watch?v=FGCP2F_7rQk Thank you for watching ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10074-sb See below for guest links, and to give feedback, submit ques",
+  "org": "Lex Clips",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "10356406121ce220",
+  "timestamp": "2026-10-15T02:20:59+00:00",
+  "source": "youtube",
+  "kind": "interview",
+  "signal_type": "model",
+  "title": "Trying the world's smelliest fruit (Durian) in Taiwan | Lex Fridman and Jensen Huang",
+  "url": "https://www.youtube.com/watch?v=hDZgd6q76IE",
+  "summary": "Lex Fridman full video: https://www.youtube.com/watch?v=FGCP2F_7rQk Thank you for watching ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10077-sb See below for guest links, and to give feedback, submit ques",
+  "org": "Lex Clips",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "668c9654b4bbb047",
+  "timestamp": "2026-10-14T21:50:12+00:00",
+  "source": "youtube",
+  "kind": "interview",
+  "signal_type": "model",
+  "title": "How a Small War Becomes a World War - Sarah Paine",
+  "url": "https://www.youtube.com/watch?v=O3-gGygBy3w",
+  "summary": "Full episode: https://www.youtube.com/watch?v=f6cjAEr08qk Me on twitter: https://x.com/dwarkesh_sp",
+  "org": "Dwarkesh Clips",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "35b365b0a8b65c96",
+  "timestamp": "2026-10-21T11:20:23+00:00",
+  "source": "siliconvalley",
+  "kind": "news",
+  "signal_type": "news",
+  "title": "A look at Elon Musk's planned SpaceX-Tesla merger, which would create a $3.6T company but faces serious hurdles like shareholder votes and regulatory probes (Financial Times)",
+  "url": "https://www.techmeme.com/261021/p16#a261021p16",
+  "summary": "Financial Times : A look at Elon Musk's planned SpaceX-Tesla merger, which would create a $3.6T company but faces serious hurdles like shareholder votes and regulatory probes — The world's richest man is preparing for th"
+ },
+ {
+  "id": "1e4b2f66f3c2be00",
+  "timestamp": "2026-10-21T11:05:22+00:00",
+  "source": "siliconvalley",
+  "kind": "news",
+  "signal_type": "model",
+  "title": "Coherence Neuro, which is developing AI models and brain implants to help combat brain tumors, raised a $45M seed from the OpenAI Startup Fund and Founders Fund (Emily Mullin/Wired)",
+  "url": "https://www.techmeme.com/261021/p15#a261021p15",
+  "summary": "Emily Mullin / Wired : Coherence Neuro, which is developing AI models and brain implants to help combat brain tumors, raised a $45M seed from the OpenAI Startup Fund and Founders Fund — It's the latest in a growing wave ",
+  "companies": [
+   "OpenAI",
+   "Cohere"
+  ],
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "8f313b90149b564d",
+  "timestamp": "2026-10-21T10:45:00+00:00",
+  "source": "siliconvalley",
+  "kind": "news",
+  "signal_type": "news",
+  "title": "Demis Hassabis says he expects AGI within two to three years, down from his three-to-five-year prediction earlier in 2026, and discusses AI's science potential (Ben Cohen/Wall Street Journal)",
+  "url": "https://www.techmeme.com/261021/p14#a261021p14",
+  "summary": "Ben Cohen / Wall Street Journal : Demis Hassabis says he expects AGI within two to three years, down from his three-to-five-year prediction earlier in 2026, and discusses AI's science potential — YOU CAN LEARN a lot abou"
+ },
+ {
+  "id": "3f9a02c6ed602bd1",
+  "timestamp": "2026-10-21T10:30:06+00:00",
+  "source": "siliconvalley",
+  "kind": "news",
+  "signal_type": "news",
+  "title": "Dario Amodei says Anthropic's \"race to the top\" makes AI safer, cites nine safety decisions with \"substantial costs\", and admits mishandling a draft AI bill (Dario Amodei/@darioamodei)",
+  "url": "https://www.techmeme.com/261021/p13#a261021p13",
+  "summary": "Dario Amodei / @darioamodei : Dario Amodei says Anthropic's &ldquo;race to the top&rdquo; makes AI safer, cites nine safety decisions with &ldquo;substantial costs&rdquo;, and admits mishandling a draft AI bill — Thank y",
+  "companies": [
+   "Anthropic"
+  ]
+ },
+ {
+  "id": "efeb170053e98702",
+  "timestamp": "2026-10-21T10:20:18+00:00",
+  "source": "siliconvalley",
+  "kind": "news",
+  "signal_type": "news",
+  "title": "Nvidia unveils the DSX POD, a modular containerized version of its Vera Rubin reference architecture to cut data center deployment from six months to 14 days (Charlotte Trueman/DatacenterDynamics)",
+  "url": "https://www.techmeme.com/261021/p12#a261021p12",
+  "summary": "Charlotte Trueman / DatacenterDynamics : Nvidia unveils the DSX POD, a modular containerized version of its Vera Rubin reference architecture to cut data center deployment from six months to 14 days — Details released at",
+  "companies": [
+   "NVIDIA"
+  ]
+ },
+ {
+  "id": "149d1ebc44f34bb6",
+  "timestamp": "2026-10-21T10:14:43+00:00",
+  "source": "siliconvalley",
+  "kind": "news",
+  "signal_type": "product",
+  "title": "Whatever Happened to Fire Escapes",
+  "url": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
+  "summary": "Article URL: https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes Comments URL: https://news.ycombinator.com/item?id=50178455 Points: 22 # Comments: 4",
+  "topics": [
+   "product"
+  ]
+ },
+ {
+  "id": "75d472b74ba65adc",
+  "timestamp": "2026-10-21T09:51:41+00:00",
+  "source": "siliconvalley",
+  "kind": "news",
+  "signal_type": "product",
+  "title": "Show HN: Linkit – AI bookmark manager, 100% free and open source",
+  "url": "https://github.com/blue-idea/linkit",
+  "summary": "Article URL: https://github.com/blue-idea/linkit Comments URL: https://news.ycombinator.com/item?id=50178218 Points: 3 # Comments: 0",
+  "topics": [
+   "opensource",
+   "product"
+  ]
+ },
+ {
+  "id": "390eb6b5146b8e0e",
+  "timestamp": "2026-10-21T09:08:08+00:00",
+  "source": "siliconvalley",
+  "kind": "news",
+  "signal_type": "news",
+  "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+  "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+  "summary": "Article URL: https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/ Comments URL: https://news.ycombinator.com/item?id=50177916 Points: 177 # Comments: 75"
+ },
+ {
+  "id": "8a79aa5fad84a5a0",
+  "timestamp": "2026-10-21T09:07:49+00:00",
+  "source": "siliconvalley",
+  "kind": "news",
+  "signal_type": "news",
+  "title": "The 1.5°C goal of the Paris Agreement is no longer viable",
+  "url": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
+  "summary": "Article URL: https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/ Comments URL: https://news.ycombinator.com/item?id=50177911 Points: 286 # Comments: 307"
+ },
+ {
+  "id": "e52dfda7c6d06430",
+  "timestamp": "2026-10-21T05:05:19+00:00",
+  "source": "siliconvalley",
+  "kind": "news",
+  "signal_type": "news",
+  "title": "Battlezone Online: BZFlag in the Browser",
+  "url": "https://github.com/timriker/bzo",
+  "summary": "Article URL: https://github.com/timriker/bzo Comments URL: https://news.ycombinator.com/item?id=50176298 Points: 33 # Comments: 24"
+ },
+ {
+  "id": "2bf7d68be62fb69e",
+  "timestamp": "2026-10-15T10:30:00+00:00",
+  "source": "siliconvalley",
+  "kind": "podcast",
+  "signal_type": "model",
+  "title": "Your Ranking Model Is Optimizing the Wrong Thing with Zoe Weil - #780",
+  "url": "https://twimlai.com/podcast/twimlai/your-ranking-model-optimizing-wrong-thing",
+  "summary": "In this episode, Zoe Weil, co-founder and CEO of Sequen, joins us to discuss how ranking systems can use live behavioral signals to optimize for purchases rather than clicks or search relevance alone. Zoe explains why ap",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "0ca5d417f168fbf8",
+  "timestamp": "2026-10-06T21:43:00+00:00",
+  "source": "siliconvalley",
+  "kind": "podcast",
+  "signal_type": "news",
+  "title": "Why Jev Is Changing How We Build With AI with Diogo Almeida - #779",
+  "url": "https://twimlai.com/podcast/twimlai/jev-changing-how-we-build-ai",
+  "summary": "In this episode, Diogo Almeida, co-founder and CEO of TypeSafe, joins us to discuss Jev, TypeSafe’s recently released model for bringing fast, reliable intelligence directly into software. We explore the idea of “machine"
+ },
+ {
+  "id": "81372ee978c0f55f",
+  "timestamp": "2026-09-17T00:40:49+00:00",
+  "source": "siliconvalley",
+  "kind": "podcast",
+  "signal_type": "news",
+  "title": "#502 – Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung",
+  "url": "https://lexfridman.com/andrew-scull/?utm_source=rss&utm_medium=rss&utm_campaign=andrew-scull",
+  "summary": "Andrew Scull is a historian of psychiatry. Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep502-sc See below for timestamps, transcript, and to give feedback, submit questions, contact "
+ },
+ {
+  "id": "d8c3602acdedd7a7",
+  "timestamp": "2026-08-26T21:47:04+00:00",
+  "source": "siliconvalley",
+  "kind": "podcast",
+  "signal_type": "agent",
+  "title": "#501 – DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux",
+  "url": "https://lexfridman.com/dhh-2/?utm_source=rss&utm_medium=rss&utm_campaign=dhh-2",
+  "summary": "DHH is the creator of Ruby on Rails, Omarchy Linux, CTO of 37signals, and a racecar driver. Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep501-sc See below for timestamps, transcript,",
+  "topics": [
+   "agent"
+  ]
+ },
+ {
+  "id": "b1b4cf4318a0c71a",
+  "timestamp": "2026-10-21T10:00:00+00:00",
+  "source": "siliconvalley",
+  "kind": "deep",
+  "signal_type": "news",
+  "title": "Netflix Earnings, Business or Franchise, Disney’s Deal",
+  "url": "https://stratechery.com/2026/netflix-earnings-business-or-franchise-disneys-deal/",
+  "summary": "Netflix has a solid business, which is exactly the problem: the company increasingly seems like a business and not a franchise, at least in terms of growth."
+ },
+ {
+  "id": "b7e2c3e89f324b56",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "siliconvalley",
+  "kind": "deep",
+  "signal_type": "news",
+  "title": "Weekly Dose of Optimism #215",
+  "url": "https://www.notboring.co/p/weekly-dose-of-optimism-215",
+  "summary": "Cammarata Saves Humanity, &#8220;Flying&#8221; Roadster, Arrowhead Cuts Tau, Robots, EPIC, Ben Wilson + Extra Doses"
+ },
+ {
+  "id": "edb1627b3ed84de5",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "siliconvalley",
+  "kind": "deep",
+  "signal_type": "news",
+  "title": "🎙️ How I AI: Meta Muse Wonder + How Brooke Lacey is scaling video with AI",
+  "url": "https://www.lennysnewsletter.com/p/how-i-ai-meta-muse-wonder-how-brooke",
+  "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+  "companies": [
+   "Meta"
+  ]
+ },
+ {
+  "id": "c3b496ff056647ed",
+  "timestamp": "2026-10-21T04:00:00+00:00",
+  "source": "siliconvalley",
+  "kind": "research",
+  "signal_type": "agent",
+  "title": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
+  "url": "https://arxiv.org/abs/2610.26887",
+  "summary": "arXiv:2610.26887v1 Announce Type: new Abstract: Large language model (LLM) agents are evolving from conversational assistants into Cowork Agents capable of autonomous planning, tool use, and complex task execution. Finan",
+  "topics": [
+   "agent"
+  ]
+ },
+ {
+  "id": "525194d3396ffbe2",
+  "timestamp": "2026-10-21T04:00:00+00:00",
+  "source": "siliconvalley",
+  "kind": "research",
+  "signal_type": "model",
+  "title": "Large language model and reinforcement learning based autonomous construction and progress updates",
+  "url": "https://arxiv.org/abs/2610.26899",
+  "summary": "arXiv:2610.26899v1 Announce Type: new Abstract: Due to the rapid growth of the global population, traditional construction methods are gradually unable to meet the current housing demand. The advancement of machine learn",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "42adc67556a4db54",
+  "timestamp": "2026-10-21T04:00:00+00:00",
+  "source": "siliconvalley",
+  "kind": "research",
+  "signal_type": "model",
+  "title": "Pareto-Optimal RTL Code Generation via Multi-Objective Reinforcement Learning with Large Language Models",
+  "url": "https://arxiv.org/abs/2610.26904",
+  "summary": "arXiv:2610.26904v1 Announce Type: new Abstract: Recent studies have proposed reinforcement learning with verifiable rewards (RLVR) methods that enable LLMs to generate high-quality RTL circuits from natural-language spec",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "aae59e406ab2d62e",
+  "timestamp": "2026-10-21T04:00:00+00:00",
+  "source": "siliconvalley",
+  "kind": "research",
+  "signal_type": "opensource",
+  "title": "MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring",
+  "url": "https://arxiv.org/abs/2610.26913",
+  "summary": "arXiv:2610.26913v1 Announce Type: new Abstract: The adoption of Large Language Models for radiology report structuring has been largely dominated by either proprietary cloud-based models or large open models requiring hi",
+  "topics": [
+   "agent",
+   "opensource"
+  ]
+ },
+ {
+  "id": "a5116e796a90456c",
+  "timestamp": "2026-10-21T04:00:00+00:00",
+  "source": "siliconvalley",
+  "kind": "research",
+  "signal_type": "model",
+  "title": "H2DF: Calibrated Target Bands for Controllable Language-Model Unlearning",
+  "url": "https://arxiv.org/abs/2610.26864",
+  "summary": "arXiv:2610.26864v1 Announce Type: new Abstract: Gradient ascent (GA) is a simple language-model unlearning baseline, but it continues increasing forget loss after useful forgetting has occurred. This unbounded pressure c",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "a637f064851e9b9e",
+  "timestamp": "2026-10-21T04:00:00+00:00",
+  "source": "siliconvalley",
+  "kind": "research",
+  "signal_type": "news",
+  "title": "AutoTerm-SST: Adaptive Terminology Memory with Zero Session-Time Setup for Streaming Speech Translation",
+  "url": "https://arxiv.org/abs/2610.26865",
+  "summary": "arXiv:2610.26865v1 Announce Type: new Abstract: Retrieval-augmented speech translation improves rare terminology, but systems such as RASST still assume that users provide a glossary before each session. That assumption "
+ },
+ {
+  "id": "7710a2e23bc9762a",
+  "timestamp": "2026-10-21T04:00:00+00:00",
+  "source": "siliconvalley",
+  "kind": "research",
+  "signal_type": "agent",
+  "title": "WaveCommitments: Private and Verifiable Speech-Agent Marketplaces",
+  "url": "https://arxiv.org/abs/2610.26867",
+  "summary": "arXiv:2610.26867v1 Announce Type: new Abstract: Modern speech systems are evolving into ecosystems of autonomous speech agents that speak together, negotiate, and trade assets such as embeddings, spectrograms, or raw dat",
+  "topics": [
+   "agent"
+  ]
+ },
+ {
+  "id": "a5ff1186940128b0",
+  "timestamp": "2026-10-21T04:00:00+00:00",
+  "source": "siliconvalley",
+  "kind": "research",
+  "signal_type": "model",
+  "title": "Multimodal Ambivalence and Hesitancy Recognition with Bidirectional Audio--Text Cross-Attention",
+  "url": "https://arxiv.org/abs/2610.26868",
+  "summary": "arXiv:2610.26868v1 Announce Type: new Abstract: Ambivalence and hesitancy (A/H) are subtle behavioural states that can be expressed through both what a person says and how it is spoken. This paper presents an audio--text",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "326d5e9295b22c73",
+  "timestamp": "2026-10-21T10:25:11+00:00",
+  "source": "siliconvalley",
+  "kind": "opensource",
+  "signal_type": "product",
+  "title": "Show HN: We built an AI-powered search engine for e-commerce catalogs",
+  "url": "https://visidea.ai/",
+  "summary": "Article URL: https://visidea.ai/ Comments URL: https://news.ycombinator.com/item?id=50178568 Points: 1 # Comments: 0",
+  "topics": [
+   "product"
+  ]
+ },
+ {
+  "id": "c00df1e1ae131d62",
+  "timestamp": "2026-10-21T10:23:05+00:00",
+  "source": "siliconvalley",
+  "kind": "opensource",
+  "signal_type": "product",
+  "title": "Show HN: We replayed 12 real AI agent incidents against our open-source tool",
+  "url": "https://squidbrake.com/benchmark",
+  "summary": "Article URL: https://squidbrake.com/benchmark Comments URL: https://news.ycombinator.com/item?id=50178546 Points: 1 # Comments: 0",
+  "topics": [
+   "agent",
+   "product"
+  ]
+ },
+ {
+  "id": "896de230691979f9",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "siliconvalley",
+  "kind": "opensource",
+  "signal_type": "model",
+  "title": "deepseek-ai/DeepInfer",
+  "url": "https://github.com/deepseek-ai/DeepInfer",
+  "summary": "deepseek-ai/DeepInfer",
+  "companies": [
+   "DeepSeek"
+  ],
+  "topics": [
+   "model",
+   "opensource"
+  ]
+ },
+ {
+  "id": "ce1cc1670b7f275c",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "siliconvalley",
+  "kind": "opensource",
+  "signal_type": "opensource",
+  "title": "Gathin23/cleanyourtv",
+  "url": "https://github.com/Gathin23/cleanyourtv",
+  "summary": "Gathin23/cleanyourtv",
+  "topics": [
+   "opensource"
+  ]
+ },
+ {
+  "id": "785b854b3504d4f0",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "siliconvalley",
+  "kind": "opensource",
+  "signal_type": "model",
+  "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+  "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+  "summary": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+  "companies": [
+   "DeepSeek"
+  ],
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "767990c7a26bfe1c",
+  "timestamp": "2026-10-21T11:31:19+00:00",
+  "source": "siliconvalley",
+  "kind": "opensource",
+  "signal_type": "model",
+  "title": "black-forest-labs/flux-3-image-klein-comfy",
+  "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+  "summary": "black-forest-labs/flux-3-image-klein-comfy",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "26e05cf4cee3d9cb",
+  "timestamp": "2026-10-20T17:59:56Z",
+  "source": "arxiv",
+  "kind": "cs.AI",
+  "signal_type": "model",
+  "title": "Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs",
+  "url": "https://arxiv.org/abs/2610.28632v1",
+  "summary": "Video generation models can now depict remarkably realistic motion. Yet it is unclear how to use this motion beyond pixels: to animate a specific 3D asset and replay the animation in its 3D scene. For instance, a video m"
+ },
+ {
+  "id": "2478493844952ae3",
+  "timestamp": "2026-10-20T17:59:40Z",
+  "source": "arxiv",
+  "kind": "cs.AI",
+  "signal_type": "agent",
+  "title": "GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery",
+  "url": "https://arxiv.org/abs/2610.28629v1",
+  "summary": "Agentic artificial intelligence (AI) systems hold immense potential for automating complex workflows in materials discovery and design, but extending them to domain-intensive mechanistic investigations remains challengin",
+  "topics": [
+   "agent"
+  ]
+ },
+ {
+  "id": "365dc582e3d7f8ed",
+  "timestamp": "2026-10-20T17:59:04Z",
+  "source": "arxiv",
+  "kind": "cs.AI",
+  "signal_type": "model",
+  "title": "UniWALM: Unified World Action Language Model for Embodied Robot Control",
+  "url": "https://arxiv.org/abs/2610.28626v1",
+  "summary": "Motivated by the human ability to integrate experience across language, perception, and action, we introduce UniWALM, a unified world-action-language model that learns video, action, and language in a single shared repre",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "5080464fd150ba3f",
+  "timestamp": "2026-10-20T17:58:32Z",
+  "source": "arxiv",
+  "kind": "cs.AI",
+  "signal_type": "model",
+  "title": "Industrial ReMEmbR: Scaling Spatiotemporal Memory to Robot Fleets",
+  "url": "https://arxiv.org/abs/2610.28624v1",
+  "summary": "Warehouse robot fleets continuously observe operational conditions, but preserving these observations as reusable semantic memory incurs substantial computation, communication, and storage costs. For example, explaining "
+ },
+ {
+  "id": "2484f3f79a4baf43",
+  "timestamp": "2026-10-20T17:58:25Z",
+  "source": "arxiv",
+  "kind": "cs.AI",
+  "signal_type": "model",
+  "title": "MindView: Benchmarking Generative Multi-View Spatial Intelligence",
+  "url": "https://arxiv.org/abs/2610.28622v1",
+  "summary": "Spatial intelligence has recently been assessed through generative tasks such as spatially grounded image editing, yet language-guided generation of spatially consistent views from partial multi-view observations remains"
+ },
+ {
+  "id": "cc85f1779841c016",
+  "timestamp": "2026-10-20T17:56:32Z",
+  "source": "arxiv",
+  "kind": "cs.AI",
+  "signal_type": "model",
+  "title": "Adaptive Multi-Token Prediction: How far should we go?",
+  "url": "https://arxiv.org/abs/2610.28619v1",
+  "summary": "Multi-token prediction (MTP) can accelerate language-model decoding by drafting several tokens and verifying them in a single target-model pass. However, the best speculation horizon changes with context: longer drafts o"
+ },
+ {
+  "id": "7f1af94ba84f81d6",
+  "timestamp": "2026-10-20T17:53:32Z",
+  "source": "arxiv",
+  "kind": "cs.AI",
+  "signal_type": "model",
+  "title": "Semantic Observability for Autonomous Systems Diagnostics",
+  "url": "https://arxiv.org/abs/2610.28611v1",
+  "summary": "Modern distributed microservice deployments generate massive volumes of heterogeneous, multi-format observability logs across physically and logically partitioned infrastructure. Isolating root causes during cascading fa"
+ },
+ {
+  "id": "97ac6fe650bc710b",
+  "timestamp": "2026-10-20T17:50:13Z",
+  "source": "arxiv",
+  "kind": "cs.AI",
+  "signal_type": "model",
+  "title": "Benchmarking Arabic Dialects for Math Problems",
+  "url": "https://arxiv.org/abs/2610.28607v1",
+  "summary": "Mathematical reasoning remains underexplored for low-resource languages, including Dialectal Arabic. To bridge this gap, we introduce the DAR-MGSM (Dialectal Arabic Multilingual Grade School Math) Benchmark, the first ma"
+ },
+ {
+  "id": "7622e180871c5884",
+  "timestamp": "2026-10-20T17:48:56Z",
+  "source": "arxiv",
+  "kind": "cs.AI",
+  "signal_type": "model",
+  "title": "Value-Rich, Differently Organized: Measuring Value Expression and Organization in AI-Generated Debates",
+  "url": "https://arxiv.org/abs/2610.28604v1",
+  "summary": "Current evaluation of LLM-generated debate largely focuses on argumentative quality, leaving the value structure of generated arguments underexamined. We introduce a diagnostic metric framework for comparing how values a"
+ },
+ {
+  "id": "64545655f8f9b814",
+  "timestamp": "2026-10-20T17:47:51Z",
+  "source": "arxiv",
+  "kind": "cs.AI",
+  "signal_type": "funding",
+  "title": "Turning TS2Vec into a Foundation Model for Time Series Classification",
+  "url": "https://arxiv.org/abs/2610.28602v1",
+  "summary": "TS2Vec is one of the strongest self-supervised methods for time series classification, introduced in 2022. It is designed to be trained anew on every dataset: self-supervised pre-training followed by linear probing. Sinc",
+  "topics": [
+   "model",
+   "funding"
+  ]
+ },
+ {
+  "id": "444f826557b2cb80",
+  "timestamp": "2026-10-20T17:47:37Z",
+  "source": "arxiv",
+  "kind": "cs.AI",
+  "signal_type": "agent",
+  "title": "Evolving Agent Interfaces",
+  "url": "https://arxiv.org/abs/2610.28601v1",
+  "summary": "Computer-use agents are limited by the interfaces humans give them. An agent may type a spreadsheet cell by cell when a single line of code would do, or print all two thousand lines of a file through a shell to find one ",
+  "topics": [
+   "agent"
+  ]
+ },
+ {
+  "id": "934b51fe63e31d0b",
+  "timestamp": "2026-10-20T17:45:57Z",
+  "source": "arxiv",
+  "kind": "cs.AI",
+  "signal_type": "model",
+  "title": "What Do RTL Repair Benchmarks Actually Measure?",
+  "url": "https://arxiv.org/abs/2610.28595v1",
+  "summary": "RTL repair benchmarks should measure whether a model can fix broken RTL given a specification. To this end, we construct and hash-bind RTLRepairDataset, 5,784 (broken, fixed) training pairs; RTLRepairBench, 459 held-out "
+ },
+ {
+  "id": "680ba152a1198449",
+  "timestamp": "2026-10-20T17:40:08Z",
+  "source": "arxiv",
+  "kind": "cs.AI",
+  "signal_type": "agent",
+  "title": "Capable Teacher, Myopic Scorer: Reward-Free Teacher Repair for Agentic On-Policy Distillation",
+  "url": "https://arxiv.org/abs/2610.28586v1",
+  "summary": "Agentic on-policy distillation (OPD) trains a student agent on its own trajectories while a teacher scores every token. A natural explanation of where it goes wrong is compounding error: the student's mistakes carry its ",
+  "topics": [
+   "agent"
+  ]
+ },
+ {
+  "id": "50a28c42b6dc1a6e",
+  "timestamp": "2026-10-20T17:39:42Z",
+  "source": "arxiv",
+  "kind": "cs.AI",
+  "signal_type": "agent",
+  "title": "SceneRig: An Agentic System for Simulation-Ready 3D Scene Reconstruction from Single Images",
+  "url": "https://arxiv.org/abs/2610.28585v1",
+  "summary": "Simulation is a powerful tool for robotics, but building diverse, simulation-ready scenes at scale remains difficult. Reconstructing scenes from single images is a promising alternative, but visual similarity alone is in",
+  "topics": [
+   "agent"
+  ]
+ },
+ {
+  "id": "7124a47e09ec3004",
+  "timestamp": "2026-10-20T17:39:41Z",
+  "source": "arxiv",
+  "kind": "cs.AI",
+  "signal_type": "model",
+  "title": "Beyond the Sequentiality Bottleneck: A Hybrid Diffusion-Autoregressive Framework for Efficient Multimodal Reasoning",
+  "url": "https://arxiv.org/abs/2610.28584v1",
+  "summary": "Autoregressive models (ARMs) face a \"Sequentiality Bottleneck\" in reasoning, while diffusion language models (DLMs) offer parallelism but lack semantic coherence. To addresses both limitations, we propose Collaborative R",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "c72008cd83743905",
+  "timestamp": "2026-10-20T17:32:57Z",
+  "source": "arxiv",
+  "kind": "cs.AI",
+  "signal_type": "model",
+  "title": "Spatially Informed and Direction Sensitive Representation Learning for Spatial Transcriptomics",
+  "url": "https://arxiv.org/abs/2610.28579v1",
+  "summary": "Cellular states are shaped by both intrinsic gene expression programs and the spatial microenvironment in which cells reside. Spatial transcriptomics makes this context measurable, but effective representation learning r"
+ },
+ {
+  "id": "721c0f22854762dc",
+  "timestamp": "2026-10-20T17:32:48Z",
+  "source": "arxiv",
+  "kind": "cs.AI",
+  "signal_type": "model",
+  "title": "Sage-A1.5: From Long-Horizon Execution to Scientific Exploration with Capability Composition",
+  "url": "https://arxiv.org/abs/2610.28578v1",
+  "summary": "In this report, we introduce Sage-A1.5, a 35B Mixture-of-Experts agentic model that builds on A1 to advance long-horizon problem solving through adaptive capability composition. Compared with A1, Sage-A1.5 learns not onl"
+ },
+ {
+  "id": "0742c48e9689025e",
+  "timestamp": "2026-10-20T17:27:46Z",
+  "source": "arxiv",
+  "kind": "cs.AI",
+  "signal_type": "model",
+  "title": "Evolving Semantic Indexes for Generative Retrieval",
+  "url": "https://arxiv.org/abs/2610.28568v1",
+  "summary": "Generative retrieval (GR) casts search and recommendation as autoregressive generation of discrete semantic identifiers (SIDs). SID design largely determines GR quality, but its discrete, interdependent components (SID c"
+ },
+ {
+  "id": "e07ba0c409f25022",
+  "timestamp": "2026-10-20T17:23:40Z",
+  "source": "arxiv",
+  "kind": "cs.AI",
+  "signal_type": "model",
+  "title": "OptScientist: Automated Discovery of Optimization Laws",
+  "url": "https://arxiv.org/abs/2610.28562v1",
+  "summary": "Many scientific phenomena are best understood as outcomes of underlying optimization problems, yet automated scientific discovery has largely focused on recovering equations that describe observed input-output patterns. "
+ },
+ {
+  "id": "9a22f471bffb15aa",
+  "timestamp": "2026-10-20T17:22:25Z",
+  "source": "arxiv",
+  "kind": "cs.AI",
+  "signal_type": "model",
+  "title": "Agentic Ensemble with Vision-Language Models for Visual Anomaly Detection",
+  "url": "https://arxiv.org/abs/2610.28560v1",
+  "summary": "Visual anomaly detection aims to detect abnormal objects, while anomaly samples are often scarce during model training. Assembling multiple pretrained detectors can help by leveraging their transferable image scores and ",
+  "topics": [
+   "model",
+   "agent"
+  ]
+ },
+ {
+  "id": "a39edacc220418ea",
+  "timestamp": "2026-10-20T17:59:32Z",
+  "source": "arxiv",
+  "kind": "cs.LG",
+  "signal_type": "agent",
+  "title": "Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking",
+  "url": "https://arxiv.org/abs/2610.28628v1",
+  "summary": "Dexterous multi-finger hands hold promise to unlock diverse skills like functional grasps, in-hand reorientation, and dynamic handover that the human-designed world assumes, yet existing learning recipes force a trade-of",
+  "topics": [
+   "agent"
+  ]
+ },
+ {
+  "id": "ac80aa2d932d1eb4",
+  "timestamp": "2026-10-20T17:58:30Z",
+  "source": "arxiv",
+  "kind": "cs.LG",
+  "signal_type": "model",
+  "title": "Planning under Noise with Neural Operators",
+  "url": "https://arxiv.org/abs/2610.28623v1",
+  "summary": "Planning under uncertain control execution noise requires reliable feedback policies across diverse environments. We introduce Planning Under Noise (PUN), a neural operator that learns noise-aware value fields for planni"
+ },
+ {
+  "id": "82b0cde321374cc9",
+  "timestamp": "2026-10-20T17:56:05Z",
+  "source": "arxiv",
+  "kind": "cs.LG",
+  "signal_type": "model",
+  "title": "Efficient Edge-aware Attention Network for Graph Generation",
+  "url": "https://arxiv.org/abs/2610.28618v1",
+  "summary": "Graph generative models commonly use graph-specific Transformer architectures to jointly update node and edge features. However, these architectures do not directly benefit from recent hardware-aware attention implementa"
+ },
+ {
+  "id": "a639eed5cfe333f3",
+  "timestamp": "2026-10-20T17:47:07Z",
+  "source": "arxiv",
+  "kind": "cs.LG",
+  "signal_type": "product",
+  "title": "Neural Implicit Energy Optimization for LiDAR Mapping",
+  "url": "https://arxiv.org/abs/2610.28598v1",
+  "summary": "Neural implicit representations provide memory-efficient signed distance field (SDF) parameterizations for large-scale LiDAR scenes, but the geometry recovered from sparse and often noisy inputs carries jitter and artifa",
+  "topics": [
+   "product"
+  ]
+ },
+ {
+  "id": "e5afc60dd3af06aa",
+  "timestamp": "2026-10-20T17:42:52Z",
+  "source": "arxiv",
+  "kind": "cs.LG",
+  "signal_type": "model",
+  "title": "PaPi: Parallel Picard-Duhamel Integration for Fast Neuro-Spectral Architectures",
+  "url": "https://arxiv.org/abs/2610.28591v1",
+  "summary": "Neuro-spectral architectures (NeuSA) are a class of physics-informed neural networks (PINNs) that have proven effective for solving time-dependent PDEs in the frequency domain. However, training and inference often rely "
+ },
+ {
+  "id": "bab5c3fc62bf5a76",
+  "timestamp": "2026-10-20T17:41:31Z",
+  "source": "arxiv",
+  "kind": "cs.LG",
+  "signal_type": "model",
+  "title": "WildMAE: Structure-Aware Masked Autoencoding for Wildlife Image Reconstruction",
+  "url": "https://arxiv.org/abs/2610.28590v1",
+  "summary": "Camera-trap imagery presents substantial variation in animal appearance, illumination, background clutter, and visual degradation. Masked autoencoders (MAEs) offer a label-free framework for modeling such data through re"
+ },
+ {
+  "id": "d7f203c74ebbd7ec",
+  "timestamp": "2026-10-20T17:40:21Z",
+  "source": "arxiv",
+  "kind": "cs.LG",
+  "signal_type": "model",
+  "title": "Two $\\operatorname{ReLU}$ Layers is All You Need",
+  "url": "https://arxiv.org/abs/2610.28587v1",
+  "summary": "We prove that every $\\operatorname{ReLU}$ network can be exactly simulated by a $\\operatorname{ReLU}$ network with two hidden layers. We present two proofs: one that is based on fillings in homological algebra and a dire"
+ },
+ {
+  "id": "d1a6ec9a7ca15b82",
+  "timestamp": "2026-10-20T17:33:08Z",
+  "source": "arxiv",
+  "kind": "cs.LG",
+  "signal_type": "model",
+  "title": "Continuous-Time Policy Gradient from Discrete Data: Convergence Analysis and Model-Free Algorithms",
+  "url": "https://arxiv.org/abs/2610.28580v1",
+  "summary": "Continuous-time reinforcement learning seeks an optimal policy under unknown dynamics driven by stochastic differential equations using observations collected at discrete times. We develop a policy gradient framework tha",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "1f27992a3e425949",
+  "timestamp": "2026-10-20T17:32:08Z",
+  "source": "arxiv",
+  "kind": "cs.LG",
+  "signal_type": "model",
+  "title": "The Token-Energy Law of LLM Decode: Active Bytes and Realized Time Account for Joules per Token",
+  "url": "https://arxiv.org/abs/2610.28576v1",
+  "summary": "Energy-efficient deployment of large language models requires understanding how model architecture, hardware, and serving settings shape energy per generated token. We introduce the Token-Energy Law, a compact, interpret",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "01494d5b16ac1ce2",
+  "timestamp": "2026-10-20T17:26:18Z",
+  "source": "arxiv",
+  "kind": "cs.LG",
+  "signal_type": "model",
+  "title": "Continual Concept Personalization in Diffusion Models via Residual-Space Adaptation",
+  "url": "https://arxiv.org/abs/2610.28567v1",
+  "summary": "Text-to-image personalization aims to equip pretrained diffusion models with the ability to learn user-specific concepts from only a few reference images. Existing methods, however, typically train each concept independe",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "d53a9db01a37ca02",
+  "timestamp": "2026-10-20T17:24:12Z",
+  "source": "arxiv",
+  "kind": "cs.LG",
+  "signal_type": "model",
+  "title": "The Dynamics of Collapse and Recovery in Clustered Federated Learning",
+  "url": "https://arxiv.org/abs/2610.28565v1",
+  "summary": "Clustered federated learning (CFL) can suffer from cluster collapse. In particular, under unfavorable initialization, early client assignments concentrate heterogeneous groups on one cluster model, which is then trained "
+ },
+ {
+  "id": "e24b5eaa16cb22f3",
+  "timestamp": "2026-10-20T17:23:44Z",
+  "source": "arxiv",
+  "kind": "cs.LG",
+  "signal_type": "funding",
+  "title": "Asymmetric Bidirectional Predictive Dynamics in Google Search and COVID-19 Time Series: A Multi-Horizon Forecast-Error Analysis",
+  "url": "https://arxiv.org/abs/2610.28563v1",
+  "summary": "Online search activity is widely used as a digital trace of information seeking during epidemics, but its predictive value is often reduced to correlation, a selected lag, or a single forecast-error score. We examine eig",
+  "companies": [
+   "Google"
+  ],
+  "topics": [
+   "funding"
+  ]
+ },
+ {
+  "id": "179cb3b5b0eaf191",
+  "timestamp": "2026-10-20T17:23:16Z",
+  "source": "arxiv",
+  "kind": "cs.LG",
+  "signal_type": "model",
+  "title": "Convergence of stochastic gradient descent for learning linear neural networks",
+  "url": "https://arxiv.org/abs/2610.28561v1",
+  "summary": "Stochastic gradient descent (SGD) is the cornerstone of modern deep learning, yet its theoretical convergence properties remain poorly understood in non-convex settings. To address this gap, we study SGD dynamics in deep"
+ },
+ {
+  "id": "28d6ba2280539d1e",
+  "timestamp": "2026-10-20T17:18:55Z",
+  "source": "arxiv",
+  "kind": "cs.LG",
+  "signal_type": "model",
+  "title": "When Do LLMs Help with Feature Selection? A Systematic Empirical Study",
+  "url": "https://arxiv.org/abs/2610.28556v1",
+  "summary": "Large language models (LLMs) can leverage semantic feature names alongside summary statistics for tabular feature selection, yet it remains unclear when such information improves subset selection relative to established ",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "fdb4c610e527bb30",
+  "timestamp": "2026-10-20T17:18:35Z",
+  "source": "arxiv",
+  "kind": "cs.LG",
+  "signal_type": "model",
+  "title": "Learning Computational Structure for Sample-Efficient Prediction",
+  "url": "https://arxiv.org/abs/2610.28555v1",
+  "summary": "Statistical learning in high dimensions suffers from the curse of dimensionality. Fortunately, many functions of practical interest are compositionally sparse, meaning they admit a composition of local functions, each de"
+ },
+ {
+  "id": "51b86520b3a1969e",
+  "timestamp": "2026-10-20T17:55:44Z",
+  "source": "arxiv",
+  "kind": "cs.CL",
+  "signal_type": "model",
+  "title": "NarraSpace: Multimodal Scene-Grounded Evidence for Picture-Description Dementia Classification",
+  "url": "https://arxiv.org/abs/2610.28616v1",
+  "summary": "Picture-description dementia classification uses a shared visual scene, but a transcript-level prediction alone does not identify the scene evidence underlying its inputs. NarraSpace links words and speech times to named",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "8d775af2515b4263",
+  "timestamp": "2026-10-20T17:32:24Z",
+  "source": "arxiv",
+  "kind": "cs.CL",
+  "signal_type": "agent",
+  "title": "Cache Engineering for Agents",
+  "url": "https://arxiv.org/abs/2610.28577v1",
+  "summary": "Large Language Model (LLM) agents can handle increasingly complex tasks, navigating long trajectories of observations and actions. As these trajectories grow, key-value (KV) cache I/O and storage become the dominant cost",
+  "topics": [
+   "agent"
+  ]
+ },
+ {
+  "id": "39cafd0f96d8eed7",
+  "timestamp": "2026-10-20T17:20:29Z",
+  "source": "arxiv",
+  "kind": "cs.CL",
+  "signal_type": "model",
+  "title": "Large Flow Language Models",
+  "url": "https://arxiv.org/abs/2610.28559v1",
+  "summary": "Continuous flow language models offer a path to parallel generation with tools for control and acceleration unavailable to discrete diffusion, yet effective techniques for building them at the billion-parameter scale rem",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "2f030ed2e2b1a6dc",
+  "timestamp": "2026-10-20T17:11:48Z",
+  "source": "arxiv",
+  "kind": "cs.CL",
+  "signal_type": "model",
+  "title": "Binary Discrete Diffusion: Candidate-Set Diffusion for Logic and Planning Tasks",
+  "url": "https://arxiv.org/abs/2610.28543v1",
+  "summary": "Discrete diffusion models iteratively denoise a noisy sequence of categorical data such as text, enabling any-order generation with self-correction and in-filling capabilities. This makes them promising candidates for re",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "dee90dd852a4f889",
+  "timestamp": "2026-10-20T16:42:17Z",
+  "source": "arxiv",
+  "kind": "cs.CL",
+  "signal_type": "model",
+  "title": "BitMTP: When Multi-Token Prediction Meets Low-Bit Large Language Models",
+  "url": "https://arxiv.org/abs/2610.28500v1",
+  "summary": "For efficient deployment of large language models (LLMs), methods of ultra-low-bit backbones reduce weight storage, memory traffic, and linear-layer execution cost, while multi-token prediction (MTP) methods reduce seque",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "4865e9ab5c370321",
+  "timestamp": "2026-10-20T16:41:29Z",
+  "source": "arxiv",
+  "kind": "cs.CL",
+  "signal_type": "model",
+  "title": "Present but Hard to Read: Probing Latent Reasoning with Minimal Pairs",
+  "url": "https://arxiv.org/abs/2610.28498v1",
+  "summary": "Probing studies of latent reasoning often read a model's state where the answer begins and take a failed probe as evidence that a value is absent. We test this with a digit copied from the question, in the looped model O",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "a18b6d4a9b0bfba4",
+  "timestamp": "2026-10-20T16:38:43Z",
+  "source": "arxiv",
+  "kind": "cs.CL",
+  "signal_type": "model",
+  "title": "OptionWorld: A Benchmark for Diagnosing Failures of LLMs as Long-Term Personal Assistants",
+  "url": "https://arxiv.org/abs/2610.28491v1",
+  "summary": "Long-term assistants must follow unfinished tasks across days as information and circumstances change. Finding information or starting an action, however, does not ensure that the task gets completed. We introduce Option",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "da07141eb4ce16d3",
+  "timestamp": "2026-10-20T16:36:33Z",
+  "source": "arxiv",
+  "kind": "cs.CL",
+  "signal_type": "model",
+  "title": "Asymmetric Looped Transformers: Fixed Global Representations for an Iterative Decoder",
+  "url": "https://arxiv.org/abs/2610.28489v1",
+  "summary": "Looped Transformers increase effective depth by repeatedly applying shared layers, offering a way to scale computation without increasing parameter count. However, full-stack looping places context construction and itera",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "9b8f5941ce1c3025",
+  "timestamp": "2026-10-20T16:15:02Z",
+  "source": "arxiv",
+  "kind": "cs.CL",
+  "signal_type": "model",
+  "title": "GPT-6-Astra Understands Touch and Outperform Vision--Tactile--Language--Action Models",
+  "url": "https://arxiv.org/abs/2610.28457v1",
+  "summary": "General-purpose multimodal models have shown promise as direct robot action policies, yet whether they grasp the physics underlying real-world interactions and can apply that understanding to guide action remains underex",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "d0f67b4ec4e61a77",
+  "timestamp": "2026-10-20T16:12:39Z",
+  "source": "arxiv",
+  "kind": "cs.CL",
+  "signal_type": "agent",
+  "title": "Toolflation: Seller Agents Distort Tool Markets Through Spontaneous Generative Engine Optimization",
+  "url": "https://arxiv.org/abs/2610.28454v1",
+  "summary": "Agents are starting to sell to other agents. Seller agents write the listings of tools, services and products, and buyer agents read these listings when they choose what to use. We show that seller agents told only to be",
+  "topics": [
+   "agent"
+  ]
+ },
+ {
+  "id": "199f3cdb0980acc5",
+  "timestamp": "2026-10-20T16:11:21Z",
+  "source": "arxiv",
+  "kind": "cs.CL",
+  "signal_type": "model",
+  "title": "MythoSemantic: An Interactive System for Discovering Semantic Parallels Across Mythological and Religious Traditions",
+  "url": "https://arxiv.org/abs/2610.28452v1",
+  "summary": "We present a tool for the comparative study of mythological and religious texts. Traditional manual analysis is highly labor-intensive and difficult to scale. To address this, we use neural language models to embed texts"
+ },
+ {
+  "id": "f80578c49a66ce5a",
+  "timestamp": "2026-10-20T16:00:34Z",
+  "source": "arxiv",
+  "kind": "cs.CL",
+  "signal_type": "model",
+  "title": "Every Model Leaves a Trace: Multi-Resolution LLM Fingerprinting",
+  "url": "https://arxiv.org/abs/2610.28434v1",
+  "summary": "Large language models leave model-specific traces in their generated text, but it remains unclear how finely these fingerprints can distinguish related models and which signals remain informative as obvious cues are redu",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "d436a3103de1ad9a",
+  "timestamp": "2026-10-20T15:48:56Z",
+  "source": "arxiv",
+  "kind": "cs.CL",
+  "signal_type": "model",
+  "title": "The Instruction Tax on Factual Recall: Base Models Can Beat Their Instruction-Tuned Counterparts",
+  "url": "https://arxiv.org/abs/2610.28407v1",
+  "summary": "We present our solution to the AKBC LM-KBC 2026 Shared Task, where we achieved a score of 0.6836 on the official leaderboard, more than double the baseline of 0.2964. This task requires generating all possible objects fo",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "8ddd6cd4163fd48a",
+  "timestamp": "2026-10-20T15:44:37Z",
+  "source": "arxiv",
+  "kind": "cs.CL",
+  "signal_type": "model",
+  "title": "MAS-Guard: Unified Guardrails from Individual Agents to Multi-Agent LLM Systems",
+  "url": "https://arxiv.org/abs/2610.28397v1",
+  "summary": "Agentic AI extends large language models (LLMs) from generating responses to planning and executing complex workflows, substantially expanding their utility while exposing applications to unsafe actions, information leak",
+  "topics": [
+   "model",
+   "agent"
+  ]
+ },
+ {
+  "id": "64788fa32f49a136",
+  "timestamp": "2026-10-20T15:40:54Z",
+  "source": "arxiv",
+  "kind": "cs.CL",
+  "signal_type": "product",
+  "title": "When Copying Is Hard: Copy-Constrained Decoding for Exact Span Reproduction",
+  "url": "https://arxiv.org/abs/2610.28393v1",
+  "summary": "Precisely reproducing a target span verbatim within a long context is a fundamental capability test for LLMs: even when the target string is present in context, models often still drift within the span or fail to stop co",
+  "topics": [
+   "product"
+  ]
+ },
+ {
+  "id": "f27216f8c2d8f829",
+  "timestamp": "2026-10-20T15:33:20Z",
+  "source": "arxiv",
+  "kind": "cs.CL",
+  "signal_type": "agent",
+  "title": "CAPSafe: A Benchmark for Contextual Action and Plan Safety Reasoning in Embodied Agents",
+  "url": "https://arxiv.org/abs/2610.28381v1",
+  "summary": "Reasoning about safety is essential for embodied agents powered by large language models (LLMs). We introduce the Contextual Action and Plan Safety benchmark (CAPSafe), designed to evaluate safety reasoning at two levels",
+  "topics": [
+   "agent"
+  ]
+ },
+ {
+  "id": "63c0830ab9cbc0fc",
+  "timestamp": "2026-10-20T15:32:52Z",
+  "source": "arxiv",
+  "kind": "cs.CL",
+  "signal_type": "agent",
+  "title": "Object-Oriented Harness: Evolving Agent Harnesses through Object-Oriented Design",
+  "url": "https://arxiv.org/abs/2610.28380v1",
+  "summary": "Agent harnesses are executable code that specifies the prompts, tools, and control flow around a language model. A single global harness can struggle with heterogeneous tasks that require different execution strategies. ",
+  "topics": [
+   "agent"
+  ]
+ },
+ {
+  "id": "a06419de1de9c85f",
+  "timestamp": "2026-10-20T15:07:19Z",
+  "source": "arxiv",
+  "kind": "cs.CL",
+  "signal_type": "model",
+  "title": "DeclineCraft: A RAG Abstention Benchmark for Jointly Measuring Combined Retrieval and Parametric Knowledge",
+  "url": "https://arxiv.org/abs/2610.28340v1",
+  "summary": "Reliable retrieval-augmented generation (RAG) requires recognizing when neither retrieved documents nor parametric knowledge supports an answer. We introduce DeclineCraft, a dynamic abstention benchmark whose unanswerabl"
+ },
+ {
+  "id": "2fc6195d8386d05a",
+  "timestamp": "2026-10-20T17:59:51Z",
+  "source": "arxiv",
+  "kind": "cs.CV",
+  "signal_type": "model",
+  "title": "AEON: Unifying Video and 3D World Models",
+  "url": "https://arxiv.org/abs/2610.28631v1",
+  "summary": "Current world models for explicit world simulation typically follow two distinct pathways: (1) video generative models (e.g., Sora), which simulate realistic appearances but fail to preserve 3D consistency; and (2) 3D ge",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "9052b9a24e40c7e7",
+  "timestamp": "2026-10-20T17:59:48Z",
+  "source": "arxiv",
+  "kind": "cs.CV",
+  "signal_type": "model",
+  "title": "SolarRenderer: Few-Step Generative Reference Rendering",
+  "url": "https://arxiv.org/abs/2610.28630v1",
+  "summary": "Game engines and coding agents can specify the layout, motion, and camera of a scene, yet turning such coarse structure into realistic video requires a renderer that follows the structure and completes the appearance it "
+ },
+ {
+  "id": "82e117cf7483e920",
+  "timestamp": "2026-10-20T17:59:00Z",
+  "source": "arxiv",
+  "kind": "cs.CV",
+  "signal_type": "model",
+  "title": "PsycheMME: A Psychology-Informed Benchmark for Social Understanding and Interaction in Videos",
+  "url": "https://arxiv.org/abs/2610.28625v1",
+  "summary": "Understanding human needs and selecting responses require distinct judgments that aggregate accuracy can obscure. We introduce PsycheMME, a video benchmark informed by psychology, with eight capabilities spanning groundi"
+ },
+ {
+  "id": "c1249317c0e5c75a",
+  "timestamp": "2026-10-20T17:55:06Z",
+  "source": "arxiv",
+  "kind": "cs.CV",
+  "signal_type": "model",
+  "title": "KoalaGS: Complexity-Aware Continuous Level of Detail for Gaussian Splatting",
+  "url": "https://arxiv.org/abs/2610.28615v1",
+  "summary": "Deploying a trained 3D Gaussian Splatting scene under shrinking compute budgets requires one primitive set to remain effective when rendered at smaller prefixes. In this continuous level of detail (LoD) setting, the chal"
+ },
+ {
+  "id": "3dcdaad8f7b58840",
+  "timestamp": "2026-10-20T17:45:45Z",
+  "source": "arxiv",
+  "kind": "cs.CV",
+  "signal_type": "model",
+  "title": "Learning the 4D World through Point Trajectory Forecasting",
+  "url": "https://arxiv.org/abs/2610.28594v1",
+  "summary": "Reliable multi-view forecasting requires videos from different cameras to describe the same evolving 3D scene. To this end, we introduce Video-Point Model (VPM), a world model that conditions on multi-view video historie"
+ },
+ {
+  "id": "43e5a5338511d8f5",
+  "timestamp": "2026-10-20T17:29:44Z",
+  "source": "arxiv",
+  "kind": "cs.CV",
+  "signal_type": "model",
+  "title": "Can a Display Be Used for Rapid LiDAR-Camera Extrinsic Calibration?",
+  "url": "https://arxiv.org/abs/2610.28571v1",
+  "summary": "ScreenCalib enables light detection and ranging (LiDAR)--camera extrinsic calibration using an ordinary programmable display, providing known visual markers and controlled geometry while reducing dedicated target prepara"
+ },
+ {
+  "id": "a111d8d2bce9efa8",
+  "timestamp": "2026-10-20T17:17:59Z",
+  "source": "arxiv",
+  "kind": "cs.CV",
+  "signal_type": "model",
+  "title": "OverSeer: Multi-Agent World Models Beyond What Agents See",
+  "url": "https://arxiv.org/abs/2610.28554v1",
+  "summary": "Despite the success of video world models, extending them to multiple agents is difficult because it requires generating several agent-specific video streams that are consistent in time and between agents. To address thi",
+  "topics": [
+   "model",
+   "agent"
+  ]
+ },
+ {
+  "id": "c2e94fc26109b72c",
+  "timestamp": "2026-10-20T17:10:58Z",
+  "source": "arxiv",
+  "kind": "cs.CV",
+  "signal_type": "model",
+  "title": "Predictive Latents for Autoregressive Language Models: Possibility, Gauge, and Obstruction",
+  "url": "https://arxiv.org/abs/2610.28540v1",
+  "summary": "Autoregressive language models are trained by next-token cross-entropy, yet several recent systems also iterate a hidden state without emitting a token: continuous thoughts, pause steps, and recurrent depth. This note se",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "9b9a5a11195df434",
+  "timestamp": "2026-10-20T17:04:38Z",
+  "source": "arxiv",
+  "kind": "cs.CV",
+  "signal_type": "model",
+  "title": "CoGaussian: Open-Vocabulary Gaussian-based Collaborative 3D Scene Understanding",
+  "url": "https://arxiv.org/abs/2610.28530v1",
+  "summary": "Collaborative perception enables agents to retrieve the scene semantics and geometry beyond the field of view of any individual agent. This broader scene understanding enhances transportation safety and improves efficien"
+ },
+ {
+  "id": "41d9ac93fa24b9b2",
+  "timestamp": "2026-10-20T16:59:22Z",
+  "source": "arxiv",
+  "kind": "cs.CV",
+  "signal_type": "security",
+  "title": "Copyright Leakage Detection in AI Generated Videos",
+  "url": "https://arxiv.org/abs/2610.28524v1",
+  "summary": "Video generation models can create realistic-looking video footage from images and text prompts. Some of the recent advances have raised concerns about the reproduction of copyrighted visual content. However, copyright l",
+  "topics": [
+   "security"
+  ]
+ },
+ {
+  "id": "1fdd71a74ee45f2c",
+  "timestamp": "2026-10-20T16:57:52Z",
+  "source": "arxiv",
+  "kind": "cs.CV",
+  "signal_type": "model",
+  "title": "VLM-Guided Contact Retargeting and Generative Partner Modeling for Humanoid-Human Interaction",
+  "url": "https://arxiv.org/abs/2610.28523v1",
+  "summary": "Humanoid-human interaction requires robots to operate under severe partial observability: during close physical contact, the human partner is occluded, truncated, or outside the robot's field of view, causing pose estima",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "338826dbbe17f29f",
+  "timestamp": "2026-10-20T16:57:49Z",
+  "source": "arxiv",
+  "kind": "cs.CV",
+  "signal_type": "model",
+  "title": "Latent Bridge: From Video Latents to 3D Geometry via Feature Alignment",
+  "url": "https://arxiv.org/abs/2610.28521v1",
+  "summary": "Video generation and feed-forward 3D reconstruction typically use separate representations, requiring RGB decoding and visual re-encoding to recover geometry from generated latents. We propose Latent Bridge, which connec"
+ },
+ {
+  "id": "e394fc9d5b713655",
+  "timestamp": "Mon, 12 Oct 26 09:00:00 -0400",
+  "source": "hardware",
+  "kind": "chip",
+  "type": "hwmodel",
+  "signal_type": "agent",
+  "title": "Introducing AMD Helion, Agentic AI Compute at Rack Scale",
+  "url": "https://ir.amd.com/news-events/press-releases/detail/1301/introducing-amd-helion-agentic-ai-compute-at-rack-scale",
+  "summary": "Introducing AMD Helion, Agentic AI Compute at Rack Scale",
+  "org": "AMD News",
+  "topics": [
+   "agent"
+  ]
+ },
+ {
+  "id": "dd269699d64d26d8",
+  "timestamp": "Tue, 06 Oct 26 16:15:00 -0400",
+  "source": "hardware",
+  "kind": "chip",
+  "signal_type": "opensource",
+  "title": "AMD to Report Fiscal Third Quarter 2026 Financial Results",
+  "url": "https://ir.amd.com/news-events/press-releases/detail/1300/amd-to-report-fiscal-third-quarter-2026-financial-results",
+  "summary": "AMD to Report Fiscal Third Quarter 2026 Financial Results",
+  "org": "AMD News",
+  "topics": [
+   "opensource"
+  ]
+ },
+ {
+  "id": "f0960d48dd0c3404",
+  "timestamp": "Mon, 28 Sep 26 16:05:00 -0400",
+  "source": "hardware",
+  "kind": "chip",
+  "type": "hwmodel",
+  "signal_type": "news",
+  "title": "AMD to Acquire World Labs to Advance the Future of AI Compute",
+  "url": "https://ir.amd.com/news-events/press-releases/detail/1299/amd-to-acquire-world-labs-to-advance-the-future-of-ai-compute",
+  "summary": "AMD to Acquire World Labs to Advance the Future of AI Compute",
+  "org": "AMD News"
+ },
+ {
+  "id": "4ad543769f085ed3",
+  "timestamp": "Mon, 31 Aug 26 07:15:00 -0400",
+  "source": "hardware",
+  "kind": "chip",
+  "signal_type": "news",
+  "title": "AMD, Cisco and HUMAIN Expand Saudi Arabia’s AI Infrastructure as AMD Instinct Systems Go Live",
+  "url": "https://ir.amd.com/news-events/press-releases/detail/1298/amd-cisco-and-humain-expand-saudi-arabias-ai-infrastructure-as-amd-instinct-systems-go-live",
+  "summary": "AMD, Cisco and HUMAIN Expand Saudi Arabia’s AI Infrastructure as AMD Instinct Systems Go Live",
+  "org": "AMD News"
+ },
+ {
+  "id": "1f1aa147b04c8bc3",
+  "timestamp": "Wed, 19 Aug 26 16:15:00 -0400",
+  "source": "hardware",
+  "kind": "chip",
+  "signal_type": "product",
+  "title": "AMD Appoints Tim Ryan to Board of Directors",
+  "url": "https://ir.amd.com/news-events/press-releases/detail/1297/amd-appoints-tim-ryan-to-board-of-directors",
+  "summary": "AMD Appoints Tim Ryan to Board of Directors",
+  "org": "AMD News",
+  "topics": [
+   "product"
+  ]
+ },
+ {
+  "id": "e32e31feae9458c1",
+  "timestamp": "Thu, 06 Aug 26 16:05:00 -0400",
+  "source": "hardware",
+  "kind": "chip",
+  "type": "hwmodel",
+  "signal_type": "news",
+  "title": "AMD Acquires Taalas to Advance Compute Solutions for Rapidly Growing AI Inference Market",
+  "url": "https://ir.amd.com/news-events/press-releases/detail/1296/amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market",
+  "summary": "AMD Acquires Taalas to Advance Compute Solutions for Rapidly Growing AI Inference Market",
+  "org": "AMD News"
+ },
+ {
+  "id": "300efb0f780a1111",
+  "timestamp": "Tue, 04 Aug 26 16:15:00 -0400",
+  "source": "hardware",
+  "kind": "chip",
+  "signal_type": "opensource",
+  "title": "AMD Reports Second Quarter 2026 Financial Results",
+  "url": "https://ir.amd.com/news-events/press-releases/detail/1295/amd-reports-second-quarter-2026-financial-results",
+  "summary": "AMD Reports Second Quarter 2026 Financial Results",
+  "org": "AMD News",
+  "topics": [
+   "opensource"
+  ]
+ },
+ {
+  "id": "18663e65dadbddf9",
+  "timestamp": "Thu, 23 Jul 26 14:30:00 -0400",
+  "source": "hardware",
+  "kind": "chip",
+  "type": "hwmodel",
+  "signal_type": "agent",
+  "title": "AAI 2026: AMD Delivers Full-Stack Compute for the Agentic AI Era",
+  "url": "https://ir.amd.com/news-events/press-releases/detail/1294/aai-2026-amd-delivers-full-stack-compute-for-the-agentic-ai-era",
+  "summary": "AAI 2026: AMD Delivers Full-Stack Compute for the Agentic AI Era",
+  "org": "AMD News",
+  "topics": [
+   "agent"
+  ]
+ },
+ {
+  "id": "b66ac585bb716f4b",
+  "timestamp": "Thu, 23 Jul 26 13:45:00 -0400",
+  "source": "hardware",
+  "kind": "chip",
+  "type": "hwmodel",
+  "signal_type": "news",
+  "title": "AMD and Cerebras Announce Industry-Leading Ultra-Low-Latency and High Throughput AI Inference Solution",
+  "url": "https://ir.amd.com/news-events/press-releases/detail/1293/amd-and-cerebras-announce-industry-leading-ultra-low-latency-and-high-throughput-ai-inference-solution",
+  "summary": "AMD and Cerebras Announce Industry-Leading Ultra-Low-Latency and High Throughput AI Inference Solution",
+  "org": "AMD News",
+  "companies": [
+   "Cerebras"
+  ]
+ },
+ {
+  "id": "b46ceef98ef40939",
+  "timestamp": "Wed, 22 Jul 26 09:00:00 -0400",
+  "source": "hardware",
+  "kind": "chip",
+  "type": "hwmodel",
+  "signal_type": "funding",
+  "title": "AMD and Anthropic Announce Strategic Partnership to Deploy Up to 2 Gigawatts of AMD Instinct MI450 Series GPUs",
+  "url": "https://ir.amd.com/news-events/press-releases/detail/1292/amd-and-anthropic-announce-strategic-partnership-to-deploy-up-to-2-gigawatts-of-amd-instinct-mi450-series-gpus",
+  "summary": "AMD and Anthropic Announce Strategic Partnership to Deploy Up to 2 Gigawatts of AMD Instinct MI450 Series GPUs",
+  "org": "AMD News",
+  "companies": [
+   "Anthropic"
+  ],
+  "topics": [
+   "model",
+   "funding"
+  ]
+ },
+ {
+  "id": "fdc22ee01130a4dd",
+  "timestamp": "Tue, 20 Oct 2026 19:40:05 +0000",
+  "source": "hardware",
+  "kind": "robot",
+  "signal_type": "product",
+  "title": "Reservoir launches new agricultural robotics incubator for Washington growers",
+  "url": "https://www.therobotreport.com/reservoir-launches-new-agricultural-robotics-incubator-for-washington-growers/",
+  "summary": "Reservoir launches new agricultural robotics incubator for Washington growers",
+  "org": "The Robot Report",
+  "topics": [
+   "opensource",
+   "product"
+  ]
+ },
+ {
+  "id": "3f689ac835fbc295",
+  "timestamp": "Tue, 20 Oct 2026 16:23:21 +0000",
+  "source": "hardware",
+  "kind": "robot",
+  "signal_type": "opensource",
+  "title": "RoboBusiness rebrands as Robotics Summit & Expo West",
+  "url": "https://www.therobotreport.com/robobusiness-rebrands-as-robotics-summit-expo-west/",
+  "summary": "RoboBusiness rebrands as Robotics Summit & Expo West",
+  "org": "The Robot Report",
+  "topics": [
+   "opensource"
+  ]
+ },
+ {
+  "id": "e59fd3421de5dab7",
+  "timestamp": "Tue, 20 Oct 2026 16:15:24 +0000",
+  "source": "hardware",
+  "kind": "robot",
+  "signal_type": "opensource",
+  "title": "2027 TRR50 Robotics Innovation Awards open nominations",
+  "url": "https://www.therobotreport.com/2027-trr50-robotics-innovation-awards-open-nominations/",
+  "summary": "2027 TRR50 Robotics Innovation Awards open nominations",
+  "org": "The Robot Report",
+  "topics": [
+   "opensource"
+  ]
+ },
+ {
+  "id": "1884692544c8300e",
+  "timestamp": "Tue, 20 Oct 2026 12:59:43 +0000",
+  "source": "hardware",
+  "kind": "robot",
+  "signal_type": "opensource",
+  "title": "Avenda Health expands Unfold AI platform to support intraoperative prostate cancer care",
+  "url": "https://www.therobotreport.com/avenda-health-expands-unfold-ai-platform-support-intraoperative-prostate-cancer-care/",
+  "summary": "Avenda Health expands Unfold AI platform to support intraoperative prostate cancer care",
+  "org": "The Robot Report",
+  "topics": [
+   "opensource"
+  ]
+ },
+ {
+  "id": "010038ce287c594d",
+  "timestamp": "Tue, 20 Oct 2026 12:00:10 +0000",
+  "source": "hardware",
+  "kind": "robot",
+  "signal_type": "opensource",
+  "title": "A guide to Day 1 of RoboBusiness 2026",
+  "url": "https://www.therobotreport.com/a-guide-to-day-1-of-robobusiness-2026/",
+  "summary": "A guide to Day 1 of RoboBusiness 2026",
+  "org": "The Robot Report",
+  "topics": [
+   "opensource"
+  ]
+ },
+ {
+  "id": "5cb10d0d8ee53e9b",
+  "timestamp": "Tue, 20 Oct 2026 10:25:47 +0000",
+  "source": "hardware",
+  "kind": "robot",
+  "signal_type": "opensource",
+  "title": "Gecko Robotics secures $300M contract with the U.S. Navy",
+  "url": "https://www.therobotreport.com/gecko-robotics-earns-300m-contract-with-the-u-s-navy/",
+  "summary": "Gecko Robotics secures $300M contract with the U.S. Navy",
+  "org": "The Robot Report",
+  "topics": [
+   "opensource"
+  ]
+ },
+ {
+  "id": "cc5017488504572d",
+  "timestamp": "Mon, 19 Oct 2026 17:38:13 +0000",
+  "source": "hardware",
+  "kind": "robot",
+  "type": "hwmodel",
+  "signal_type": "opensource",
+  "title": "Unleash AI Innovation: The Power of NVIDIA RTX PRO 6000 Blackwell Workstation Edition Fueled by PNY-Supplied GPUs",
+  "url": "https://www.therobotreport.com/unleash-ai-innovation-the-power-of-nvidia-rtx-pro-6000-blackwell-workstation-edition-fueled-by-pny-supplied-gpus/",
+  "summary": "Unleash AI Innovation: The Power of NVIDIA RTX PRO 6000 Blackwell Workstation Edition Fueled by PNY-Supplied GPUs",
+  "org": "The Robot Report",
+  "companies": [
+   "NVIDIA"
+  ],
+  "topics": [
+   "opensource"
+  ]
+ },
+ {
+  "id": "2f464f386179c487",
+  "timestamp": "Mon, 19 Oct 2026 17:07:52 +0000",
+  "source": "hardware",
+  "kind": "robot",
+  "signal_type": "opensource",
+  "title": "Daimon Robotics building the infrastructure layer for tactile intelligence",
+  "url": "https://www.therobotreport.com/daimon-robotics-building-the-infrastructure-layer-for-tactile-intelligence/",
+  "summary": "Daimon Robotics building the infrastructure layer for tactile intelligence",
+  "org": "The Robot Report",
+  "topics": [
+   "opensource"
+  ]
+ },
+ {
+  "id": "17a8338c30027996",
+  "timestamp": "Mon, 19 Oct 2026 15:55:12 +0000",
+  "source": "hardware",
+  "kind": "robot",
+  "signal_type": "funding",
+  "title": "Kodama raises $7M to bring robotics to forestry",
+  "url": "https://www.therobotreport.com/kodama-raises-7m-bring-robotics-forestry/",
+  "summary": "Kodama raises $7M to bring robotics to forestry",
+  "org": "The Robot Report",
+  "topics": [
+   "funding",
+   "opensource"
+  ]
+ },
+ {
+  "id": "323eb4663f10bafc",
+  "timestamp": "Mon, 19 Oct 2026 12:00:34 +0000",
+  "source": "hardware",
+  "kind": "robot",
+  "signal_type": "product",
+  "title": "A guide to everything happening at RoboBusiness 2026",
+  "url": "https://www.therobotreport.com/a-guide-to-everything-happening-at-robobusiness-2026/",
+  "summary": "A guide to everything happening at RoboBusiness 2026",
+  "org": "The Robot Report",
+  "topics": [
+   "opensource",
+   "product"
+  ]
+ },
+ {
+  "id": "e7d6b507bffccf21",
+  "timestamp": "Sun, 18 Oct 2026 12:30:50 +0000",
+  "source": "hardware",
+  "kind": "robot",
+  "signal_type": "opensource",
+  "title": "How to choose a BLDC motor for robotic arms and mobile robots",
+  "url": "https://www.therobotreport.com/how-to-choose-bldc-motor-robotic-arms-mobile-robots/",
+  "summary": "How to choose a BLDC motor for robotic arms and mobile robots",
+  "org": "The Robot Report",
+  "topics": [
+   "opensource"
+  ]
+ },
+ {
+  "id": "4c8f2e80d458275a",
+  "timestamp": "Sat, 17 Oct 2026 21:33:57 +0000",
+  "source": "hardware",
+  "kind": "robot",
+  "signal_type": "opensource",
+  "title": "ADI explains the race to make AI physical",
+  "url": "https://www.therobotreport.com/adi-explains-the-race-to-make-ai-physical/",
+  "summary": "ADI explains the race to make AI physical",
+  "org": "The Robot Report",
+  "topics": [
+   "opensource"
+  ]
+ },
+ {
+  "id": "fc190b828211b161",
+  "timestamp": "Sat, 17 Oct 2026 12:30:55 +0000",
+  "source": "hardware",
+  "kind": "robot",
+  "signal_type": "opensource",
+  "title": "The rise of the machines is canceled: Why humanoids with AI are helpers, not enemies",
+  "url": "https://www.therobotreport.com/rise-machines-canceled-why-humanoids-ai-are-helpers-not-enemies/",
+  "summary": "The rise of the machines is canceled: Why humanoids with AI are helpers, not enemies",
+  "org": "The Robot Report",
+  "topics": [
+   "opensource"
+  ]
+ },
+ {
+  "id": "24e7fed329bde893",
+  "timestamp": "Fri, 16 Oct 2026 23:39:33 +0000",
+  "source": "hardware",
+  "kind": "robot",
+  "signal_type": "opensource",
+  "title": "Why opportunity charging is winning as robot fleets scale",
+  "url": "https://www.therobotreport.com/why-opportunity-charging-is-winning-as-robot-fleets-scale/",
+  "summary": "Why opportunity charging is winning as robot fleets scale",
+  "org": "The Robot Report",
+  "topics": [
+   "opensource"
+  ]
+ },
+ {
+  "id": "66b906538bd60381",
+  "timestamp": "Fri, 16 Oct 2026 17:57:12 +0000",
+  "source": "hardware",
+  "kind": "robot",
+  "signal_type": "product",
+  "title": "MassRobotics opens applications for Healthcare Robotics Startup Catalyst Program",
+  "url": "https://www.therobotreport.com/massrobotics-opens-applications-healthcare-robotics-startup-catalyst-program/",
+  "summary": "MassRobotics opens applications for Healthcare Robotics Startup Catalyst Program",
+  "org": "The Robot Report",
+  "topics": [
+   "opensource",
+   "product"
+  ]
+ },
+ {
+  "id": "bfc2c47d07b99975",
+  "timestamp": "Mon, 19 Oct 2026 21:12:22 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "news",
+  "title": "Nvidia CEO Jensen Huang warns Germany is falling behind in AI race - Euronews.com",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV2dyWXBXVG95amEzSGNqMHl3ZUNaN1ZqLUJqVVJFVU9MNGx4RnpWNXFMQ3hYLVk0WGotWFltOUthV3k4cmN0anEyTmlFN2pSV2JlNUszT3BfNE45WXg2Z29TRFVxR3lYVDFoM0RwQm5mSTZ6RTNYeDVEREJwODlRYVlMRmxta2RFMVVDSnRMRE1XYXR2VHVKMXp5MlFxeXJxZEI2eg?oc=5",
+  "summary": "Nvidia CEO Jensen Huang warns Germany is falling behind in AI race - Euronews.com",
+  "org": "NVIDIA",
+  "companies": [
+   "NVIDIA"
+  ]
+ },
+ {
+  "id": "e61bde727eb4c73f",
+  "timestamp": "Tue, 20 Oct 2026 18:29:00 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "news",
+  "title": "Amazon is buying billions in Nvidia AI systems it can't yet turn on - Business Insider",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOR3daazVkZ09LWFR6Y0dUbG9BUHBvMlU4a0UzVWlEazZ6RHc5cDBBRUxyTTEwdU1FdjdKT012Z0JkSWJ5SzBRM3RGWnRNblpQVEhGQXpRZ09McU4zYS0wLXRzYkJMZjBBSWU1SS1OV21EUU5XS0ZoUlNZNEhVUXFCSTAtUC1FUDRxbF8zVDZLclFvREE?oc=5",
+  "summary": "Amazon is buying billions in Nvidia AI systems it can't yet turn on - Business Insider",
+  "org": "NVIDIA",
+  "companies": [
+   "Amazon",
+   "NVIDIA"
+  ]
+ },
+ {
+  "id": "65c2c5b0e2230541",
+  "timestamp": "Mon, 19 Oct 2026 15:36:43 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "news",
+  "title": "Amazon says its AI chips will work with popular coding language, challenging Nvidia - Reuters",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUGVNVWtyU1BHU0pGZFJTZk9RV3NHOXBoSHVqaHVEeXN1TEJveTNIVzQ4eGkxZ2RWbER1clItSk16ODNaVnBFbWhKamR1RURGdG90X3F0ZEF2bko3SW5mUGxjZzBKVm50UFI5eUp2ampsV08ySWlMUEZyQmRUd1M1NF91UGJoZWxiVmR5NGRCMmNNM0V2R3pLMVhBT05EbmRjY0dxMXlSNklIVE9xeG5DQWNPcjVXY1ZBRTBrVU9RMTNPaVJOUHpjS2RrZ3huLXlZa2c?oc=5",
+  "summary": "Amazon says its AI chips will work with popular coding language, challenging Nvidia - Reuters",
+  "org": "NVIDIA",
+  "companies": [
+   "Amazon",
+   "NVIDIA"
+  ]
+ },
+ {
+  "id": "1bc8cf2100795f93",
+  "timestamp": "Tue, 20 Oct 2026 18:38:24 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "product",
+  "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers - TechCrunch",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSkRFYm5NWUd5M3dQUzVGWDlhWkxOd3BpRFZCazZfNlVhWktoSTVFVTNoOHJKZDNRLUMtRmdJQ2ZVY3Y5S0plNzl6Q0toR2RtNWZHRlNUOHd6c044YmpmVWE3LWdDMnJHRmU3WkZSdnFSLUExY2diNW5BTUkyQlVlcTFwM0pKUk9WMEVKWC02Nl9jRlFXandQQkprYlAtaG1jYTZNT1RTaHpBRlBQSnFWVVg3V0w?oc=5",
+  "summary": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers - TechCrunch",
+  "org": "NVIDIA",
+  "companies": [
+   "Google",
+   "Amazon",
+   "NVIDIA"
+  ],
+  "topics": [
+   "product"
+  ]
+ },
+ {
+  "id": "d3f23c802ccfa475",
+  "timestamp": "Wed, 21 Oct 2026 09:43:51 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "news",
+  "title": "NVIDIA Introduces DSX POD AI Factories to Accelerate Europe’s Infrastructure Deployment - NVIDIA Newsroom",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS3B4emVFWHZaWWVtSXgxaDdQanhRQ004RXRPejI0Nm85LUl0ZTdGeEJ1YlE0NXNuVTgyRmQ4Y1hMaEtqV0V2LTRERHN4SnZYTHlyajA3dU83NG11SFdzV3FmM0o2WUJmSnNKZm53cFVZQXhVS0duc2hNaGdIeGRyRXExemo4d2RabjE4cWNxMTZ1SV9vNUdYblFTVFRpd0tVVDhmOGdRcThBSXZvdFFkRGwxRWhjWjRIVGxCMG1R?oc=5",
+  "summary": "NVIDIA Introduces DSX POD AI Factories to Accelerate Europe’s Infrastructure Deployment - NVIDIA Newsroom",
+  "org": "NVIDIA",
+  "companies": [
+   "NVIDIA"
+  ]
+ },
+ {
+  "id": "8bd1d1a71bc70d3c",
+  "timestamp": "Wed, 21 Oct 2026 07:03:48 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "model",
+  "title": "OpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it - CNBC",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82c0lqMFI4dFFfLWhRZ0VZbW9LeFpaVDVTM3kwR3BzWFlST3o4ZXFqcVJVVF9BT2JRM0dFcFN0YWNCcUJjOUVkUUFDZVFidUwyTFM0cHBPVHAtRXk3a2hCYVU4VFJqeDhBckpWNVJ1RjFlVEs5R1pHNXRhMNIBgAFBVV95cUxQbEVjZjZVOEZHSm1UelVuSmxTYnRPTDE3NFB2ZHJFTjBrUnBtejdCWTRVb0JWcXVmNW90R2R1RTBsZWx3Qkw3NXhwU3EzUHhQQ0hDbFg0emFvUkhTNlV0dWJCZm5FMzJQdHpzNTJrSm9ZenhtY1VUTng4UFVPOXp6SQ?oc=5",
+  "summary": "OpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it - CNBC",
+  "org": "OpenAI",
+  "companies": [
+   "OpenAI"
+  ],
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "00f496d2be95d3ff",
+  "timestamp": "Tue, 20 Oct 2026 18:03:41 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "news",
+  "title": "OpenAI acquires Orchestra Bio - OpenAI",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FeFRia3ZmQXZoODE5dExVcC1nNmNlZWhKUWdiWk1VOXhvaVVlbFphNjhEdFd5MThUalctbkJNQmhLbDYxbkMyY2pKWVpQMXM0VGNoM2xnN0RuNjVCOWo3MW8tMHBkVUtV?oc=5",
+  "summary": "OpenAI acquires Orchestra Bio - OpenAI",
+  "org": "OpenAI",
+  "companies": [
+   "OpenAI"
+  ]
+ },
+ {
+  "id": "1a47507a814d38b7",
+  "timestamp": "Wed, 21 Oct 2026 10:30:00 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "news",
+  "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer - WIRED",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Ob250Y1dvbzZLaUZLeXlLQWJkaFJMUnh3UHpHS2stT2JVQVVXYkdpZFdKOFpqa2JWNFhuRm9tQ1lrVVF6eGpPekFMbmduODh2YlRHVmZjamxCOEVtT2txV2hQZEcxX0NmWEwtdlRGVWItM1FDU0h0RnNjYnU?oc=5",
+  "summary": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer - WIRED",
+  "org": "OpenAI",
+  "companies": [
+   "OpenAI"
+  ]
+ },
+ {
+  "id": "f6ce27d8a1849ac1",
+  "timestamp": "Wed, 21 Oct 2026 10:40:23 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "news",
+  "title": "How AI Startups Compete With OpenAI, Google And Workday - Forbes",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVWVRRGpIVVppUkZfakx5UnRacTFHajQxeFl0ZklubklzMzI4d2h2cWItbmNGcFY5V20xR2ROdEtvbmUwMkxyUUtSdG9JM3M2ajlLNUhXajlqeWNmeVVUeFFQVXNGVUhmRDFIb2FJS2RJZklodE51MlBCcThpaDhWZ3dzVmd2bVFZdVROMGVDM1MzTXNFYldOOFZoMWh1aUlGZGdKXzViSHJoRkxwWmgwV2RST016UVBNeTJha1pINzA?oc=5",
+  "summary": "How AI Startups Compete With OpenAI, Google And Workday - Forbes",
+  "org": "OpenAI",
+  "companies": [
+   "OpenAI",
+   "Google"
+  ]
+ },
+ {
+  "id": "8428afcd969fb8ca",
+  "timestamp": "Wed, 21 Oct 2026 11:16:45 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "agent",
+  "title": "OpenAI said 2 AI agents weakened their own safety monitoring during coding tasks - Quartz",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTXZreU1MQU5QRjZmakpkZGg1Y3FRdjl2blZLWHI2X1lXRkczWFpjUm5lX1ppdks1Q3g4aDl0Q0gxZHh4eUtFTnZ5Skw5XzQ4THZpX2NuSjJNcmpOOEliX1ZTZjBwT0lDdnV6b2Vyc2VfVVZGZURrMkZUajIyU1Z4cnh0Mlk?oc=5",
+  "summary": "OpenAI said 2 AI agents weakened their own safety monitoring during coding tasks - Quartz",
+  "org": "OpenAI",
+  "companies": [
+   "OpenAI"
+  ],
+  "topics": [
+   "agent"
+  ]
+ },
+ {
+  "id": "bf0c7b6a77126b13",
+  "timestamp": "Tue, 20 Oct 2026 19:41:00 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "news",
+  "title": "Anthropic logged net loss of over $80 billion in first half of 2026 - Reuters",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWDd1N2Q1aDhCMXdIcnhsNC1meEdkVGlZdGJBR1dabnotaThiMGF5R2NvTVluM3NTY2dFMEJfT21EeF9OR3d6cFE1eVpsZnVZeU82aVlOUVQ0ZElXVlVGMTJ0NzM0a2R0Z2hrQk1RRGJlWFB1VmMzS1djQ3ZpVkc2SmR3MlRBQXRGN1E1aXlJX1pOOEc0bFF6OFhBYTRSamFtR1pmNGhMbFpzS25keENuR1IyMkljTG1lUHE2TVh3?oc=5",
+  "summary": "Anthropic logged net loss of over $80 billion in first half of 2026 - Reuters",
+  "org": "Anthropic",
+  "companies": [
+   "Anthropic"
+  ]
+ },
+ {
+  "id": "55e8f718d4daecc4",
+  "timestamp": "Tue, 20 Oct 2026 23:01:23 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "model",
+  "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed - TechCrunch",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaDFyYXc1VXhSNWszSTJjeHpqMzhfNnJyaU44UURVY2tKdl9PdVh1TXRnQ3lrRktDV1VhMEttU25ERGFKaXFKZmlsN0tZZDlGWVhPM0VKMXA1VHZlN0pja1BNSExXUnFTRUtES2xoM3hXdG95MDNSSjFDZTFOck1ZaXlVMDZwMW56VWlRVzVXTzY5TmdrZnoxVG51ZmhGQl8zeC1DeTcwalM3RzhISi1ncUE1Z2FXYUZOTXlB?oc=5",
+  "summary": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed - TechCrunch",
+  "org": "Anthropic",
+  "companies": [
+   "Anthropic"
+  ],
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "a92aad8c29d0e96d",
+  "timestamp": "Wed, 21 Oct 2026 10:34:54 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "news",
+  "title": "Anthropic CEO defends record on safety, sales to China - Fox News",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMExPWi16NXpnWUZrdzlsRmVQeVlFN2JzU1VTWGNHcUVLa2ptZUlwbXUtMWEzTDNpOU5zR1JiUFRTR1pLOFhtYi11VFBFVnFYRnlud0FLbm5wQWNtX0N1MElmaEZWTXhxVUdVeERIbEUzb21VRGVRelBJSGtGN0ZqVWx1Q0ZvVVNJNmd1dFU3M1M5WDNQSUJDVXhyV3pKMTRtdFl4MkJHaGloUQ?oc=5",
+  "summary": "Anthropic CEO defends record on safety, sales to China - Fox News",
+  "org": "Anthropic",
+  "companies": [
+   "Anthropic"
+  ]
+ },
+ {
+  "id": "a40af101a3952b14",
+  "timestamp": "Wed, 21 Oct 2026 09:00:00 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "news",
+  "title": "Why Anthropic’s draft bill sets $1 billion threshold for AI risk - Politico",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWWhaN0lXMkdTcldqYTBoVktsbUx1QzI3emNYTmZ2Q2ZENEp0NFh2My1VeGZLbnlYbS1SMFNkak1FLXk1eGtaMUMtME9EOFpCV3N4TG45ZEUyNHRiVFNZcHFSTURZel9kSzNKRU8ySHBNZmtrcEg0VkNrdHhjUF8yWFVjMEFlYzhpcVE?oc=5",
+  "summary": "Why Anthropic’s draft bill sets $1 billion threshold for AI risk - Politico",
+  "org": "Anthropic",
+  "companies": [
+   "Anthropic"
+  ]
+ },
+ {
+  "id": "8a8a7bca8b4620d9",
+  "timestamp": "Wed, 21 Oct 2026 10:13:43 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "news",
+  "title": "Anthropic, music labels to make key arguments in AI training case - Reuters",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT3pZQUU3NTI4WFhrZkxldDBxUTRpT20za0J4X2JkYTUxdExnbFdaUEoyam5PWmFTa2xNWHpTTGZqdTl6SWhuOW4tcXMyNE9uOHNqcHlIRGhHendlM2JyYkJVRjE1RnNSUDhpVjFZNEY3Vy1kamtSVTJXaFdiWE1oYXlxS2Q1Ylg4NV9kNmhLMElBOTAxdXJVa0E1eEt6NUkxWU9UcTU1MGIyeDdBUy1jcXFvR04?oc=5",
+  "summary": "Anthropic, music labels to make key arguments in AI training case - Reuters",
+  "org": "Anthropic",
+  "companies": [
+   "Anthropic"
+  ]
+ },
+ {
+  "id": "503360a4f42c19e2",
+  "timestamp": "Tue, 20 Oct 2026 20:37:45 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "model",
+  "title": "China Criticizes U.S. Ban on DeepSeek A.I. in Government Systems - The New York Times",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MdVZndlVicHFmaDlMM3NsN0dzallEX1hVUVgzVzB4TkJpOE9UcjJHUGJvTnVfSmN1QnNPeUFwZU55VXhEWVJTRkpSNkdzOVMwNmo5WFlMZG5oLVZINnpqLTBGSUxTQk5tM2tKMDdkS2I0OHZTdFE4ZDhxak8?oc=5",
+  "summary": "China Criticizes U.S. Ban on DeepSeek A.I. in Government Systems - The New York Times",
+  "org": "DeepSeek",
+  "companies": [
+   "DeepSeek"
+  ],
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "220ad4e7ae5b325d",
+  "timestamp": "Wed, 21 Oct 2026 04:15:00 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "model",
+  "title": "DeepSeek Unveils Open-Source Tool to Help Cut AI Operating Costs - Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaTNwMlNFRlZ6SkZCMWtZaEJfUWdXbGxlQVBnSEZOZ0dVM1dLc240NTVQdnZTbjJqd2pRWVNpUUZVYldWZDlzdF8waFlUVlRRaW1uYllNRjdVNFZZSW9aeFhGQmRzS1p1VmhFUG9HbTMzaE5hTm1mOGFwSHp5VzlEbTEtc2ZsQTJ3amdCVjhkZUU5bkY3UDM2ajNRcGY4aDJBWjhFbGljNjlZaXI1X3gyX1gyYTV4QQ?oc=5",
+  "summary": "DeepSeek Unveils Open-Source Tool to Help Cut AI Operating Costs - Bloomberg.com",
+  "org": "DeepSeek",
+  "companies": [
+   "DeepSeek"
+  ],
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "6708099a9a212c73",
+  "timestamp": "Wed, 21 Oct 2026 04:02:00 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "model",
+  "title": "DeepSeek Open-Sources Framework Behind Its High-Margin AI Inference - The Information",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcWxaVjdURVh2U0tyVVZTOVdPRlVrVi1sWGVCZWVSNGZweTl1NjY2YnVEdE1SXzVncGNnaU1qQWp4NUFfLWpVM1NJcmZFSzJwOWJCSlZuVTRDOUFocXREV0g1dWlHa2Njbng4SUZtN0tLMkF3V1VHbkJGUjVmNDIzZEYxNEpaR1ZXZWxObDZFMEo0cFlDLUstTTlUdHdSSjZpbWJDN0JjOA?oc=5",
+  "summary": "DeepSeek Open-Sources Framework Behind Its High-Margin AI Inference - The Information",
+  "org": "DeepSeek",
+  "companies": [
+   "DeepSeek"
+  ],
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "5c9e5706f47e32a6",
+  "timestamp": "Wed, 21 Oct 2026 05:03:27 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "model",
+  "title": "DeepSeek seeks ‘total victory’ with new open-source tool to slash AI cost - South China Morning Post",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaXFBckZ0NnY0WmJlNE12RXNpWFJKVUs2MmxaeTNZY2otWWRPMFNzeFlOaUE1VDFyNEo3MEszMU5sbHBGVzhxNE5fel9xUDFqdUVLUy03cDJHYUk4MzFFQkQzWkIxQmcwZzVYUkNRdmdvSXhpQ1lKdG5ZdlJUTXZ3dlp4Y0RpVFRPN0hxVzJBNkxGSkM3bEo2MU45SHZRMUR4MjVjUU9oNThFejZTb0czaFlXY3NTN1J1U1ZELVNHWWJvcmlDLUdpSkNMc9IBywFBVV95cUxPVW5Gay1kMUJNNEU3MzQ3dGI4c04ySWFlMEt0OUw3d3pYSUdwMkFxTkp1OGpyWHNCa2Vpc2YxOU1PNEU0ZFdNS0JKeXBuRlZHVktXVE9ySy0xMW9iQ2hBV29HX0VCLVYyenp4MHUtR3ROVUEyeHZxYV9BUE5sbmVwYWM3Nk1aUGlwNGJxWWZvWHpTRFlveVlTWHhObDUyWG1sTTJGS3dTcTJYZVhqanNYY0J5Vklyb2FjOTB2LVRUOUhTdURfcGJydXAxWQ?oc=5",
+  "summary": "DeepSeek seeks ‘total victory’ with new open-source tool to slash AI cost - South China Morning Post",
+  "org": "DeepSeek",
+  "companies": [
+   "DeepSeek"
+  ],
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "3a84c8231ab60a76",
+  "timestamp": "Mon, 19 Oct 2026 13:55:00 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "model",
+  "title": "China's DeepSeek debuts improved low-cost AI as tech doubts swirl - Nikkei Asia",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPU09ReGl5NnZhcHRYaE9jRHpMWTZ5MC02X2tKaGJfYUxHNF9fUmxDWEdQUlhOeHJlRWliQ0ZsbHBxRFBPNWJ0VWlUNC1KZ1ppb0p5RjZ2RWF5a2ZnVmJDMVREVTNYdTZrUFlDQjcycHJrazYxZDhobTRELUVLay1wdkhLMW5OcVJnT2pQWnRBQ2hXczA4TUN1eHA0OXE0SV9RODBpbm1HUWlEYV9tWUI2MjhqajlacmY2bDEwZFBQVVdjTUh1MDVmNno4bGlrZw?oc=5",
+  "summary": "China's DeepSeek debuts improved low-cost AI as tech doubts swirl - Nikkei Asia",
+  "org": "DeepSeek",
+  "companies": [
+   "DeepSeek"
+  ],
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "cd6a6e8ecc68dcac",
+  "timestamp": "Tue, 20 Oct 2026 22:40:31 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "model",
+  "title": "Vyb vs Qwen 3.8: la fase di design per cui nessuno riesce a prevedere un budget - OrcaRouter",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xdmhvN2p4Vmh2My1zM2FZeXE2M3pCeDQ5Uzg4dGNQYUZadnNDcWQ5YWxTN3lxbEMzd0hHZFU4WFJhS2ctUUl6TzFDNEprZ3V0d2hFNW9FLXV3Nl93U3c?oc=5",
+  "summary": "Vyb vs Qwen 3.8: la fase di design per cui nessuno riesce a prevedere un budget - OrcaRouter",
+  "org": "Qwen",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "d5a9186624aa2778",
+  "timestamp": "Tue, 20 Oct 2026 16:13:47 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "model",
+  "title": "Chinese AI Models Dominate South Korea's Development Ecosystem - 조선일보",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY1NjcEtTcUlkV25FZXU3S0ZFREdITWpLWm13djAxaFFwVXNER1RqanFBYWVNRHIzWHZHSENhSnNPeG5wdU9jd0YxUUV2R2JQTkRNQy0zSFNCdmRKbHFQQWxfc2hCWFJxOHdMV3hCX28zdTdUT3FhVVQxNEk0S29WZUM1OFM0VmdD?oc=5",
+  "summary": "Chinese AI Models Dominate South Korea's Development Ecosystem - 조선일보",
+  "org": "Qwen",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "62c1f51a6bdfc515",
+  "timestamp": "Wed, 14 Oct 2026 14:23:36 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "model",
+  "title": "China clears Alibaba’s Qwen AI just in time for iPhone Duo - Computerworld",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUE0zWXFPUzVncS1qUnVSZkk3cmtGcGpudXB1am1zRWQ0TWFLeDJka1dwSWYwaDctR1l4c1J6eXBTc0pTZjhuNndKUDFFbks2UFFBdnFsSG5vcGp5d3prQ3BxUXpDTnJHa2h4UkEyMVFtQ0RLVi1kbnR3elpzN0xQMmlEUDhublVUbnA0ZHA5ZVBoZzBQOC1QODdOWUpQS2FrckxNLTdsbUZQODN4?oc=5",
+  "summary": "China clears Alibaba’s Qwen AI just in time for iPhone Duo - Computerworld",
+  "org": "Qwen",
+  "companies": [
+   "Alibaba"
+  ],
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "8e8401c96dec4d4c",
+  "timestamp": "Fri, 16 Oct 2026 13:37:50 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "model",
+  "title": "Alibaba to embed AI throughout Taobao, Tmall merchant operations in 2027 - South China Morning Post",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS1pRUExwVmJTcWlmQUdjYVN0V1ZjX01QdkJaTV8wT1cxOS1ZRllwRmdBRU9pY082YlktNi1acFk4S01KQ3FESml3T1UybUhSQnZSUC1XNVFHVU9zVG9POTFJV1J2U01FT0taSTR2djlBZS1fczhZckhEcV9YVThzS1JxR3VDY1RweTF5LWlqTXJYNXZoQWV2amdGVEZyZ0ppSHR3RGpGQ21IR2ZUa2JfQkVWMFFoZTdDcHZaZzRjSHo3ZExQ0gHEAUFVX3lxTE9Kakt6TUs5LVNNRnhlYkpGcmtQcGY3aGY1MkVpZXkydnUweG9mWWp1YzRQOW1ldFVTWE1SQXJjUWhYZEFsZy1VOVpiWTNTSzlmSlRETUFhQkxIbHEtQmVaYWsweDNJRlowUS03clJMd1Z0b0xlUFZYdWZUVmVRT2hXMlNSTXY5RWNlVU1xVlVZV2pHRG1XZmtLaFRSdWJHaUE5RVplenZoSDdCblN6NUxrU2NJUWx1N0MwVE02QVhLcE5IVnE?oc=5",
+  "summary": "Alibaba to embed AI throughout Taobao, Tmall merchant operations in 2027 - South China Morning Post",
+  "org": "Qwen",
+  "companies": [
+   "Alibaba"
+  ],
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "7f049d81bcbb5b0a",
+  "timestamp": "Fri, 16 Oct 2026 05:11:47 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "model",
+  "title": "Liquid AI LFM2.5-24B-A2B: Specs, Benchmarks vs Qwen - https://tech-insider.org/",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qVWlqTXFBalVMUFlHSG5WUExaWmp4dzJ4M0IwMllzX25vRm8wek9GZVJiaFEwdzJiMG9QeE5nc19NRjFTTy1ReS1KTzRmZFdwYlZJMzU5XzQwRExHVml3VDczX1ZNYXlaTDkzclVZMA?oc=5",
+  "summary": "Liquid AI LFM2.5-24B-A2B: Specs, Benchmarks vs Qwen - https://tech-insider.org/",
+  "org": "Qwen",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "97b2983fa7e569ad",
+  "timestamp": "Wed, 21 Oct 2026 09:24:47 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "model",
+  "title": "China Moves to Tighten Its Grip Over Exports of Top A.I. Models - The New York Times",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVGtOTkNCaEJUNWpyTEJIU3dDbzJNcGxxLUNlemU0a2ZxUmdObVQ0WUVkbXpnS0ZEVW5PZVZ0T2UxMnpKczlFM2ZYRHZJMWFqOU9PMnBYQ3V2bVVPRUdKcFppeHhDejJ2VTQzLWU4d0paSV8wRUFtMm9XS1FjTnNLUUxR?oc=5",
+  "summary": "China Moves to Tighten Its Grip Over Exports of Top A.I. Models - The New York Times",
+  "org": "Kimi",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "f3f6a7869176da2d",
+  "timestamp": "Wed, 21 Oct 2026 05:15:00 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "news",
+  "title": "China's Moonshot AI to operate in Singapore, jobs post shows - Reuters",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdGlrT3VHMGtGQ2c1RjRPbDFMR3NRTE9GNlU3LTZoQmxiVld6aTJDa1dyQnhzOFo3RTlKc1d3WE44akpOS1hMSHRyckFaR2FEV3h2d1RLU3BXcGpNWUw1YW13NWFUWmZNM0VNdzdMR0dLS0FTT0t2cGgxb1haWFE4bFJsY1dnNG9qRVFhc1lWMmptUGcwd19jZjVZazhlOGl5QlE?oc=5",
+  "summary": "China's Moonshot AI to operate in Singapore, jobs post shows - Reuters",
+  "org": "Kimi",
+  "companies": [
+   "Moonshot AI"
+  ]
+ },
+ {
+  "id": "463683358fa52750",
+  "timestamp": "Wed, 21 Oct 2026 09:05:00 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "news",
+  "title": "17-Year-Old AI Researcher Chen Guangyu Leaves Moonshot's Kimi for Jeff Dean's Startup Discovery Loop - BigGo Finance",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sYkE2WVh2T2QwNS1YbTJCS091VkFENGVYc3BzNTJpNjU3UllKLVBUS3FXR0thbF9UR1NFWloyVnlHWXJYNzZXY0EyeEduZzE1U1JQWV9WN3lqZFVFWWVOTnZRWWRVMjBMTnc1MGxDR1JLdFZxTEE?oc=5",
+  "summary": "17-Year-Old AI Researcher Chen Guangyu Leaves Moonshot's Kimi for Jeff Dean's Startup Discovery Loop - BigGo Finance",
+  "org": "Kimi"
+ },
+ {
+  "id": "300b180bb47bc66c",
+  "timestamp": "Sat, 17 Oct 2026 08:00:11 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "news",
+  "title": "Kimi’s AI credit card turns spending into computing quotas – with limits - South China Morning Post",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWmhRMXpyOGYzTi1BallOM1VRdWZzaFJuS1NRODc0YzNtTzVheGNqTm5UYjRINFR2eDYyVld2cTY1OGNNWDZzb2ZkWVNpUnM4NEtnRnVyZ1Y2bTZ4bkp4SVc2WUlJVnhMcUF6d1AwYmVSR1pGWHBZZXRMamZiZFdMb2xFSUt0dzkwMlRCdVIwWUk1S1ZTLWhOMUtHaGRISUU1anVRdV9IMWVjRl9mT0x2dGJCbDZwc0NEcER5Ti1GdnpTeU5oaXo4X1lGZF_SAcwBQVVfeXFMT0R4OEFGWTdlZTEzdnpLVmVLQkI0QlRlVVhhdk1aRWFrQjZxU0NGNGxHSVFybU80c1B3dTVuTXk5SHA3TVpScTRtVE03NnNNTDdES25XdE5wdTNvUTZkTnc0VGp0SnRGbGZzM09pUGdfd1RGVEJHZ3BjbVlYMmstd1F4VHFUeWlhNVFNZ1FlRlZvZl9STUk0YW4tSkhpZndMV1NaOE5mTUVUcVE1V1VhdGk0MnZqLXVXd2pxLWJzTjROSU8xRnR6Yk1NRUt0?oc=5",
+  "summary": "Kimi’s AI credit card turns spending into computing quotas – with limits - South China Morning Post",
+  "org": "Kimi"
+ },
+ {
+  "id": "936d88ee3683e0fe",
+  "timestamp": "Wed, 21 Oct 2026 05:33:43 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "news",
+  "title": "Ecosia Ditches Mistral, Cuts AI Costs 50% [2026] - https://tech-insider.org/",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMDRiU1YyRFpIWW90WjI2ZnE4OEhZNXFjQW05aXEzdmJHRmhCdmVJcVRoUHZndl9vby1HZ3ByTjZoc1JVa3pSZElTaVZmRXpzVkFaWTdXSUtWTHZwNkhzdkZ4b3RUT2FPaUZUVkpvYUU5TjJuUkxPRXB3UW9OVVhmWnExSUU?oc=5",
+  "summary": "Ecosia Ditches Mistral, Cuts AI Costs 50% [2026] - https://tech-insider.org/",
+  "org": "Kimi",
+  "companies": [
+   "Mistral"
+  ]
+ },
+ {
+  "id": "713faed3e6bc1b7e",
+  "timestamp": "Tue, 20 Oct 2026 20:10:26 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "model",
+  "title": "Get hands-free personalized help on the road with Gemini - blog.google",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeTY4QlVpMFRHMjVWejJtQTVjTUNfQ1VBNHFLdEZ6VFJHQVBrVjFwZzgzRW0wSm1BaTBTLTRPeXkzTE5veE1XM1pMby14UE16eEhadEU2NUVaMnNzdWFvVTlMV3k2WHh1ZGtWckRNTWVvZVAyUmNfMXpRWC1ILWoxUjNBMDRuUzI1VU9vQkJFUy1kckRfTGtIR0Q0ZkRIZ2dQdm9ncnFaNlBQYUV6NWdSb1FHd0MtNTNhanhhbG5tTDB2dlpPOENHeA?oc=5",
+  "summary": "Get hands-free personalized help on the road with Gemini - blog.google",
+  "org": "Google Gemini",
+  "companies": [
+   "Google"
+  ],
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "90ecc6213f00659d",
+  "timestamp": "Tue, 20 Oct 2026 20:00:33 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "model",
+  "title": "Gemini’s Personal Intelligence is coming to cars - Ars Technica",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMjFHQ3NpaWpmdkczclNINjJPZ1I3R0g0OGFodUphVGxKT0lxbUxyQTlCRmhiaTVEeldkR1lnS2IxTnNybWFiakhrU0xIV19UU2l5T0twVGtRSmZ1WDN2eGVmT1lzMkg3aWc4OWdhUXFXbWpzX0hKbDlOOTZOaERBTUh0cGJPS2pQb2tqazh0clk?oc=5",
+  "summary": "Gemini’s Personal Intelligence is coming to cars - Ars Technica",
+  "org": "Google Gemini",
+  "companies": [
+   "Google"
+  ],
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "b2d671dfe8c50670",
+  "timestamp": "Tue, 20 Oct 2026 20:00:00 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "model",
+  "title": "Google is bringing a more personal version of its Gemini AI assistant to your car - TechCrunch",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaEd5emlGOWZlS0h0X3d5OXNCQUFZYVZOenh2Z2VxeXY5NVdEWVgyN2lVUHRKQUFNaXRCQS1IOG1HV25rLXp4Y3A0VjVJeUtMV2ZncEdqSGMtbTE0bXdESTNoUVI2VF9rZ0NyeTAzTXY5c0c1R0Y3cWdJWExUa21Ca3F3eVVQMUFnaGY5OHRoYThIXzlkbUJBOFFPd0xtRUVaVXRqS2xTUUlyYkw4ZGZJaTByUnZMM1U?oc=5",
+  "summary": "Google is bringing a more personal version of its Gemini AI assistant to your car - TechCrunch",
+  "org": "Google Gemini",
+  "companies": [
+   "Google"
+  ],
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "c498608b3af8168d",
+  "timestamp": "Tue, 20 Oct 2026 09:58:00 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "model",
+  "title": "Internal docs reveal how Google is shaking up its interview process with AI - Business Insider",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdEl4UEg2Ui1MUXh1WFpYcXU4Tnp1MWV5Tk43S1czMlJiOVh4YWpjanZrMGlzVlBfc202c3R4dTQwSWtQZVcwUWlicWs5SFpiUTBkQ3Y1X2U1U3BONHg4SnZMUVhHZXRIeTQ1bnZHWXV3dTBSbm1YVjVWS3ZvNW1PV3QtRzNrZUw0MlBQSTkxSlQtbHRESWZsRzBzUTNNR3JSbTJvX294LVkzX0RfeHphU3BwQQ?oc=5",
+  "summary": "Internal docs reveal how Google is shaking up its interview process with AI - Business Insider",
+  "org": "Google Gemini",
+  "companies": [
+   "Google"
+  ],
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "e8057566f13f353b",
+  "timestamp": "Tue, 20 Oct 2026 13:00:00 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "model",
+  "title": "VistaPrint Partners With Google Gemini to Bring Print to AI Conversations - Business Wire",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ1FRdXJPVkF5Sl9ndWZBU1NqVDRSU3dxd21UcHpJSVZaMEl4TF9vaEc1TGRUZ252XzlIeGlrR05KTzVSWmdyQlNPeEQyaWtST3NSaERRZlB6Q0VRQ1cxSThkeHRCSWhsV1FPeUZFc2RSUzZwQ0RKTS1lMDU0cWUwZ01YNV8wMkRvanFDY3B2TzMwS1ZCWUxvMkEtLVNfY2kySUZxcVVJeEZDeG1hMloyNzdDNXlLRGRmZlpqcHpnM3paT29oX2ZoNF9R?oc=5",
+  "summary": "VistaPrint Partners With Google Gemini to Bring Print to AI Conversations - Business Wire",
+  "org": "Google Gemini",
+  "companies": [
+   "Google"
+  ],
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "f0b051a7e95a53fd",
+  "timestamp": "Tue, 20 Oct 2026 21:44:43 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "news",
+  "title": "SpaceX revenue soars 161% as AI business grows - ABC News - Breaking News, Latest News and Videos",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUW42cVZpUURGandxQ3ZwZkRJZFBwWS13OUM3UHVRR0ozNU1QVVRfNVdSam01QS05V2NqbjIxZXU5em9GeW9Tdi1pVHNjMnBMNl93RkM4NHduRURENm5EbDhaa25UVzNCakxpbGhKdkdGb1lEVl9wbVo2WFl1ODM5dG9GUjRnQUJ2YUczLUxXaGpyY0Zm0gGaAUFVX3lxTFBYc0ZDUEx2ZzdrdFVROFRLTE9IODZNZmhibGhqX19nMHdyM2k4QURCXzFIR3k0QmVWYjRwN2lSUmRUY1lnSDI4VGd1NnpESUhaeGcxSkVCVnphSERuOEdYUmw0emlOMmI3TXhQOG1kVFI0QjBwMDJYczUtMmZ3dUR5WW5oM0V5TTBObjRiRWt1OHdtcEtfdy1EZGc?oc=5",
+  "summary": "SpaceX revenue soars 161% as AI business grows - ABC News - Breaking News, Latest News and Videos",
+  "org": "xAI",
+  "companies": [
+   "xAI"
+  ]
+ },
+ {
+  "id": "4c18cf39464b39b5",
+  "timestamp": "Mon, 19 Oct 2026 11:24:27 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "news",
+  "title": "SpaceX, Tesla Earnings Test Musk’s $40B AI Bet [2026] - https://tech-insider.org/",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU0JKc0JQeFE4RWM0RnpxUEFyTF94aEFkci0yR1cwRk0tN2NEZldLWWpnZEphTFBhSHBnNXVybWE3ZlBUYTZrUkZiMU54R21zTHl0bzd2MUFNNlV0OXhYamduUU1ZaFBzT09FcDFIb3g0S1NkTHlfZ3JNTVRiY09QTFd3?oc=5",
+  "summary": "SpaceX, Tesla Earnings Test Musk’s $40B AI Bet [2026] - https://tech-insider.org/",
+  "org": "xAI",
+  "companies": [
+   "xAI"
+  ]
+ },
+ {
+  "id": "090d0022c93cc33c",
+  "timestamp": "Mon, 12 Oct 2026 07:00:00 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "news",
+  "title": "Introducing The X Subscription | SpaceXSI - xAI",
+  "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1xSHZsR1pnaUw0LXBEbHZkY0owdTZ3N1hsTlQ1MGJ5cm9nYkRCOXgyTkhFUHVmaVphZ1FNU0xfWkFMN29jMnpN?oc=5",
+  "summary": "Introducing The X Subscription | SpaceXSI - xAI",
+  "org": "xAI",
+  "companies": [
+   "xAI"
+  ]
+ },
+ {
+  "id": "26fa53d0ff30849f",
+  "timestamp": "Fri, 04 Sep 2026 07:00:00 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "news",
+  "title": "Musk’s xAI loses court bid to block Minnesota's AI ‘nudification’ ban - Reuters",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS1VRQXhtR19VS2tKbVEzTnB6YjFUNl8zV3NFSURDZDRTcmZRS2tHa0RPOHdlMklXMWVSckNXdm5HWjdYNWhSTlFNeUlkdWFxWHo2SFdXU19ieWlQaUlEUjNrUjJkV1JSajZaNGxxUkVkM19qR2NOMkZvcWMwRHpIVTJybUlQZFB2ZmpvRy1CeURQcmp0ZFctU3RzMnItM29yajY5blZoT1ZjY0cwWFg1aVFoSGtpZw?oc=5",
+  "summary": "Musk’s xAI loses court bid to block Minnesota's AI ‘nudification’ ban - Reuters",
+  "org": "xAI",
+  "companies": [
+   "xAI"
+  ]
+ },
+ {
+  "id": "6fbf0ca1fc83bb36",
+  "timestamp": "Wed, 14 Oct 2026 16:41:49 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "news",
+  "title": "Introducing Grok Voice 3.0 | SpaceXSI - xAI",
+  "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1mOUcxZkpjVVVyYjlLOWk1V0sxb1QyY3dVLWtpcDBFbEpqQzlDQzFPekdzSUVKbnhoaHZNd3ZzYzlweElu?oc=5",
+  "summary": "Introducing Grok Voice 3.0 | SpaceXSI - xAI",
+  "org": "xAI",
+  "companies": [
+   "xAI"
+  ]
+ },
+ {
+  "id": "709070e0b256bb09",
+  "timestamp": "Tue, 20 Oct 2026 10:40:34 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "news",
+  "title": "Meta's AI spending, Muse assistant adoption in focus for quarterly results - Reuters",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTTZ4aW9rZHRKVUxlbEJ0M256bENvTG9sV3FFQUNqbTYtdk1kaHM0MHM3UEpDRHdYQ0FlcHQ0UUV4ZUc5Tllod0pqaXpGSE0zUmRDbm1SNm9sM1VaV1FGSDI3YVVDdXJnRXpPVXNQdi02V3ByOUgzQW9iZW11a2M4azBxam5mR2UzWjllVXg5SDNzZkdDRU56M01mZGp2VEItQ2trbnVWUGxfcUZMcThz?oc=5",
+  "summary": "Meta's AI spending, Muse assistant adoption in focus for quarterly results - Reuters",
+  "org": "Meta AI",
+  "companies": [
+   "Meta"
+  ]
+ },
+ {
+  "id": "21a6d0de819e454b",
+  "timestamp": "Wed, 21 Oct 2026 10:00:00 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "news",
+  "title": "Meta and Google are about to have a consumer AI showdown - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdWtaMlZZdjN6cUdfWnBpdFJUdDQyeTJLZ2RTUnRvR1E3MW9CYUUtWjhxcFJPRkxEU2tjdTk3LWZXM0UxRVNoanoxTnJvenFHdUhoRXRHUS1jSzA2OGxKeV9PX21HdzRqS2MtYklVUDJYLWQ2RjVpQjlLUURkeEluUlM3WHpSVm5QT3pCMGxtY0tTbkY1TGRubFd2T2duNlNUcy0zR3hVNnNPX1VYLWNDaDhSdmk5Rms?oc=5",
+  "summary": "Meta and Google are about to have a consumer AI showdown - Yahoo Finance",
+  "org": "Meta AI",
+  "companies": [
+   "Google",
+   "Meta"
+  ]
+ },
+ {
+  "id": "0933098196d37738",
+  "timestamp": "Tue, 20 Oct 2026 23:59:42 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "news",
+  "title": "Amazon, Meta AI Wearables Raise Fresh Privacy Concerns - Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZzRsbHNxYW1Ka0NjaWxGQnhleFRfLTE3Slc4QzJEeEo3Ujh4RHNReVNkaG90c2VTTkFRLVFiTFFwNkFWYVA1OUJhNmszcDY0WHk5QVVzcWtNQmpZb1ZMMmdGMWRHRHpMY1hPelROel85bndoMmRucXdEZ3lYd2I0Uml3T3BjWVpMalF1OVhsZXFsV1U1QzRIUmlQdE9sRUlrdk1NWGIzTVJqV1pnUjFqOXREQ3djRjc3bHVsbmpIWHFzaVVSQWZMMkZZdw?oc=5",
+  "summary": "Amazon, Meta AI Wearables Raise Fresh Privacy Concerns - Bloomberg.com",
+  "org": "Meta AI",
+  "companies": [
+   "Meta",
+   "Amazon"
+  ]
+ },
+ {
+  "id": "682492a32204ce65",
+  "timestamp": "Wed, 21 Oct 2026 10:44:21 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "news",
+  "title": "Meta AI Predicts Wild PI Network Binance Price for 2027 - 99Bitcoins",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdXV3Tk9Ud0dGUmF5dmJ1bFRIV05KRkNxX28wa3JEWFhtdmxUdGxmWVFkNnJON01CU3pqak5EZi1IQ1NJNWtlUjZmNDZuNHNxNUlZVkY2QnVkaUZTZnJ4Y0xoMmUxcmFUVmY0Mk1VVlVZNWlPMmVva1hoNVVDREhHZ1RyMjl0Zw?oc=5",
+  "summary": "Meta AI Predicts Wild PI Network Binance Price for 2027 - 99Bitcoins",
+  "org": "Meta AI",
+  "companies": [
+   "Meta"
+  ]
+ },
+ {
+  "id": "f88a4f8674830907",
+  "timestamp": "Wed, 21 Oct 2026 09:45:00 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "agent",
+  "title": "Muse and agentic AI are in the spotlight as investors head for Meta's Q3 earnings - Business Insider",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa2xiZEZ5Z2tMRVJjNmJqMUw3ZWlqMF96eldUNUFzNW9walcybG5IWUVFUXFSUUc5SXNFMVI4M3liSWFPX0E3WEM4VHdMbS16UE5tS2k1eVBIZkZQNW56QlJHYkpGYVh4bVhVTjEzTy1WVEhLYkF2MUdyZTBFbUpOZnFnbzZoWTZ0OTZmY25XdGxXZw?oc=5",
+  "summary": "Muse and agentic AI are in the spotlight as investors head for Meta's Q3 earnings - Business Insider",
+  "org": "Meta AI",
+  "companies": [
+   "Meta"
+  ],
+  "topics": [
+   "agent"
+  ]
+ },
+ {
+  "id": "945cce9160f6700d",
+  "timestamp": "Mon, 19 Oct 2026 01:18:17 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "model",
+  "title": "Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google’s TimesFM-3 - MarkTechPost",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMmZuS1pHQm12NEVqVHVZWHlCeXJ2TlFFNHRSWnhFRXRDVnllT2xaNVdVOHFXMmd3clpHRVBLWVI3ZzdqOHFVYWsxYzBMMGNERmZocWVOWGpZUmYyUTd0UWhHM0NDR25mQjVKRHh5TEU0ZTdPa2ZZUmdERmM3WDVlUWRadVduMHFLN0xVTWVUVWHSAZABQVVfeXFMTzJmbktaR0JtdjRFalR1WVh5Qnlydk5RRTR0Ulp4RUV0Q1Z5ZU9sWjVXVThxVzJnd3JaR0VQS1lSN2c3ajhxVWFrMWMwTDBjREZmaHFlTlhqWVJmMlE3dFFoRzNDQ0duZkI1SkR4eUxFNGU3T2tmWVJnREZjN1g1ZVFkWnVXbjBxSzdMVU1lVFVh?oc=5",
+  "summary": "Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google’s TimesFM-3 - MarkTechPost",
+  "org": "Mistral",
+  "companies": [
+   "Google",
+   "Mistral"
+  ],
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "b6bdc6e8aa360781",
+  "timestamp": "Thu, 15 Oct 2026 15:08:22 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "funding",
+  "title": "Timestral: Mistral's time-series foundation models - Mistral AI",
+  "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05ZVhoN0NkX3dmRnJrMGtrbDRQb1NlaVRETlkzZmVyLWFrT1JNWkFhWG4xYnlrQWQzbmh5RS1EU01nYV92ZUMxR1l3?oc=5",
+  "summary": "Timestral: Mistral's time-series foundation models - Mistral AI",
+  "org": "Mistral",
+  "companies": [
+   "Mistral"
+  ],
+  "topics": [
+   "model",
+   "funding"
+  ]
+ },
+ {
+  "id": "bc9ea7a5f38d3e57",
+  "timestamp": "Thu, 15 Oct 2026 10:00:00 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "news",
+  "title": "CERN and Mistral join forces to accelerate AI for science – Home - Home | CERN",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQllxbHdUcnp1V0NUay1vZUlyNnJTNjJmZXNsbWN6Q1JCM2ZRRUNHWjVQRjYydHBlLU82UWJlUUhzX2JCc3h4TVFCUEZkT2RNLUpZMm9WLUdLNlB2ZG1ScXBJZ1hVM1ctd0JLUU9LWEluaTR5eG5HMHg4UGZGQnBYWkRB?oc=5",
+  "summary": "CERN and Mistral join forces to accelerate AI for science – Home - Home | CERN",
+  "org": "Mistral",
+  "companies": [
+   "Mistral"
+  ]
+ },
+ {
+  "id": "a01ba48a7345f975",
+  "timestamp": "Tue, 08 Sep 2026 07:00:00 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "funding",
+  "title": "Mistral bags $24 billion valuation as Samsung leads funding for Europe's AI champion - CNBC",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE55ckdJc0hEZk8yai1IaFJuUEs4c204MHptMlFyR2VVeFUyN3RaMVZTVlZzRURreXhaQzdYZ3JsbkoyYjR4WGFzNVpoZWhZNmlYWEp6ZzRwWXF2TzE0Q1dSc2dMY29DUzdjLVJwb3h4VDlUUGlIZ3RYaWUxOWJjQdIBgwFBVV95cUxPemMzc0FrZVVIXzNYRktNejlsdjNlQUlvSk9PY2w3Y1U0dFlpWWNYeGlFZTFLOGJkVi1UTlJuVEFQVFcwanZJM3JxNG1TTEhITHQxMWRObG9RdFQyMW5LQllfVWZGZzI0bmJ5ejk3SXVxNmRzT1RTQ2V3b0ZMNFpFWVBGRQ?oc=5",
+  "summary": "Mistral bags $24 billion valuation as Samsung leads funding for Europe's AI champion - CNBC",
+  "org": "Mistral",
+  "companies": [
+   "Mistral"
+  ],
+  "topics": [
+   "funding"
+  ]
+ },
+ {
+  "id": "8d01d10042d4475d",
+  "timestamp": "Wed, 21 Oct 2026 07:11:37 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "security",
+  "title": "How Cohere Targets Agentic AI Security via AISLE Acquisition - AI Magazine",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUHVfSzk4VGxEX01BbW5YLWNzdkZoVDUwUDhTS2dqbE8tMDdtYVRTT2dBR0N5NEk4QzE2MnZwUGl5MEY4Q0lEZFVRcGlNbndCQ2VPMkt0QlFlLTF0bGRBSXR5MmpKYmtiWXc0TnRUMExweW5TOVJKb2FaaTUxT2k4aEtXVQ?oc=5",
+  "summary": "How Cohere Targets Agentic AI Security via AISLE Acquisition - AI Magazine",
+  "org": "Cohere",
+  "companies": [
+   "Cohere"
+  ],
+  "topics": [
+   "agent",
+   "security",
+   "funding"
+  ]
+ },
+ {
+  "id": "5af1c30bb4ea7edf",
+  "timestamp": "Thu, 15 Oct 2026 22:09:48 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "security",
+  "title": "Cohere moves to buy AI cybersecurity startup Aisle - Reuters",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUE9DbHl3UklEenZpVjFtNVpCb1RXY0ljendQMVZudHZGSFRiYk4tT2hsNk5KMjJIVDhjbDVyVXNxSkVXS0JmaTFUSml1XzNsdDdpQjBJNDd1MFlEdmdPNFE5VDMwbEc3dWhUTWdGT2ZzbVdScGJtTkFjNkdMT19KYVRXUTI4b1d0eE9KVHhPWUhFbTFPQlRsVWVTdC1EbEMyODlkc2FR?oc=5",
+  "summary": "Cohere moves to buy AI cybersecurity startup Aisle - Reuters",
+  "org": "Cohere",
+  "companies": [
+   "Cohere"
+  ],
+  "topics": [
+   "security"
+  ]
+ },
+ {
+  "id": "ac0f4e988cccb1ff",
+  "timestamp": "Mon, 19 Oct 2026 10:09:20 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "security",
+  "title": "Why is Cohere Acquiring Agentic AI Cybersecurity firm AISLE? - Cyber Magazine",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbmFSY2k2a2JBdWlDS2picjhlbVpoMFpIQlVqNF9fbWRTeVpFd1R5VGdENk9ZNjl3R1F2cF83S0VlNTZrRW5XS2xPU1JjNjFLTWdWMUxPWEx1dTRjZUZLZnRsbjFtVjdsc2ZPc3BManNIa1hsZEd3d2k1Q0FsZDlGR1VQUzM5Mk9CbUtIOTdRMFNheWM?oc=5",
+  "summary": "Why is Cohere Acquiring Agentic AI Cybersecurity firm AISLE? - Cyber Magazine",
+  "org": "Cohere",
+  "companies": [
+   "Cohere"
+  ],
+  "topics": [
+   "agent",
+   "security"
+  ]
+ },
+ {
+  "id": "f0cf8386bc441b8d",
+  "timestamp": "Tue, 20 Oct 2026 04:06:25 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "security",
+  "title": "Cohere To Acquire AISLE And Launch Cohere Cyber For Sovereign AI Security - Pulse 2.0",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORndYRWdEZDdickxzdlBOQm1QNDBGYTFmdm5EX1RORk9XRlREWld5cm5JTkpMeWJxNlF0aXVZN0hQTE5QZHdmd185MVpUWmk5V00wY3FBT1dWbTNHTXprQnVhdmFjUk1GSHFrSEFxZ3BwbGhsUE1pbi01TmlMRDJqQ3NTeTF6TkFiN3dfZGJ0MmwzRG1SdU5uRg?oc=5",
+  "summary": "Cohere To Acquire AISLE And Launch Cohere Cyber For Sovereign AI Security - Pulse 2.0",
+  "org": "Cohere",
+  "companies": [
+   "Cohere"
+  ],
+  "topics": [
+   "security",
+   "product"
+  ]
+ },
+ {
+  "id": "e9f05f149b656fb8",
+  "timestamp": "Mon, 05 Oct 2026 07:00:00 GMT",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "news",
+  "title": "PwC and Cohere announce a global alliance to accelerate secure and trusted enterprise AI adoption - PwC",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcFF2REdfem1mTEN2QXVvTDVJS1ltXzJhTGRLWURXX3JPb0syQkViVURQVHVGZ2pNNFFBcTFKblo2Q05DREtCcnM4MTV3N291VFhiZjRXaXZZbUZJZ0VxbTF5NnZzZ2NIV1U5ejI0NzNUU25xZjVneDMxRy1sWklpNFU5TW5WRVp3NFZrdnVYRGZ4TEF4Y1ZhLW8xVm9lRG0xZThZ?oc=5",
+  "summary": "PwC and Cohere announce a global alliance to accelerate secure and trusted enterprise AI adoption - PwC",
+  "org": "Cohere",
+  "companies": [
+   "Cohere"
+  ]
+ },
+ {
+  "id": "945088b7039a5f9d",
+  "timestamp": "Wed, 21 Oct 2026 04:00:00 +0000",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "news",
+  "title": "Southeast Asia’s digital economy to hit $368 billion",
+  "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+  "summary": "Southeast Asia’s digital economy to hit $368 billion",
+  "org": "Google",
+  "companies": [
+   "Google"
+  ]
+ },
+ {
+  "id": "02baaa80b9dd325a",
+  "timestamp": "Tue, 13 Oct 2026 16:00:00 +0000",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "model",
+  "title": "Gemini 4 Argon: Built to solve your hardest problems",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+  "summary": "Gemini 4 Argon: Built to solve your hardest problems",
+  "org": "Google",
+  "companies": [
+   "Google"
+  ],
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "fca293da9c918bc7",
+  "timestamp": "Wed, 07 Oct 2026 12:00:00 +0000",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "news",
+  "title": "Introducing Playground: Create and play custom games",
+  "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+  "summary": "Introducing Playground: Create and play custom games",
+  "org": "Google",
+  "companies": [
+   "Google"
+  ]
+ },
+ {
+  "id": "324cdf3466cbd923",
+  "timestamp": "Fri, 02 Oct 2026 15:00:00 +0000",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "news",
+  "title": "The latest AI news we announced in September 2026",
+  "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+  "summary": "The latest AI news we announced in September 2026",
+  "org": "Google",
+  "companies": [
+   "Google"
+  ]
+ },
+ {
+  "id": "c48b43f9c4c640ea",
+  "timestamp": "Mon, 28 Sep 2026 19:00:00 +0000",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "model",
+  "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+  "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
+  "summary": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+  "org": "Google",
+  "companies": [
+   "Google"
+  ],
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "e1c96c504424a350",
+  "timestamp": "Wed, 23 Sep 2026 18:00:00 +0000",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "news",
+  "title": "Google Beam expands with new regions, partners, and customers",
+  "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+  "summary": "Google Beam expands with new regions, partners, and customers",
+  "org": "Google",
+  "companies": [
+   "Google"
+  ]
+ },
+ {
+  "id": "9afcef95d87f47cf",
+  "timestamp": "Fri, 18 Sep 2026 14:00:00 +0000",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "news",
+  "title": "New experts join Google’s AI & Economy team",
+  "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+  "summary": "New experts join Google’s AI & Economy team",
+  "org": "Google",
+  "companies": [
+   "Google"
+  ]
+ },
+ {
+  "id": "cb3c6a5a47acc4b3",
+  "timestamp": "Fri, 18 Sep 2026 13:00:00 +0000",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "news",
+  "title": "Co-creating the future of fashion with Google",
+  "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+  "summary": "Co-creating the future of fashion with Google",
+  "org": "Google",
+  "companies": [
+   "Google"
+  ]
+ },
+ {
+  "id": "56e207a6268f66cf",
+  "timestamp": "Thu, 17 Sep 2026 20:00:00 +0000",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "news",
+  "title": "Making global data easier to explore",
+  "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+  "summary": "Making global data easier to explore",
+  "org": "Google",
+  "companies": [
+   "Google"
+  ]
+ },
+ {
+  "id": "9ac7bed75c4ae42b",
+  "timestamp": "Tue, 15 Sep 2026 16:00:00 +0000",
+  "source": "compass",
+  "kind": "company",
+  "signal_type": "news",
+  "title": "AI for Societal Impact",
+  "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+  "summary": "AI for Societal Impact",
+  "org": "Google",
+  "companies": [
+   "Google"
+  ]
+ },
+ {
+  "id": "5a0f8801a087115e",
+  "timestamp": "Wed, 21 Oct 2026 00:00:33 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "news",
+  "title": "Filer says two papers accepted at NeurIPS 2026 - 디지털투데이",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeE5NT1QwV2hJVEVVc01Celd5UDdvR2ZyVGxUUDlZMTc5OGJ6WXdKT19GUE9OVllMMTNkMFItYWhFNnQ5ek9oWDJ2YkZUaDJ0aVk0SjhoVVFJTEdVQW9YQUxUbU5FVE55SURicnREcS1UaFNaZ0xNV3FtU3VrcTlnQ1d2ajRJTmV5bVFsek9pVk8?oc=5",
+  "summary": "Filer says two papers accepted at NeurIPS 2026 - 디지털투데이"
+ },
+ {
+  "id": "5fa82c605212a676",
+  "timestamp": "Mon, 23 Mar 2026 07:00:00 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "news",
+  "title": "Strong Northwestern CS Presence at ICLR 2026, ICRA 2026, and NeurIPS 2025 - Northwestern University",
+  "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWWJza0l0T0NvamFTZEQyc2Z6UGlYSEtiRHNqS0V4X0NvZnFldGhVTTFSb0F2YThYOGt5ZC1CYnp3S2U5amszY2RxVml0Q01MX1Zub2lQVWJ2NzR0TVlEQ2RFN3Y0MU13cnJIREdDWmo2SE5oUVhOcm5pUWhUaS1NQ2g0VXp2NHpTYW5MTTJiREJ3aklFc2JWN3VqdXN2NTZOcTNxSHA4Wm5xQl82SlRmczZiWDU5NkI4VEhpb0cxajFrck90WjdWcHBqLWlLWFRZMHA2RWVSM0ZYbWRp?oc=5",
+  "summary": "Strong Northwestern CS Presence at ICLR 2026, ICRA 2026, and NeurIPS 2025 - Northwestern University"
+ },
+ {
+  "id": "a08a79ecc53e36ae",
+  "timestamp": "Wed, 21 Jan 2026 08:00:00 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "opensource",
+  "title": "NeurIPS research papers contained 100+ AI-hallucinated citations, new report claims - Fortune",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTl9oWW5DX1pYZS1Fa1ZBNS1rUUwxTWpNTXZpZDl2dFdDWWp0X3hsOFB2RTAtdVk1UGtzajhLZ0RqS19veUxwUmVzemlsMmtSY2xDUHpZNHkwNWxsUmVObmh1cDRkY0k3WFZvN1Z2SUNTQ19FRl8yM2JzSmN3UmNRSEhnbGZ3ZnlyWlduQ0JB?oc=5",
+  "summary": "NeurIPS research papers contained 100+ AI-hallucinated citations, new report claims - Fortune",
+  "topics": [
+   "opensource"
+  ]
+ },
+ {
+  "id": "06c41134c1b2fc41",
+  "timestamp": "Fri, 13 Feb 2026 08:00:00 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "news",
+  "title": "Bringing AI to the real world: GM's week at NeurIPS 2025 - General Motors",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSEQxYjZCalNzWktEQU53LTVrODhKN3pkc0NMWnVNXzljcjBkZmpxYXBIVm5BQlhkU3NnZmlwTU40MGh0dVhtWUdZZmhKVjFkWWo1M0tsUWhHd2pEYzJRc1FUM2VwSy1veTNHbG5TOXFJbGIySzQxek9qaTd2SHVNeGJGWUpiT0QwbEpiaUU5TnZFVW9GcTRyTjZOOFlrRmFJMTNncHN0N0VXMlJWOWc?oc=5",
+  "summary": "Bringing AI to the real world: GM's week at NeurIPS 2025 - General Motors"
+ },
+ {
+  "id": "e81d7701d5a629f2",
+  "timestamp": "Fri, 03 Jul 2026 07:00:00 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "product",
+  "title": "International Conference on Machine Learning (ICML) 2026 - Apple Machine Learning Research",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwdTNsRU5ReFhLdDQxdjJPNTJ6X3pIWXMxNXFLdDJsbG5SQ0xUdWdsbGdLdldWc0Q3SmNvMTRhUDhqVTZjQ3FhNENLdm90enZLWEQ3VDIzSjR6clEtMTNEbUx4aVBrTU9KY0ZwQw?oc=5",
+  "summary": "International Conference on Machine Learning (ICML) 2026 - Apple Machine Learning Research",
+  "companies": [
+   "Apple"
+  ],
+  "topics": [
+   "product"
+  ]
+ },
+ {
+  "id": "28e0208d5e19d8d4",
+  "timestamp": "Mon, 06 Jul 2026 07:00:00 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "model",
+  "title": "AI Location Bias; AI Missing Vocal Clues: USC Viterbi and USC Stevens at ICML 2026 - USC Viterbi School of Engineering",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUjNGZmkybGxhZUJja29GSl9RQzRFY0JyWEV2Yl9EYVE4MjlTbjVhcEVtZC02NXF6alhQckdKYjVrSm1xZ2RrNXA4UEZLcm45UnR0LVU1OVZ6a2hlbDA3elR1YzFrVmFxVkU1TlVxYy1qOUJZeGpHVGc0MjlTSEtaS2FMcGNKS0M3WnE5S2FIMVJodjBuSWI2TzdwajA2ZG1McGJSZzkya1BUc3ZjbUNLcGNxRHdFSXgxOU1nb05tM1hzQQ?oc=5",
+  "summary": "AI Location Bias; AI Missing Vocal Clues: USC Viterbi and USC Stevens at ICML 2026 - USC Viterbi School of Engineering",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "00ff46f2a58d725b",
+  "timestamp": "Mon, 04 May 2026 07:00:00 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "news",
+  "title": "Insilico Medicine to Present Groundbreaking AI Retrosynthesis Research at ICML 2026: Introducing ChemCensor to Bring Real-World Chemistry Into AI Benchmarking - Insilico Medicine",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc215SGttanA5NGVudHRraktUbGtWMUdWQTRjX1N4R0lQQnd2eXZkUUFSUzBhYktISEV1Zm4ySlZ3dTRRMFVsZDZMNk1zVmhrSVhvdHRIUFNFT3NhdDNFRmRlVjBsSlBNVDF2VkZXcS1IRDlJYUw5eTFxZHVTZURPckZfUQ?oc=5",
+  "summary": "Insilico Medicine to Present Groundbreaking AI Retrosynthesis Research at ICML 2026: Introducing ChemCensor to Bring Real-World Chemistry Into AI Benchmarking - Insilico Medicine"
+ },
+ {
+  "id": "6a28c9f1ce806859",
+  "timestamp": "Mon, 06 Jul 2026 07:00:00 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "model",
+  "title": "How Open Models Are Driving AI Research - NVIDIA Blog",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6cVNCRG5XZmNPT2ZQYTdrcXdkbmQzYW5nS0t6SjZQQXNwdjd5eERRSkstNWc3Y2h3QVBsdDhjWU9KdTJoVHRoY0tLZmZRQXNoVnNrY21uclFGX2lUQ1IzZTlB?oc=5",
+  "summary": "How Open Models Are Driving AI Research - NVIDIA Blog",
+  "companies": [
+   "NVIDIA"
+  ],
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "092e9f0b7d6e4006",
+  "timestamp": "Tue, 20 Oct 2026 13:00:19 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "opensource",
+  "title": "Analysts Estimate Icon PLC (ICLR) to Report a Decline in Earnings: What to Look Out for - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbGlCT2FfZjRGSGRQelBUX0g3R2pKMUVuZEh0Y3E1aUhGZUNONTR5d2JKa2RjVF9HZC00M2FBbUw5RmMxMXpDSzJSMzNYS01obzBwWGhQT1FIeV9MT0hfcmE5TTZkQ2RFMnBGZ2JreUJtblJxcW1Tc25SOUJPcWx2MTlicmVvNmI2cXVyZVRGMF9ia292cWJfWWFvTW0?oc=5",
+  "summary": "Analysts Estimate Icon PLC (ICLR) to Report a Decline in Earnings: What to Look Out for - Yahoo Finance",
+  "topics": [
+   "opensource"
+  ]
+ },
+ {
+  "id": "85677531fc1785d1",
+  "timestamp": "Wed, 22 Apr 2026 07:00:00 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "product",
+  "title": "Apple Machine Learning Research at ICLR 2026 - Apple Machine Learning Research",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nSGxvSkM4Zi01cXp2bm5ZWnF0cm1GbTBJZVFYQS1CYWVFRl8zaFl5Sm5EbmpTaE5vaVhhc3JVcDRIMDJOMFFGWkFCN2MxeGZqWWZBVy1EU0N6S1JHRF9PYUNR?oc=5",
+  "summary": "Apple Machine Learning Research at ICLR 2026 - Apple Machine Learning Research",
+  "companies": [
+   "Apple"
+  ],
+  "topics": [
+   "product"
+  ]
+ },
+ {
+  "id": "76d81b61b8af37c6",
+  "timestamp": "Thu, 23 Apr 2026 07:00:00 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "model",
+  "title": "USC at ICLR 2026 - USC Viterbi School of Engineering",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5naVpEU0JyR0l0b1pCSTloOVRIcEJLNWxyaW1mak9qY3JhWWxnZElleE1wYmZWSUZ3TkN2SGFpUThiMXk4VkhValVmOXlCb3RPd1ExY0UwS2M3UUdDSnhjcjlUX3U5ZTBpdVRVcw?oc=5",
+  "summary": "USC at ICLR 2026 - USC Viterbi School of Engineering",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "b1212b88f1510e8f",
+  "timestamp": "Thu, 15 Oct 2026 07:00:00 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "model",
+  "title": "ICON (NasdaqGS:ICLR) Stock Forecast & Analyst Predictions - Simply Wall Street",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQXhUTXlTWDdiWHc1OUVyRWpIWGFxRDl5bXNWZHdTQnJYTENkRmdYVDk3VzFiUEwyRkRWc0FrSkxRdDhDUG9yTTZfdmt2TXp3RjFaVmROQzVlUU5CNEhoYkk5T2p5TnhNaldlbDFsY0YtRXhLNmZXQnRvdmFwRU5mRi1kZUtmUQ?oc=5",
+  "summary": "ICON (NasdaqGS:ICLR) Stock Forecast & Analyst Predictions - Simply Wall Street",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "b2b82fa38fa49129",
+  "timestamp": "Tue, 02 Jun 2026 15:13:44 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "news",
+  "title": "Google at CVPR 2026 - Google Research",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80anlkS2hfYjloVy00SnppeVoyRVMyN1BTRmQ4UUNzSzQzd2d5aGpmVUJHZmlCN3B4bEMwUUU2UnhtSExwbDlKSEdZRzh0Qmp6eWQ4OXNXZFN1WVlUSGkzMmM2NWF6dWZUVXN2M291ZlNaWFFsbkE?oc=5",
+  "summary": "Google at CVPR 2026 - Google Research",
+  "companies": [
+   "Google"
+  ]
+ },
+ {
+  "id": "e3452aa0a6518f36",
+  "timestamp": "Tue, 09 Jun 2026 07:00:00 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "model",
+  "title": "CVPR 2026 Honors the Year's Most Innovative Computer Vision and AI Research | Newswise - Newswise",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMEpWekVfa1lPTU5wbWJ3RVlFVWtlZjZaUTMxemRGSHVNYnp4aVRCaG0teGY4Y3p1bC1PQW9TX05hRmFxbDRXanI1cHFMUFRWYUhpOXdOeGhsVzVSY1ZQUm9Yd010YmVEVTFrZlJYVDA5dnFCaE1KeEQ5anZuOGJzMnZvSmV3dlgtZ1dsZVVSODB6YXhGODMxMTVzRk9lV3NFemFRZnVhMzg1alAyNHfSAa4BQVVfeXFMTzBKVnpFX2tZT01OcG1id0VZRVVrZWY2WlEzMXpkRkh1TWJ6eGlUQmhtLXhmOGN6dWwtT0FvU19OYUZhcWw0V2pyNXBxTFBUVmFIaTl3TnhobFc1UmNWUFJvWHdNdGJlRFUxa2ZSWFQwOXZxQmhNSnhEOWp2bjhiczJ2b0pld3ZYLWdXbGVVUjgwemF4RjgzMTE1c0ZPZVdzRXphUWZ1YTM4NWpQMjR3?oc=5",
+  "summary": "CVPR 2026 Honors the Year's Most Innovative Computer Vision and AI Research | Newswise - Newswise",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "329e6cdd63e173b5",
+  "timestamp": "Thu, 28 May 2026 07:00:00 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "model",
+  "title": "Panasonic HD announces two papers accepted at CVPR 2026 | Innovations/Technologies | Company | Press Releases - Panasonic Newsroom Global",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VMENyTHVXeFJEXzl3S1d6cXBUYVp0SzdiOG1ZM1NBSk1UVFJMVWhZM2ZyMDVHbk5kX3ZPOVFsal9WVE5ldWl2ZEE1ZkM3U3VjVlFxUDE5Q0dkdHNBbUpV?oc=5",
+  "summary": "Panasonic HD announces two papers accepted at CVPR 2026 | Innovations/Technologies | Company | Press Releases - Panasonic Newsroom Global",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "917c78c1734b57a2",
+  "timestamp": "Mon, 08 Jun 2026 07:00:00 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "news",
+  "title": "Eimran Eimon presents his work at CVPR 2026 - Florida Atlantic University",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNajhCSno1dzR6Y2FsWWRId2VLYWlDX2YtR2VoVGxTMXhtV3F5SUlacUlBaE9JMVJzZU82RnhHNHV2VFhIR1NueDdOamx1MW1TTWNPTlFQb3JTRDVtdVBBdGQwSGx0anNCX1B0aEp1Q0NhS0twVlNNeWZCZ3B5dXctTUJmUE1ranBIdTVaY3lB?oc=5",
+  "summary": "Eimran Eimon presents his work at CVPR 2026 - Florida Atlantic University"
+ },
+ {
+  "id": "3f2ed77cc64e43ec",
+  "timestamp": "Fri, 05 Jun 2026 06:27:15 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "news",
+  "title": "AAAI-27 Main Technical Track Call - The Association for the Advancement of Artificial Intelligence",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpQUI2VDl0azFlekpmeFJ1VnRsMTY2djJrQVpzeDJpRlN3VUlub0FRbEU4UG1ITVlTa2hTQ2RKRVA0QjAtMlZWSmItTEY2SGRNUGxSY0VfNUJjeW5zWHdyaW94dThFb253eTBvaDRkemd6SWdtekE?oc=5",
+  "summary": "AAAI-27 Main Technical Track Call - The Association for the Advancement of Artificial Intelligence"
+ },
+ {
+  "id": "eb626e4b5ebf6a62",
+  "timestamp": "Thu, 13 Aug 2026 07:00:00 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "news",
+  "title": "Undergraduate Consortium: Call for Participation - The Association for the Advancement of Artificial Intelligence",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaEFxVFZXOVZDNnN6RzE5YUNIeUtyc2dOVWJlWjF6VnBrTHdGMnNfX2N3Y3lXOWNRdks5UWZ6ZnNRb1FWSk16LXlZV0s3aXNRNEJSSURIYTUwSS1qV3hyTGtzQjVPd1YzUXp0VEZNc1RwXzh2SEdOVUtWYk9sYVJZYkdJOEtLcmRvX3h4VXhBTzJHYnc?oc=5",
+  "summary": "Undergraduate Consortium: Call for Participation - The Association for the Advancement of Artificial Intelligence"
+ },
+ {
+  "id": "5646ed51af792a35",
+  "timestamp": "Mon, 10 Aug 2026 14:35:52 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "news",
+  "title": "AAAI-27 Demonstrations Program: Call for Demonstrations - The Association for the Advancement of Artificial Intelligence",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NNFprYkdJM19GU2hleXlfajJvXzVHcU5OWWhKeTBlNW5oSkk5R21KckdoYWl0aFpMekZBc0hqSE5wNkktYy1LekdDSDNlOXV2YkpKWkFUR1pxY1RsRkRabXp2cXR0ZWpnSW9fVA?oc=5",
+  "summary": "AAAI-27 Demonstrations Program: Call for Demonstrations - The Association for the Advancement of Artificial Intelligence"
+ },
+ {
+  "id": "c62dfc079ee0fc95",
+  "timestamp": "Wed, 21 Oct 2026 09:28:00 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "product",
+  "title": "AAAI launches regional chapters in North, South and East - https://www.manifest-media.in/",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOGZGZUxBMVZGMGJramxaLVNqdDgtandzS0pzS0p5NmpPQTlBNmlaY1dkQV9scVJ0WUpKcHMzOEczOW1HbDZTRzdrLW1EWGF1T1Y0U2JFbFdCUk9rdVI2ckFYN2xLRG9jWmk1OVhpQWlPUk50YVNmeDhqWmRVWDR6U3paVmx0TlQ0ZXN4cmxqb1drODgwdEoyMHF4OGw2VGdkWkdkV3RYS3NYMjJSenc?oc=5",
+  "summary": "AAAI launches regional chapters in North, South and East - https://www.manifest-media.in/",
+  "topics": [
+   "product"
+  ]
+ },
+ {
+  "id": "c72b4b4ab050a1ed",
+  "timestamp": "Fri, 21 Nov 2025 08:00:00 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "news",
+  "title": "From Sensing to Creation: How Sony’s Research at ICCV 2025 Connected the Physical and the Imaginative Worlds of AI - Sony",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY1VscU1OcDZFU184b1pIcURjOXRHNzdWalRnYnhLU2U4dmRmdTlKVm5CVU0wTzJJU3NOaG1VdXFWc0ZUVU5jX0FlRHdqanNjM185RXhWR0JnemFCSkcwTFBPQ3BJVGEzdWNXMHppQUQ3UVNtclBmS1dPanZUbUJJRVhR?oc=5",
+  "summary": "From Sensing to Creation: How Sony’s Research at ICCV 2025 Connected the Physical and the Imaginative Worlds of AI - Sony"
+ },
+ {
+  "id": "9c0b828f94cd9a58",
+  "timestamp": "Fri, 13 Mar 2026 07:00:00 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "news",
+  "title": "Halal certifier accused rival of Islamic extremism links – then signed contract to replace them, court hears - The Guardian",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbVlCN1hQc0otV1FYbHA1M3lLMjIzX3lkQTM5a0FzM0ZzckxuRWRoWkpOQVg1WnlNZGpyV2dZUVJyNHR6ZG5RYWhuaE1CU0lsa1dBME9XQzVXUGdGQkRQVHZ6dVBQU19RU1ZHYmZIWjcwT0pKQXNncFdGTGhyYS0zRGdwNWFiYzZjUmQ2dWttRG5kUzBnT192VDl4OEd4WGRjeGhGSWJrYlJOUUNpeUFTWFRVd3JBQQ?oc=5",
+  "summary": "Halal certifier accused rival of Islamic extremism links – then signed contract to replace them, court hears - The Guardian"
+ },
+ {
+  "id": "8ec7de0671676c69",
+  "timestamp": "Sun, 19 Oct 2025 07:00:00 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "news",
+  "title": "Google at ICCV 2025 - Google Research",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kSWtYRVR6Qk1CZEs3YXFKQVEtbXE1NVN3VnZBNzU0WEw5OXJDSU9wZzJYS2xwQ1EtR25tMGV5WXNfMHBodklrbW5qVUU0ejBhamNjWmhxYk5ZM2k2UGROc2xJQmplc0dkekZaYVR3M0RuQjh6VkE?oc=5",
+  "summary": "Google at ICCV 2025 - Google Research",
+  "companies": [
+   "Google"
+  ]
+ },
+ {
+  "id": "f0f917f8202dc0eb",
+  "timestamp": "Tue, 21 Nov 2023 08:00:00 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "news",
+  "title": "Advancing perception across modalities with state-of-the-art AI - Qualcomm",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQjRveVJwSU9UUkNKdXdocTRXV0QwZDhCaUJRS2k0clBBcDdYMzhmbFAtSkllUENjZWVQejlWbkVLTFF4Vkg2NGpiUU5IUkxFczFrR19rWlAxLTg3dXJHTThSM09UeHR4aExYbWlOUHVkUlllQXZGYWRRMHJmNDhDYXZ2bUxRQ3hHX0ExcmxnME9wVFMxTHlZdldaaENmcUdyNW1wNHhDZlEzcVRvWGc?oc=5",
+  "summary": "Advancing perception across modalities with state-of-the-art AI - Qualcomm"
+ },
+ {
+  "id": "40f4fdf45b59ee6e",
+  "timestamp": "Sun, 14 Jun 2026 07:00:00 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "model",
+  "title": "EMNLP Partners With GPTZero to Reject Papers With Hallucinated References - GPTZero",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HaENzX1l1Q3BXOUo0eXJoYjFGZE9aRGRJZGlKWmdkZG96dlJwQnVORGsxOE5PM21HUUFsdUhKU2xyNGh3eUVlZm9XaDRHVTVqVFFQYWFKQ0ZsUFFtdTdFSlBR?oc=5",
+  "summary": "EMNLP Partners With GPTZero to Reject Papers With Hallucinated References - GPTZero",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "e156af3fa6d2d3a7",
+  "timestamp": "Thu, 29 Jan 2026 08:00:00 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "model",
+  "title": "Allen School researchers earn EMNLP Best Paper Award for making Internet-scale texts efficiently searchable with infini-gram mini - Allen School News",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRlM5VE56YkxJOFhNU2NNM3VheXJScEtONHROaUw0X3FyLTgtRjh4RURyX1dXZzhwOXB5dllXSlh2OUlVN3dGMkRDZ0dlcndHVTJWbTEyeVpVS1pxNXB0NW44dzAxLU5YSWVNclFRRXBzMjk2ZGljUmRxdnkyMkxXVmJXSTFic3IwTWhjZXJOelhGa0ZnVkw1bE5oNA?oc=5",
+  "summary": "Allen School researchers earn EMNLP Best Paper Award for making Internet-scale texts efficiently searchable with infini-gram mini - Allen School News",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "4928ea966ae73326",
+  "timestamp": "Fri, 02 Oct 2026 01:38:19 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "model",
+  "title": "Latest OMRON SINIC X Research Paper Accepted to EMNLP 2026, Top-tier Conference in the Field of Natural Language Processing – Activity - OMRON Global",
+  "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNmNWRVNheUN6MVZEMDMwM3pYYlN2VnROUzk3Mmw4VGdKbXVOdjBqVjBOZWt0bWV2N3VLRHM4S0RRUDdoUXJfeFI2SE9LaGFiTTlDbHRHWUZtNGlWTEt3TVp2cG5Qdk01YnZiaUt4VkZKNWU3TDh5VkJhU2otQVhaZVk4NXZkdGFrSFExaGttTlBuV3c1ZTJRcGNMbHowd1liMFEzdUt2Z0RscnRhY01aZmd4MTVfa2NHSXRtTHJFazRKaUFibG5pcFV2bDlYR1FRSVpZTS1nU3VTSDQxNU4tNE1yNFNpUWZ3SzJnWXRXQk1nY21vRUQyTnM0M2wxUQ?oc=5",
+  "summary": "Latest OMRON SINIC X Research Paper Accepted to EMNLP 2026, Top-tier Conference in the Field of Natural Language Processing – Activity - OMRON Global",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "0f74089628680a10",
+  "timestamp": "Tue, 16 Dec 2025 08:00:00 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "news",
+  "title": "CS professor Heng Ji makes \"a powerful, necessary call\" in EMNLP and IJCAI keynotes - Siebel School of Computing and Data Science",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80d1g0UzF6RjJpb3MxdklySFNRakt6OVpuQ1FZMmVDSHZ6cnQxWWZ3R2VxSXdiczlmNWFGR195TWhSQ3ItQlVqR2lkLTk2TlFBLUw0TVdBZU9ER1NCQWsxZklnOEZYSktPdjNJ?oc=5",
+  "summary": "CS professor Heng Ji makes \"a powerful, necessary call\" in EMNLP and IJCAI keynotes - Siebel School of Computing and Data Science"
+ },
+ {
+  "id": "185b593b45b9a808",
+  "timestamp": "Wed, 21 Oct 2026 09:17:00 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "news",
+  "title": "Khvicha Kvaratskhelia ruptured his ACL, PSG confirm - ESPN",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc3hEQUtmcDZMeUI2c1dhREVNZnEwZWQ5WlVDZXlqM2lBRHZxdTE0dEtqZl9UckNoWG1wNGVmWDdfNW1ZRTFqUUFJS0gyb3ZMeUZSQ2ZHemN6NXdNQmdtODdZeTkwcHJYZk9mUGhFY3htd0xSVGhCOV8yQmFJaDN2MFBhZXlBN2JQNlMxNHZNMXBJTFlfRWg2a29FUHlqWFFhV19Mc0MwX0M4N3VjclMw?oc=5",
+  "summary": "Khvicha Kvaratskhelia ruptured his ACL, PSG confirm - ESPN"
+ },
+ {
+  "id": "0c5bf247106032db",
+  "timestamp": "Tue, 20 Oct 2026 20:45:50 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "opensource",
+  "title": "Rams reportedly signing Brandon McManus after kicker Blake Grupe suffers torn ACL in Week 6 - Yahoo Sports",
+  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOOEh5LTVSNGJTLXRESWhOdWJxU1pONTdQc2lpTGJ6MkZObkJ6Q1pCV1JEbEd5VFlpMC11aWE3OE1BdVlEeDdTQVMtZFdVU1B5LVFVOEh5dTZUa21YeUJINkVSSUlNTjhaWUQyZE9pRjNLendXTENobkJlcGVtUGljUjdfZHRJb1BBZlp3djVzX2N0MDV5MWFlal9QZXc1RXRuZ083OGhEVnNWMFM5WWJDNElObGlvaHhfQW1WYzhMQmZlalpKNjgwSnQyZ2c3b3lJMF9Kd0c3eGYyckZsU2hNZnc1THEyeS1fdlFIZUd3?oc=5",
+  "summary": "Rams reportedly signing Brandon McManus after kicker Blake Grupe suffers torn ACL in Week 6 - Yahoo Sports",
+  "topics": [
+   "opensource"
+  ]
+ },
+ {
+  "id": "0f58cecc9c979c2d",
+  "timestamp": "Mon, 19 Oct 2026 06:29:05 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "news",
+  "title": "ACL was not worth hype - The Daily Texan",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mQmpmLU1HNWpua1JRX0YxM3M4TkhtVGJoS3Fwb3ByTWdfRkc1YlhmSmM5M2FmZDBwRmtnd1ZId3Bkb0JWS2RUOThnY1k4Vkp0N0lVdER4LU1lbmFXcUk5WkJ5UHdOcDFSajJ6Qw?oc=5",
+  "summary": "ACL was not worth hype - The Daily Texan"
+ },
+ {
+  "id": "5de4a81be4a1bfea",
+  "timestamp": "Wed, 21 Oct 2026 10:04:18 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "news",
+  "title": "PSG injuries: Kvaratskhelia needs operation for torn ACL, Dembélé and Marquinhos have thigh tears - Bozeman Daily Chronicle",
+  "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNMHVzcFJWd29RQzA2dUlWQ01mRWh6SnlWclBFLVRxd0t2ZVBUeEVpa1dXR01GRUUxRGhPYkdaN3hTOUtCWVBXYVBBa3E4RkJUazBJY201aTVXdHBYeWZTNTJuQkFDVTBlV28tYVh5X1F0SXJOQWNnWGRFaHFHUjRaXzA5MjIzSGFHMkFZOUFVZFc3bWtoWVpobkgwY0lEcFczREpHUkF0c1Fmem9saVhvTXQyS3JnRUdaanZQX294ZUx2c2UxZHA5eU5jX1ZGX3hsNzVtaVFOVDU0U1JQSUtMYjhGMFNnQzJnSTNHT1Eyc3puYXlNZFJvVTBUNU03aU5SOEpDQXpmaTJaUXItZWZONW90c0hvNWtCaXdkb1ItQQ?oc=5",
+  "summary": "PSG injuries: Kvaratskhelia needs operation for torn ACL, Dembélé and Marquinhos have thigh tears - Bozeman Daily Chronicle"
+ },
+ {
+  "id": "c62a37955b658f08",
+  "timestamp": "Wed, 21 Oct 2026 09:38:51 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "news",
+  "title": "GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote - NVIDIA Blog",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01VUZ6OC1vZmotcEpjZEpFWEFET2VlVmpGcmtxTHFwemxBMkhvZWQ2aG5FUk5wa253dVVvUktkR2NjWmVUZGJ5X19IWDFEeVV5bUtDSHJzbmh2Y2l6WGE3cF9leEU?oc=5",
+  "summary": "GTC Berlin 2026: Live Updates From NVIDIA CEO Jensen Huang’s Keynote - NVIDIA Blog",
+  "companies": [
+   "NVIDIA"
+  ]
+ },
+ {
+  "id": "8f22cd07ca4fe343",
+  "timestamp": "Wed, 21 Oct 2026 10:50:37 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "news",
+  "title": "NVIDIA GTC Berlin: Live Updates on What’s Next in AI - NVIDIA Blog",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4M3FmV0ljcFlSbm5UNGpFNlFFU01jc2MwbmtaUGFtNnExMVVMejNyV2tBX0xoaC1xajZmeFVDU3JVMGNsWnhzMnpWRmZvSjdSb3o1MF9ud3Y2Zw?oc=5",
+  "summary": "NVIDIA GTC Berlin: Live Updates on What’s Next in AI - NVIDIA Blog",
+  "companies": [
+   "NVIDIA"
+  ]
+ },
+ {
+  "id": "9cc817bf9ec3b77e",
+  "timestamp": "Wed, 21 Oct 2026 09:57:06 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "news",
+  "title": "Jensen Huang Nvidia GTC keynote disrupted by Greenpeace protest over chips in Russian drones — 'What are you doing about that?' heckler demands before being thrown out - Tom's Hardware",
+  "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQZlkzUnp3dWdTZHMzRVZpT1o3N2VQSGFONlV2MDVabTA1d1h4NGNjZlFES3JDX1BuNGc5SGRQcFFiMmxUeUVfcWp4V1V5X0FVTGxzMXRVUjZDZFFuVVVBZXIxWTlSYU14all3b0h1U2hIZDNFUUlNOC1LN2ZOazVCeVFtTlB6NFlVaFUtNFNpZTNEN3c4NVZzQTZ0VTVEbldRWHVUSFRvME5qZExLU2xBVW1xUmt1alZQSFlsM1MyWFNUV25IZWRmRE9OLWNlNE8xUFpGVDdsY3I0cllMMzN3M1ZKSGtKMWpFZXgydnpKY0o2UXppRHpmXzk2OFJNeVdXMTc2NzFtNl9IakJmTUYwTTFIS09FenBCWWd5WDJuUGlwTUlieHhLaGpCQkVhZw?oc=5",
+  "summary": "Jensen Huang Nvidia GTC keynote disrupted by Greenpeace protest over chips in Russian drones — 'What are you doing about that?' heckler demands before being thrown out - Tom's Hardware",
+  "companies": [
+   "NVIDIA"
+  ]
+ },
+ {
+  "id": "960e1da166fe7c95",
+  "timestamp": "Wed, 21 Oct 2026 08:45:34 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "news",
+  "title": "QCentroid Missions Demonstrates At NVIDIA GTC Berlin - Quantum Zeitgeist",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LMkYyMUJLUXNaWUwzWlNaeUU3NkljblBUZUg3T09pUTdqR08zOE5tMVRFV2toeERraTN2enFPT2VkZmRpVl8tR1A1OFZhZkxmOG5uZWFyS1Axd1U1My0tQ0VNeTVKb1I4cEFaT0RlU3ZTZXlRVnRiSDY0THY4Zw?oc=5",
+  "summary": "QCentroid Missions Demonstrates At NVIDIA GTC Berlin - Quantum Zeitgeist",
+  "companies": [
+   "NVIDIA"
+  ]
+ },
+ {
+  "id": "d6ba4c6e44970259",
+  "timestamp": "Tue, 20 Oct 2026 18:32:09 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "news",
+  "title": "Train like it’s real: 628th CES EOD brings deployed lessons home - Joint Base Charleston (.mil)",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZGpTd2pBLTE4X1JYNi0yZHROZGRSOTIxd01kVlk4QWxVanh0UzN0MkNJQUJvUUpDR3ZRSHNWQ2NYa0tRUW1JYXFESmxRRTBCbkFJMzNOTEc1ZWlpQXctZjNzTzJvT0ZtWElIZTRJWmNNa21FS0xESThiZDEybmpaMTluS2FvbUlQQTBMZ0xNNkZ3TUctcExISC1qbTE5ekR4aTZNeXNKNHF5VVVTcjdCbDdDUVdjZ0E?oc=5",
+  "summary": "Train like it’s real: 628th CES EOD brings deployed lessons home - Joint Base Charleston (.mil)"
+ },
+ {
+  "id": "f8e9af369cf9847d",
+  "timestamp": "Tue, 20 Oct 2026 11:30:00 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "news",
+  "title": "Realbotix to Exhibit at CES 2027 - Business Wire",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWDVoZC1KNTdPcnI5Q2J3czBUVS1VSUx0N2VEZC15ZUZLLVBSU185VllNOGV4RWJuUXI5MUk1YkJ2V05sNGE4MjFlcnlpZlBEN3lPZlk1dTY2cGcwWkREVU01RWZhd2M5bGZidFhuM2ltNTBJa3MtbzhrajB0dms4WnlvUFM4QnNNdmZZbjVYdVZOVHc?oc=5",
+  "summary": "Realbotix to Exhibit at CES 2027 - Business Wire"
+ },
+ {
+  "id": "9fc381d02c1cd534",
+  "timestamp": "Tue, 20 Oct 2026 15:20:00 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "news",
+  "title": "CES 2027: Lenovo Keynote Returns to The Sphere - Wifi Hifi Magazine",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42SS1IU0VYQzJObFdIOEpZQ2ZOUFllWUx6aS1DWXFHNDJhUGc1ak5NZWJRTjEwWlFoaFl0QW5zZTFzU0dnc1VNUU9DaFdVOGFMejd4UVhfMGJwcDhxbjJtRHBndURwa2dYTlNtb092OGVjUVRxOXc?oc=5",
+  "summary": "CES 2027: Lenovo Keynote Returns to The Sphere - Wifi Hifi Magazine"
+ },
+ {
+  "id": "a1e1660eb465bcb4",
+  "timestamp": "Sat, 17 Oct 2026 04:23:00 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "news",
+  "title": "Is CES Energy Solutions (TSX:CEU) Stock Looking Stretched Or Reasonable? - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdTdjeXA3a3MtSlhUZGV1WEhVaDFIdktKTkktY3YtNXZ6ajg1cmxLZFV5dkpxVEZDam5TUFEwWHo2VHJIMmp2VVZORUdKTkFxRllOZ29mOGd4VXJ6TFlVY0Y1czVGMjNQUmtHQzV3ODFEUHp2QXVRanBNcmZEZTNIVnhmM1FZMlhNQUtVR1hqaVBDMjQ5WGw2OA?oc=5",
+  "summary": "Is CES Energy Solutions (TSX:CEU) Stock Looking Stretched Or Reasonable? - Yahoo Finance"
+ },
+ {
+  "id": "ce8cee662cf3666d",
+  "timestamp": "Wed, 21 Oct 2026 05:00:00 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "news",
+  "title": "MWC Candidate Forum - Murray Ledger and Times",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT3ZRckFwNUtHdUhLeGhRYnhnR0o1MDNPYUZ0MGlLanFQb0VFSzB0eUo4S0thSGpQMUQtdlRMaDZiZWRCYUpKQlhMUDA1T3Z5YS1BbmN5Q1o4Vkc0dTNnOUc2djNrQXRaNk5BeHFETXRTT3dUNm1WNWhwS0w5dk5FNUJPNm8wOHpTSUJCOF9QUGMtWmp5VjhYQnJtLThzNzdYdkMtUUE2NDBpVkctdlRwYlB3?oc=5",
+  "summary": "MWC Candidate Forum - Murray Ledger and Times"
+ },
+ {
+  "id": "37b63f03d9085c89",
+  "timestamp": "Tue, 20 Oct 2026 10:16:58 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "news",
+  "title": "UH keeper Justin gets MWC award - Honolulu Star-Advertiser",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdGVaNlJrNV84dVFGN25vbko4YVJWU19pejVPQXFib0ZLb2ZmaHJLNEFjdDU1WEJPWTBIRm5Yd1pOSzdIRUV6MUZIalRfaVo3ejJlQnU3dWtoM3o3SmRZY29rWUp4WEZNMmxsWW1NQkF5bEVxVHYxcy13RHg5Y0JlXzZUVGZYT0tz?oc=5",
+  "summary": "UH keeper Justin gets MWC award - Honolulu Star-Advertiser"
+ },
+ {
+  "id": "df4cb7e4761d8053",
+  "timestamp": "Sun, 18 Oct 2026 13:20:31 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "news",
+  "title": "MWC Football - FloFootball",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd0JpZGRTNEdhR0FLdXdnbWl3VHM1TnZfSWJQbDRwWWxPcGdqNFdpVlFHc0hqbmU2dXM5M2dBTnd4YjlRLURKOGh2T0NuT3V3ZWF0QnNmOHlJQkxKREloNTRRZGNqdVFYVGlvd3BlOUxacmxWYWpxQW11RTFsSUFGZ2p4N1pfcTBt?oc=5",
+  "summary": "MWC Football - FloFootball"
+ },
+ {
+  "id": "a877ae7d90a7b283",
+  "timestamp": "Mon, 19 Oct 2026 00:15:00 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "news",
+  "title": "Monmouth rolls over Beloit College in MWC football - Beloit Daily News",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUjVPalpkUXppTWZ1cnZuRi1oN3ZnN25KNlNUVHNRLV9jcmtHaG94SkJza3J5UWhMUG5IcFNTVmJZUFlhaFNkSTJuT05hdXJ0UEVfT01ESjRyeU5sOF9ObmhxcEc2ZGhfaUVGTlJpMEFlWG1RWXJ6dGJRVENmdjA1dkZybTg4UXM2VEk5NktSLTlqY3RDVDFsOG9XRkliOWxDWlE1ZExnWEpQVFBFbHlBTUxwbjZKNjQzV1Bqd3h4S2pwaGt2Ym9UN0lCTU1pbFlKbVdRN2Jn?oc=5",
+  "summary": "Monmouth rolls over Beloit College in MWC football - Beloit Daily News"
+ },
+ {
+  "id": "efe2ee478be6b965",
+  "timestamp": "Sun, 18 Oct 2026 08:34:33 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "news",
+  "title": "Supercomputing plus AI: How China's first homegrown 100,000-card supercluster could simulate a universe - CGTN",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWFgxb040NTZReXRzQmFDVXpmaEVmVmhVR3RIa2VRN2NNMFk1Qm1TbkstOWdjU0thTmxPYUdBdmF3NjBNQmQtb0pZU2owMkdFY2Ftd1QxTEZOZlFWakpmZ3FuSWpYODVOX0pPQ1c4TUtMQndGRXdfSDl5TXBmSC16VExjZGVDTmJfUXBHZWtGQUxlMmQ2dWRaMDlhQl9uM2t3SGg5aUFXQjFLNzByZ0t5V08yTEF0SUFORlIxLVBUTEd4TXhZSkhj?oc=5",
+  "summary": "Supercomputing plus AI: How China's first homegrown 100,000-card supercluster could simulate a universe - CGTN"
+ },
+ {
+  "id": "ecf86c7a6343a17e",
+  "timestamp": "Mon, 20 Jul 2026 07:00:00 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "product",
+  "title": "Tencent Unveils Full-Stack Embodied Intelligence Solution; ADP 4.0 Launches Globally at WAIC 2026 - Tencent",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTktkUUxBejBFRWs3T1lRcnZmZkFQall4SUYyRjAtUUlIWGVfdGdGWGU5NTZyNEt3VjFyR2Z0WjdKelNnYzhESWpfNlcyU3VfeUgzQU15emtUenlzRnk3R19xOG9weURqb3o5WnFsSjJsNDdUUDRXb2ZVZzZnMXZxQlBqdmxMUmhlYVd0NERlYmNKcVRHblFOVWlURQ?oc=5",
+  "summary": "Tencent Unveils Full-Stack Embodied Intelligence Solution; ADP 4.0 Launches Globally at WAIC 2026 - Tencent",
+  "topics": [
+   "product"
+  ]
+ },
+ {
+  "id": "aef4da14e583a6e8",
+  "timestamp": "Fri, 24 Jul 2026 07:00:00 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "agent",
+  "title": "Industrial AI Comes to Reality: Siemens Eigen Engineering Agent Makes China Debut at WAIC 2026 - ARC Advisory Group",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLXpJaG9JMno0WEVnRFlkR2dSb0lQWlF5ekIxQW83SGNGMjZ2ZVhjQzJCdWVKTUw3WmVrS0xFT0pPaUwzVnJ4Vk1oei1GdXhOOGRRa2xzYUxQZy04d1hpMDlHekdHUFNZNG45d3FxcDdPSVhfT0FzOFdyTGpEajJ0T1p3MzlqVzNoXzlpZ1dTU3lXU1cwTTVEVkFEVExDSXptcThWX1d1Rk52M1ZuTkd6M1ZubU03UQ?oc=5",
+  "summary": "Industrial AI Comes to Reality: Siemens Eigen Engineering Agent Makes China Debut at WAIC 2026 - ARC Advisory Group",
+  "topics": [
+   "agent"
+  ]
+ },
+ {
+  "id": "977ca4bf48eefde4",
+  "timestamp": "Mon, 20 Jul 2026 07:00:00 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "news",
+  "title": "WAIC 2026 Insight: AI-Native Organizations--A Quiet Reconstruction of Corporate DNA - Yahoo Finance",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcnNHVjJVY3REOXRJelB2QVo1QXNQMW82di1RRWtGMGxlTkNkLTZUSFI3d19PR3RqZ3MzYUtEeFhZNXRnblFHNGc5S3NCaERkcVE0SkhNVUtIZm9vYWpGd0NpcTNuQm0zZXc1dVV5RTd5c21MMkhjeS1feUJCQXV4cERVU1JPVnY5b2tobWRtTU9Fa005bVE?oc=5",
+  "summary": "WAIC 2026 Insight: AI-Native Organizations--A Quiet Reconstruction of Corporate DNA - Yahoo Finance"
+ },
+ {
+  "id": "4b1938ee42e7fc0a",
+  "timestamp": "Tue, 20 Oct 2026 20:00:01 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "news",
+  "title": "Highlights from the Judicial AI Summit for courts - Thomson Reuters Legal Solutions",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYnBHUE1EQkZrcTJKZ1lVZnZUVkhlMDRFSU5rY2ZIYWpIZWx2QmRGZlBrZEF5Ul83dDdzb3dOZ1M0Zll0QWFjZC1UTlowRmpoa0hucXRPQThhaDRpWkpwNEVNaE5JS3l6RW02N1czUEdrNTU0eVBsNnBjZEpWMWhCN3ZaUnl2eFFRV294NGZ6M0Q3a29OUndkZzFUNFg?oc=5",
+  "summary": "Highlights from the Judicial AI Summit for courts - Thomson Reuters Legal Solutions"
+ },
+ {
+  "id": "90f946d7eb0a5d59",
+  "timestamp": "Wed, 21 Oct 2026 11:23:20 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "opensource",
+  "title": "“Family Offices Must Have Privacy As Their North Star” – Summit Report - Family Wealth Report",
+  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQTc4NkpZNUJCS3dPQklxWG1MeERWQnlwek1EeEJNbkRMbHhoQ3lfaDFwM3Q2eURLaGJwZzlpWmdyRTNCR2VaWEE3UnVqSU9ZT2lfS2o1U24zVnM2WkV5Y0REWjlXbmlwaUpBYzRJOGh4V2NSRW9VOHViY0xNMkk1X0lHbWZDaVF0Nl9DbWxHNmRISTY1ZkNKYTl1ekRoSzRHc294REN3X2dybFluNnZ2SmRmMVdkaEh2OUwyVmoybjVuNHdFUWRsblhibkZPMHRUaE9YcXViUFJfeTcxVFYwUjlfdTJxZw?oc=5",
+  "summary": "“Family Offices Must Have Privacy As Their North Star” – Summit Report - Family Wealth Report",
+  "topics": [
+   "opensource"
+  ]
+ },
+ {
+  "id": "d6f08b0e1665f265",
+  "timestamp": "Tue, 20 Oct 2026 18:46:00 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "news",
+  "title": "Jax State to host AI summit bridging classroom and career - The Anniston Star",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUG9ZUTI5RkgtRmtfZjFBVk5NclVnSXJEbHh3aW5DQ25Vd00xUi1KVlZHUzUwd294ZlFIcUlTeE5ybUdkY0k1TEhNQUtWQzg5OHVaaVZWeVVYdFoxM2YyZ191aEdyRzZxRTBKLWtoREx3MGhUY2dvMERYX1pwaDM4UHdzQjFRcDhiOE56WUdsRnNWbUkxc3Zhb2dRM1k1bEhFSWdkaEJYVm9LSkRLWTJTM1I1U19IUEs0dmpDSVVLRlRyS3k1aEJfbHdXaDRkRTZncWdpRHFmelhsQlF4Q0E?oc=5",
+  "summary": "Jax State to host AI summit bridging classroom and career - The Anniston Star"
+ },
+ {
+  "id": "5a0fe83b62797581",
+  "timestamp": "Mon, 19 Oct 2026 09:00:00 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "news",
+  "title": "College of DuPage brings OpenAI Academy to Illinois for inaugural AI summit - Crain's Chicago Business",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWFVyc2cwN0RXcWtDY2Jpal94dUx2WnMzUnd0VGIxZWZaem5YSGpwazJrYW4tdGdDaDZWT0dIWXpOajBDWDVtUHZGLXJXOW9sakNlMm5Lck5MMHBsMURJeVVwTm0zTEZWTkFkXzJiWlprci1sMnpiQ1ljVGZjaWhqVFNmd1NrLVk1dXYyY2tYcWQ0QkdQZk5yMlpQekJkTTVESkZ2NFZuWXI3WjJWLTN4OFdsUVVEZ0NhT0dfUTREcy0?oc=5",
+  "summary": "College of DuPage brings OpenAI Academy to Illinois for inaugural AI summit - Crain's Chicago Business",
+  "companies": [
+   "OpenAI"
+  ]
+ },
+ {
+  "id": "7f7b1a3f3c07fb8f",
+  "timestamp": "Wed, 21 Oct 2026 05:52:53 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "agent",
+  "title": "OpenAI says its agents turned off own safeguards - Al Jazeera",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc3RmVVZhOVFTdU5kNGFKUWVjN3M2UXBNeURwN2ZmRXlMcnZETk94b1VVdkd2dnBzc0tsdFZ3QWQ1cng1ZmNXRkZpS1BRVmxoUUdzWEN2T3U3SU0wR3JKSHpFcmZFbGlWWjM1TU1ZYmE1M2N4T2ZNQmY2Q2JDZ1JxZEJIUVpTUTRtdjJKMHBXX1JqN3B3Q1BnSdIBngFBVV95cUxNS095Tlp1ZE1nM0JJZ1RRVWtKNklETjRnb3hySHpERVlTVVVqeE9CWXdhOFpTZ093eGp1dlVhQ2p1eXM2cnJpTUcyTGp1NV9JRU5FdWdNRlhMSkZVMjZmQmZMLW9ZQVFfTEdpSzktNXR0VUMwS3I3T2UyemdKMjdQMkdZak9URHRVbW50Z3BHX2N1NnEtY1V1bGNHeHg3UQ?oc=5",
+  "summary": "OpenAI says its agents turned off own safeguards - Al Jazeera",
+  "companies": [
+   "OpenAI"
+  ],
+  "topics": [
+   "agent"
+  ]
+ },
+ {
+  "id": "a8ec4b8b5f893b60",
+  "timestamp": "Mon, 19 Oct 2026 20:35:15 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "news",
+  "title": "Ex-OpenAI worker accused of bugging conference room planned to fly to Saudi Arabia, prosecutors say - PBS",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYURVYVBuTHd2RWt1Wmd1emx4T0h4SFNIaUxZU2tBa3ZPQ0xCX3UxY2UzVUk3Vnp4YVJaZ3Bzek5oSFBIMkg3YWRGUjlVd0FaekpRM0JOUGU5SGNwZGtQaG41bWdDMHlJbUt1b094cEhCazdwb0FtaDYwNTV0V0c4TkktWWpILXFFMVptTHlGU3BBeHloT1laeEdBWEZKVzR6V2xQUXVsY2IxWDFzNDhmc3pnLUp2UE52RnhjaHZwNkl3UW9LSTAzZU5LdzBjYlRBUDFr0gHTAUFVX3lxTE9hRFVhUG5Md3ZFa3VaZ3V6bHhPSHhIU0hpTFlTa0Frdk9DTEJfdTFjZTNVSTdWenhhUlpncHN6TmhIUEgySDdhZEZSOVV3QVp6SlEzQk5QZTlIY3Bka1BobjVtZ0MweUltS3VvT3hwSEJrN3BvQW1oNjA1NXRXRzhOSS1ZakgtcUUxWm1MeUZTcEF4eWhPWVp4R0FYRkpXNHpXbFBRdWxjYjFYMXM0OGZzemctSnZQTnZGeGNodnA2SXdRb0tJMDNlTkt3MGNiVEFQMWs?oc=5",
+  "summary": "Ex-OpenAI worker accused of bugging conference room planned to fly to Saudi Arabia, prosecutors say - PBS",
+  "companies": [
+   "OpenAI"
+  ]
+ },
+ {
+  "id": "a5b746a2f32acd3d",
+  "timestamp": "Thu, 01 Oct 2026 07:00:00 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "news",
+  "title": "OpenAI DevDay 2026: The biggest news and announcements - The Verge",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc1BJbnR3VkUzc3lyalhhcWJKTXlHWGhPem5DT1psM2pqQ3ZTcE9zdlk0S1NlUU1aNWNFRnlYakxyZlpGVmh3RUpRNVpsM2RxN0ViWFRCYVh5ZEk5RFYwNGRZZ0p0M0pzWFJUeUpiUFdCOUZwRFBmbWkzN24tblVtX2pvVFh3QVdiclVPOHBqV0pXd252TTRhRkl1MDhubktLcHZkM3piU3I?oc=5",
+  "summary": "OpenAI DevDay 2026: The biggest news and announcements - The Verge",
+  "companies": [
+   "OpenAI"
+  ]
+ },
+ {
+  "id": "49dd3cd09ce2e90d",
+  "timestamp": "Tue, 29 Sep 2026 20:12:38 GMT",
+  "source": "compass",
+  "kind": "conference",
+  "signal_type": "model",
+  "title": "Biggest news from OpenAI Dev Day: Dots, GPT-6.1 Sol, new plans - Mashable",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zc2VoVDl6U1VtczV2R2Q3RTU2N2hJcHlfNVAtOF9lR2wtSjF6U2FiZnliTUlKRU1qXzh2cXlobVBGX2NlaTd2bXprU0pYYlIyTThOWFhPSXhOWG40S1NDT0NPanU1cHZoM3RyT00xM1NLZEow?oc=5",
+  "summary": "Biggest news from OpenAI Dev Day: Dots, GPT-6.1 Sol, new plans - Mashable",
+  "companies": [
+   "OpenAI"
+  ],
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "b845863738c94dd6",
+  "timestamp": "Tue, 20 Oct 2026 10:00:00 GMT",
+  "source": "compass",
+  "kind": "ai",
+  "signal_type": "model",
+  "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+  "url": "https://openai.com/index/ted-taylor-restaurant",
+  "summary": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "e79bcfad386eb948",
+  "timestamp": "Tue, 20 Oct 2026 07:00:00 GMT",
+  "source": "compass",
+  "kind": "ai",
+  "signal_type": "model",
+  "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+  "url": "https://openai.com/index/terminal-x",
+  "summary": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "446d2139309714c4",
+  "timestamp": "Tue, 20 Oct 2026 00:00:00 GMT",
+  "source": "compass",
+  "kind": "ai",
+  "signal_type": "news",
+  "title": "OpenAI acquires Orchestra Bio",
+  "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+  "summary": "OpenAI acquires Orchestra Bio",
+  "companies": [
+   "OpenAI"
+  ]
+ },
+ {
+  "id": "a55055bc313f07a5",
+  "timestamp": "Mon, 19 Oct 2026 12:00:00 GMT",
+  "source": "compass",
+  "kind": "ai",
+  "signal_type": "news",
+  "title": "Advancing coding in low‑resource programming languages",
+  "url": "https://openai.com/index/low-resource-programming-languages",
+  "summary": "Advancing coding in low‑resource programming languages"
+ },
+ {
+  "id": "c44fe42bbd16b7ac",
+  "timestamp": "Fri, 16 Oct 2026 19:00:00 GMT",
+  "source": "compass",
+  "kind": "ai",
+  "signal_type": "news",
+  "title": "How Itaú is building generative AI for its entire customer base",
+  "url": "https://openai.com/index/itau-generative-ai",
+  "summary": "How Itaú is building generative AI for its entire customer base"
+ },
+ {
+  "id": "59a08206df5fc0a7",
+  "timestamp": "Fri, 16 Oct 2026 00:00:00 GMT",
+  "source": "compass",
+  "kind": "ai",
+  "signal_type": "model",
+  "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+  "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+  "summary": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+  "topics": [
+   "model",
+   "agent"
+  ]
+ },
+ {
+  "id": "a009aca0ba38b1fa",
+  "timestamp": "Fri, 16 Oct 2026 00:00:00 GMT",
+  "source": "compass",
+  "kind": "ai",
+  "signal_type": "news",
+  "title": "Benefit Street Partners answers questions faster with Codex",
+  "url": "https://openai.com/index/benefit-street-partners",
+  "summary": "Benefit Street Partners answers questions faster with Codex"
+ },
+ {
+  "id": "334c826c85c32823",
+  "timestamp": "Thu, 15 Oct 2026 19:00:00 GMT",
+  "source": "compass",
+  "kind": "ai",
+  "signal_type": "model",
+  "title": "Bringing GPT-Rosalind to academic research labs",
+  "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+  "summary": "Bringing GPT-Rosalind to academic research labs",
+  "topics": [
+   "model"
+  ]
+ },
+ {
+  "id": "fb3b2e0ca1647140",
+  "timestamp": "Thu, 15 Oct 2026 13:00:00 GMT",
+  "source": "compass",
+  "kind": "ai",
+  "signal_type": "news",
+  "title": "Teaching students to think and learn through questions",
+  "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+  "summary": "Teaching students to think and learn through questions"
+ },
+ {
+  "id": "f467f41d66c76fae",
+  "timestamp": "Thu, 15 Oct 2026 00:00:00 GMT",
+  "source": "compass",
+  "kind": "ai",
+  "signal_type": "news",
+  "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+  "url": "https://openai.com/index/sullivan-cromwell",
+  "summary": "Sullivan & Cromwell brings legal expertise into agreement review"
+ },
+ {
+  "id": "ac6d1dce37845d52",
+  "timestamp": "Tue, 20 Oct 2026 15:57:59 GMT",
+  "source": "compass",
+  "kind": "ai",
+  "signal_type": "news",
+  "title": "30 Months on the Exponential (in Charts)",
+  "url": "https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts",
+  "summary": "30 Months on the Exponential (in Charts)"
+ },
+ {
+  "id": "2045d825dc3057a8",
+  "timestamp": "Thu, 01 Oct 2026 10:54:12 GMT",
+  "source": "compass",
+  "kind": "ai",
+  "signal_type": "news",
+  "title": "The Dot and the Swarm",
+  "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+  "summary": "The Dot and the Swarm"
+ },
+ {
+  "id": "b2e1c55816025626",
+  "timestamp": "Fri, 18 Sep 2026 17:54:32 GMT",
+  "source": "compass",
+  "kind": "ai",
+  "signal_type": "news",
+  "title": "The Overhang",
+  "url": "https://www.oneusefulthing.org/p/the-overhang",
+  "summary": "The Overhang"
+ },
+ {
+  "id": "824bf2c4da7e60cb",
+  "timestamp": "Mon, 31 Aug 2026 00:24:35 GMT",
+  "source": "compass",
+  "kind": "ai",
+  "signal_type": "agent",
+  "title": "Agency and Agents",
+  "url": "https://www.oneusefulthing.org/p/agency-and-agents",
+  "summary": "Agency and Agents",
+  "topics": [
+   "agent"
+  ]
+ },
+ {
+  "id": "6fa2f750057fe13f",
+  "timestamp": "Thu, 23 Jul 2026 18:05:24 GMT",
+  "source": "compass",
+  "kind": "ai",
+  "signal_type": "news",
+  "title": "An opinionated guide to which AI to use to do stuff",
+  "url": "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+  "summary": "An opinionated guide to which AI to use to do stuff"
+ },
+ {
+  "id": "c14803908b15d648",
+  "timestamp": "Tue, 30 Jun 2026 22:18:12 GMT",
+  "source": "compass",
+  "kind": "ai",
+  "signal_type": "news",
+  "title": "The twilight of the chatbots",
+  "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+  "summary": "The twilight of the chatbots"
+ },
+ {
+  "id": "365df6fec5896a01",
+  "timestamp": "Tue, 09 Jun 2026 17:11:22 GMT",
+  "source": "compass",
+  "kind": "ai",
+  "signal_type": "news",
+  "title": "What it feels like to work with Mythos",
+  "url": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+  "summary": "What it feels like to work with Mythos"
+ },
+ {
+  "id": "640918e4437448a8",
+  "timestamp": "Thu, 04 Jun 2026 21:13:42 GMT",
+  "source": "compass",
+  "kind": "ai",
+  "signal_type": "news",
+  "title": "Co-Existence and the End of Co-Intelligence",
+  "url": "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+  "summary": "Co-Existence and the End of Co-Intelligence"
+ },
+ {
+  "id": "d4ce4bbd1708ff5c",
+  "timestamp": "Tue, 26 May 2026 19:56:01 GMT",
+  "source": "compass",
+  "kind": "ai",
+  "signal_type": "news",
+  "title": "Choosing to Stay Human",
+  "url": "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+  "summary": "Choosing to Stay Human"
+ },
+ {
+  "id": "21c88f1df2008ecf",
+  "timestamp": "Thu, 23 Apr 2026 20:00:38 GMT",
+  "source": "compass",
+  "kind": "ai",
+  "signal_type": "model",
+  "title": "Sign of the future: GPT-5.5",
+  "url": "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55",
+  "summary": "Sign of the future: GPT-5.5",
+  "topics": [
+   "model"
+  ]
+ }
+]
