@@ -1,5 +1,5 @@
 {
- "date": "2026-10-20",
+ "date": "2026-10-21",
  "picks": [
   {
    "source": "github",
@@ -26,11 +26,11 @@
   "by_source": {
    "github": 20,
    "huggingface": 49,
-   "youtube": 21,
-   "siliconvalley": 22,
-   "arxiv": 55,
+   "youtube": 20,
+   "siliconvalley": 31,
+   "arxiv": 65,
    "hardware": 25,
-   "compass": 138
+   "compass": 140
   },
   "top_orgs": [
    [
@@ -54,15 +54,7 @@
     7
    ],
    [
-    "storytold",
-    5
-   ],
-   [
     "black-forest-labs",
-    5
-   ],
-   [
-    "Dwarkesh Clips",
     5
    ],
    [
@@ -70,11 +62,19 @@
     5
    ],
    [
-    "Kimi",
+    "OpenAI",
+    5
+   ],
+   [
+    "Anthropic",
+    5
+   ],
+   [
+    "DeepSeek",
     5
    ]
   ],
-  "total": 330
+  "total": 350
  },
  "source": {
   "name": "Signals 4 (Signals API)",
