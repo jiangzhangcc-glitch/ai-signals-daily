@@ -1,5 +1,5 @@
 {
- "date": "2026-10-21",
+ "date": "2026-10-22",
  "picks": [
   {
    "source": "github",
@@ -26,20 +26,20 @@
   "by_source": {
    "github": 20,
    "huggingface": 49,
-   "youtube": 20,
+   "youtube": 18,
    "siliconvalley": 31,
-   "arxiv": 65,
+   "arxiv": 64,
    "hardware": 25,
-   "compass": 140
+   "compass": 141
   },
   "top_orgs": [
    [
-    "Lex Clips",
+    "The Robot Report",
     15
    ],
    [
-    "The Robot Report",
-    15
+    "Lex Clips",
+    14
    ],
    [
     "AMD News",
@@ -74,7 +74,7 @@
     5
    ]
   ],
-  "total": 350
+  "total": 348
  },
  "source": {
   "name": "Signals 4 (Signals API)",
