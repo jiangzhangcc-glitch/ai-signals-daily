@@ -1,5 +1,5 @@
 {
- "date": "2026-10-22",
+ "date": "2026-10-23",
  "picks": [
   {
    "source": "github",
@@ -26,11 +26,11 @@
   "by_source": {
    "github": 20,
    "huggingface": 49,
-   "youtube": 18,
+   "youtube": 14,
    "siliconvalley": 31,
    "arxiv": 64,
    "hardware": 25,
-   "compass": 141
+   "compass": 151
   },
   "top_orgs": [
    [
@@ -39,7 +39,7 @@
    ],
    [
     "Lex Clips",
-    14
+    11
    ],
    [
     "AMD News",
@@ -52,10 +52,6 @@
    [
     "Qwen",
     7
-   ],
-   [
-    "black-forest-labs",
-    5
    ],
    [
     "NVIDIA",
@@ -72,9 +68,13 @@
    [
     "DeepSeek",
     5
+   ],
+   [
+    "Kimi",
+    5
    ]
   ],
-  "total": 348
+  "total": 354
  },
  "source": {
   "name": "Signals 4 (Signals API)",
