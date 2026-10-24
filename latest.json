@@ -1,5 +1,5 @@
 {
- "date": "2026-10-23",
+ "date": "2026-10-24",
  "picks": [
   {
    "source": "github",
@@ -13,21 +13,21 @@
   },
   {
    "source": "youtube",
-   "title": "Gemini 4 Argon Is Not What I Expected",
-   "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc"
+   "title": "There Aren’t Enough Machines to 10x AI Chips",
+   "url": "https://www.youtube.com/watch?v=_cr6GwaaRws"
   },
   {
    "source": "siliconvalley",
-   "title": "Weekly Dose of Optimism #215",
-   "url": "https://www.notboring.co/p/weekly-dose-of-optimism-215"
+   "title": "Weekly Dose of Optimism #216",
+   "url": "https://www.notboring.co/p/weekly-dose-of-optimism-216"
   }
  ],
  "stats": {
   "by_source": {
    "github": 20,
-   "huggingface": 49,
-   "youtube": 14,
-   "siliconvalley": 31,
+   "huggingface": 48,
+   "youtube": 9,
+   "siliconvalley": 23,
    "arxiv": 64,
    "hardware": 25,
    "compass": 151
@@ -36,10 +36,6 @@
    [
     "The Robot Report",
     15
-   ],
-   [
-    "Lex Clips",
-    11
    ],
    [
     "AMD News",
@@ -52,6 +48,14 @@
    [
     "Qwen",
     7
+   ],
+   [
+    "Lex Clips",
+    6
+   ],
+   [
+    "storytold",
+    5
    ],
    [
     "NVIDIA",
@@ -68,13 +72,9 @@
    [
     "DeepSeek",
     5
-   ],
-   [
-    "Kimi",
-    5
    ]
   ],
-  "total": 354
+  "total": 340
  },
  "source": {
   "name": "Signals 4 (Signals API)",
