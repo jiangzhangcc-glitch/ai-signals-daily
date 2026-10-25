@@ -1,5 +1,5 @@
 {
- "date": "2026-10-24",
+ "date": "2026-10-25",
  "picks": [
   {
    "source": "github",
@@ -13,8 +13,8 @@
   },
   {
    "source": "youtube",
-   "title": "There Aren’t Enough Machines to 10x AI Chips",
-   "url": "https://www.youtube.com/watch?v=_cr6GwaaRws"
+   "title": "Do Chip Fabs Even Need Clean Rooms?",
+   "url": "https://www.youtube.com/watch?v=5rpevwB36Jk"
   },
   {
    "source": "siliconvalley",
@@ -26,7 +26,7 @@
   "by_source": {
    "github": 20,
    "huggingface": 48,
-   "youtube": 9,
+   "youtube": 5,
    "siliconvalley": 23,
    "arxiv": 64,
    "hardware": 25,
@@ -50,10 +50,6 @@
     7
    ],
    [
-    "Lex Clips",
-    6
-   ],
-   [
     "storytold",
     5
    ],
@@ -72,9 +68,13 @@
    [
     "DeepSeek",
     5
+   ],
+   [
+    "Kimi",
+    5
    ]
   ],
-  "total": 340
+  "total": 336
  },
  "source": {
   "name": "Signals 4 (Signals API)",
