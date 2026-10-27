@@ -1,5 +1,5 @@
 {
- "date": "2026-10-26",
+ "date": "2026-10-27",
  "picks": [
   {
    "source": "github",
@@ -13,8 +13,8 @@
   },
   {
    "source": "youtube",
-   "title": "Why Only 3 Companies Can Still Make Cutting-Edge Chips",
-   "url": "https://www.youtube.com/watch?v=Nq8rK9l5M7A"
+   "title": "Role of humans in the age of AI in mathematics | Lex Fridman",
+   "url": "https://www.youtube.com/watch?v=8873on73O-E"
   },
   {
    "source": "siliconvalley",
@@ -26,11 +26,11 @@
   "by_source": {
    "github": 20,
    "huggingface": 48,
-   "youtube": 3,
+   "youtube": 6,
    "siliconvalley": 31,
-   "arxiv": 62,
+   "arxiv": 68,
    "hardware": 25,
-   "compass": 151
+   "compass": 138
   },
   "top_orgs": [
    [
@@ -47,10 +47,6 @@
    ],
    [
     "Qwen",
-    7
-   ],
-   [
-    "mradermacher",
     7
    ],
    [
@@ -72,9 +68,13 @@
    [
     "DeepSeek",
     5
+   ],
+   [
+    "Kimi",
+    5
    ]
   ],
-  "total": 340
+  "total": 336
  },
  "source": {
   "name": "Signals 4 (Signals API)",
