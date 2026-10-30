@@ -1,5 +1,5 @@
 {
- "date": "2026-10-29",
+ "date": "2026-10-30",
  "picks": [
   {
    "source": "github",
@@ -13,8 +13,8 @@
   },
   {
    "source": "youtube",
-   "title": "Hard math problems that OpenAI couldn't solve | Lex Fridman",
-   "url": "https://www.youtube.com/watch?v=6QJ97-dL-FU"
+   "title": "Limits of AI - explained by mathematicians | Lex Fridman",
+   "url": "https://www.youtube.com/watch?v=r5-N6ns7e4Q"
   },
   {
    "source": "siliconvalley",
@@ -26,11 +26,11 @@
   "by_source": {
    "github": 20,
    "huggingface": 49,
-   "youtube": 19,
+   "youtube": 22,
    "siliconvalley": 23,
-   "arxiv": 62,
+   "arxiv": 60,
    "hardware": 25,
-   "compass": 147
+   "compass": 150
   },
   "top_orgs": [
    [
@@ -39,7 +39,7 @@
    ],
    [
     "Lex Clips",
-    12
+    14
    ],
    [
     "AMD News",
@@ -51,15 +51,11 @@
    ],
    [
     "Qwen",
-    6
-   ],
-   [
-    "storytold",
-    5
+    7
    ],
    [
     "Dwarkesh Clips",
-    5
+    6
    ],
    [
     "NVIDIA",
@@ -70,11 +66,15 @@
     5
    ],
    [
-    "Kimi",
+    "Anthropic",
+    5
+   ],
+   [
+    "DeepSeek",
     5
    ]
   ],
-  "total": 345
+  "total": 349
  },
  "source": {
   "name": "Signals 4 (Signals API)",
