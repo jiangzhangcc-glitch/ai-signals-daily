@@ -1,5 +1,5 @@
 {
- "date": "2026-10-30",
+ "date": "2026-10-31",
  "picks": [
   {
    "source": "github",
@@ -8,38 +8,38 @@
   },
   {
    "source": "huggingface",
-   "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
-   "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+   "title": "Nanbeige/Nanbeige4.3-33B",
+   "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B"
   },
   {
    "source": "youtube",
-   "title": "Limits of AI - explained by mathematicians | Lex Fridman",
-   "url": "https://www.youtube.com/watch?v=r5-N6ns7e4Q"
+   "title": "Is AI discovering new math or just remixing human ideas? | Lex Fridman",
+   "url": "https://www.youtube.com/watch?v=Q9jIqE78y4M"
   },
   {
    "source": "siliconvalley",
-   "title": "Weekly Dose of Optimism #216",
-   "url": "https://www.notboring.co/p/weekly-dose-of-optimism-216"
+   "title": "Weekly Dose of Optimism #217",
+   "url": "https://www.notboring.co/p/weekly-dose-of-optimism-217"
   }
  ],
  "stats": {
   "by_source": {
    "github": 20,
    "huggingface": 49,
-   "youtube": 22,
-   "siliconvalley": 23,
+   "youtube": 23,
+   "siliconvalley": 27,
    "arxiv": 60,
    "hardware": 25,
    "compass": 150
   },
   "top_orgs": [
    [
-    "The Robot Report",
+    "Lex Clips",
     15
    ],
    [
-    "Lex Clips",
-    14
+    "The Robot Report",
+    15
    ],
    [
     "AMD News",
@@ -55,7 +55,7 @@
    ],
    [
     "Dwarkesh Clips",
-    6
+    5
    ],
    [
     "NVIDIA",
@@ -74,7 +74,7 @@
     5
    ]
   ],
-  "total": 349
+  "total": 354
  },
  "source": {
   "name": "Signals 4 (Signals API)",
