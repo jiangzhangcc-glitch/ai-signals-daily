@@ -1,5 +1,5 @@
 {
- "date": "2026-10-31",
+ "date": "2026-11-01",
  "picks": [
   {
    "source": "github",
@@ -13,8 +13,8 @@
   },
   {
    "source": "youtube",
-   "title": "Is AI discovering new math or just remixing human ideas? | Lex Fridman",
-   "url": "https://www.youtube.com/watch?v=Q9jIqE78y4M"
+   "title": "How to solve hard problems - mathematicians explain | Lex Fridman",
+   "url": "https://www.youtube.com/watch?v=FkdD7c8Xjzo"
   },
   {
    "source": "siliconvalley",
@@ -27,10 +27,10 @@
    "github": 20,
    "huggingface": 49,
    "youtube": 23,
-   "siliconvalley": 27,
+   "siliconvalley": 23,
    "arxiv": 60,
    "hardware": 25,
-   "compass": 150
+   "compass": 139
   },
   "top_orgs": [
    [
@@ -51,7 +51,7 @@
    ],
    [
     "Qwen",
-    7
+    6
    ],
    [
     "Dwarkesh Clips",
@@ -70,11 +70,11 @@
     5
    ],
    [
-    "DeepSeek",
+    "Kimi",
     5
    ]
   ],
-  "total": 354
+  "total": 339
  },
  "source": {
   "name": "Signals 4 (Signals API)",
