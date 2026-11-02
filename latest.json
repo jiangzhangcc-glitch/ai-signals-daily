@@ -1,5 +1,5 @@
 {
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "picks": [
   {
    "source": "github",
@@ -8,13 +8,13 @@
   },
   {
    "source": "huggingface",
-   "title": "Nanbeige/Nanbeige4.3-33B",
-   "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B"
+   "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+   "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
   },
   {
    "source": "youtube",
-   "title": "How to solve hard problems - mathematicians explain | Lex Fridman",
-   "url": "https://www.youtube.com/watch?v=FkdD7c8Xjzo"
+   "title": "Is math invented or discovered? - mathematicians explain | Lex Fridman",
+   "url": "https://www.youtube.com/watch?v=W--Rr-ExhYY"
   },
   {
    "source": "siliconvalley",
@@ -27,10 +27,10 @@
    "github": 20,
    "huggingface": 49,
    "youtube": 23,
-   "siliconvalley": 23,
-   "arxiv": 60,
+   "siliconvalley": 27,
+   "arxiv": 69,
    "hardware": 25,
-   "compass": 139
+   "compass": 141
   },
   "top_orgs": [
    [
@@ -70,11 +70,11 @@
     5
    ],
    [
-    "Kimi",
+    "DeepSeek",
     5
    ]
   ],
-  "total": 339
+  "total": 354
  },
  "source": {
   "name": "Signals 4 (Signals API)",
