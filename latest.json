@@ -1,5 +1,5 @@
 {
- "date": "2026-11-03",
+ "date": "2026-11-04",
  "picks": [
   {
    "source": "github",
@@ -8,13 +8,13 @@
   },
   {
    "source": "huggingface",
-   "title": "LiquidAI/LFM3-1.7B",
-   "url": "https://huggingface.co/LiquidAI/LFM3-1.7B"
+   "title": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+   "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B"
   },
   {
    "source": "youtube",
-   "title": "The hardest problems AI can't solve yet - mathematicians explain | Lex Fridman",
-   "url": "https://www.youtube.com/watch?v=dDc2tnHd04Q"
+   "title": "The threat of AI to human civilization | Lex Fridman",
+   "url": "https://www.youtube.com/watch?v=GvY4x4LOfFU"
   },
   {
    "source": "siliconvalley",
@@ -25,12 +25,12 @@
  "stats": {
   "by_source": {
    "github": 20,
-   "huggingface": 49,
+   "huggingface": 48,
    "youtube": 23,
    "siliconvalley": 27,
-   "arxiv": 60,
+   "arxiv": 63,
    "hardware": 25,
-   "compass": 151
+   "compass": 141
   },
   "top_orgs": [
    [
@@ -55,7 +55,7 @@
    ],
    [
     "Dwarkesh Clips",
-    5
+    6
    ],
    [
     "NVIDIA",
@@ -74,7 +74,7 @@
     5
    ]
   ],
-  "total": 355
+  "total": 347
  },
  "source": {
   "name": "Signals 4 (Signals API)",
