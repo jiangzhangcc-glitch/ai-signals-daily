@@ -1,5 +1,5 @@
 {
- "date": "2026-11-05",
+ "date": "2026-11-06",
  "picks": [
   {
    "source": "github",
@@ -13,8 +13,8 @@
   },
   {
    "source": "youtube",
-   "title": "The Day Robert Moses’ Phone Stopped Ringing - Robert Caro",
-   "url": "https://www.youtube.com/watch?v=5uCnoxImxbU"
+   "title": "Why Robert Caro’s Books Are So Long",
+   "url": "https://www.youtube.com/watch?v=RrVLA-WMeKk"
   },
   {
    "source": "siliconvalley",
@@ -26,11 +26,11 @@
   "by_source": {
    "github": 20,
    "huggingface": 49,
-   "youtube": 22,
+   "youtube": 23,
    "siliconvalley": 31,
    "arxiv": 63,
    "hardware": 25,
-   "compass": 141
+   "compass": 149
   },
   "top_orgs": [
    [
@@ -74,7 +74,7 @@
     5
    ]
   ],
-  "total": 351
+  "total": 360
  },
  "source": {
   "name": "Signals 4 (Signals API)",
