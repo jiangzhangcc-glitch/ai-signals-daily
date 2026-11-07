@@ -1,5 +1,5 @@
 {
- "date": "2026-11-06",
+ "date": "2026-11-07",
  "picks": [
   {
    "source": "github",
@@ -8,29 +8,29 @@
   },
   {
    "source": "huggingface",
-   "title": "moonshotai/Kimi-K3.1-Pro",
-   "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro"
+   "title": "speridlabs/idol",
+   "url": "https://huggingface.co/speridlabs/idol"
   },
   {
    "source": "youtube",
-   "title": "Why Robert Caro’s Books Are So Long",
-   "url": "https://www.youtube.com/watch?v=RrVLA-WMeKk"
+   "title": "The Loneliness That Shaped Lyndon Johnson - Robert Caro",
+   "url": "https://www.youtube.com/watch?v=zSixzC1zYFM"
   },
   {
    "source": "siliconvalley",
-   "title": "Weekly Dose of Optimism #217",
-   "url": "https://www.notboring.co/p/weekly-dose-of-optimism-217"
+   "title": "Weekly Dose of Optimism #218",
+   "url": "https://www.notboring.co/p/weekly-dose-of-optimism-218"
   }
  ],
  "stats": {
   "by_source": {
    "github": 20,
-   "huggingface": 49,
+   "huggingface": 48,
    "youtube": 23,
-   "siliconvalley": 31,
+   "siliconvalley": 23,
    "arxiv": 63,
    "hardware": 25,
-   "compass": 149
+   "compass": 151
   },
   "top_orgs": [
    [
@@ -55,7 +55,7 @@
    ],
    [
     "Dwarkesh Clips",
-    6
+    7
    ],
    [
     "NVIDIA",
@@ -74,7 +74,7 @@
     5
    ]
   ],
-  "total": 360
+  "total": 353
  },
  "source": {
   "name": "Signals 4 (Signals API)",
