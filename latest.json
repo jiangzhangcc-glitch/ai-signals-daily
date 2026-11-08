@@ -1,5 +1,5 @@
 {
- "date": "2026-11-07",
+ "date": "2026-11-08",
  "picks": [
   {
    "source": "github",
@@ -13,8 +13,8 @@
   },
   {
    "source": "youtube",
-   "title": "The Loneliness That Shaped Lyndon Johnson - Robert Caro",
-   "url": "https://www.youtube.com/watch?v=zSixzC1zYFM"
+   "title": "How to Get Someone to Tell You the Truth - Robert Caro",
+   "url": "https://www.youtube.com/watch?v=HOc77LTkt94"
   },
   {
    "source": "siliconvalley",
@@ -26,8 +26,8 @@
   "by_source": {
    "github": 20,
    "huggingface": 48,
-   "youtube": 23,
-   "siliconvalley": 23,
+   "youtube": 24,
+   "siliconvalley": 19,
    "arxiv": 63,
    "hardware": 25,
    "compass": 151
@@ -74,7 +74,7 @@
     5
    ]
   ],
-  "total": 353
+  "total": 350
  },
  "source": {
   "name": "Signals 4 (Signals API)",
