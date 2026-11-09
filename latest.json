@@ -1,5 +1,5 @@
 {
- "date": "2026-11-08",
+ "date": "2026-11-09",
  "picks": [
   {
    "source": "github",
@@ -13,8 +13,8 @@
   },
   {
    "source": "youtube",
-   "title": "How to Get Someone to Tell You the Truth - Robert Caro",
-   "url": "https://www.youtube.com/watch?v=HOc77LTkt94"
+   "title": "Was Robert Moses a Hero or a Villain? - Robert Caro",
+   "url": "https://www.youtube.com/watch?v=HqQYah4tXS4"
   },
   {
    "source": "siliconvalley",
@@ -26,20 +26,20 @@
   "by_source": {
    "github": 20,
    "huggingface": 48,
-   "youtube": 24,
-   "siliconvalley": 19,
-   "arxiv": 63,
+   "youtube": 21,
+   "siliconvalley": 27,
+   "arxiv": 62,
    "hardware": 25,
-   "compass": 151
+   "compass": 140
   },
   "top_orgs": [
    [
-    "Lex Clips",
+    "The Robot Report",
     15
    ],
    [
-    "The Robot Report",
-    15
+    "Lex Clips",
+    12
    ],
    [
     "AMD News",
@@ -70,11 +70,11 @@
     5
    ],
    [
-    "DeepSeek",
+    "Kimi",
     5
    ]
   ],
-  "total": 350
+  "total": 343
  },
  "source": {
   "name": "Signals 4 (Signals API)",
