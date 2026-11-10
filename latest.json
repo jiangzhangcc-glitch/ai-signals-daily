@@ -1,5 +1,5 @@
 {
- "date": "2026-11-09",
+ "date": "2026-11-10",
  "picks": [
   {
    "source": "github",
@@ -13,8 +13,8 @@
   },
   {
    "source": "youtube",
-   "title": "Was Robert Moses a Hero or a Villain? - Robert Caro",
-   "url": "https://www.youtube.com/watch?v=HqQYah4tXS4"
+   "title": "Is Software Over?",
+   "url": "https://www.youtube.com/watch?v=vug73goPJaM"
   },
   {
    "source": "siliconvalley",
@@ -26,20 +26,16 @@
   "by_source": {
    "github": 20,
    "huggingface": 48,
-   "youtube": 21,
+   "youtube": 16,
    "siliconvalley": 27,
-   "arxiv": 62,
+   "arxiv": 66,
    "hardware": 25,
-   "compass": 140
+   "compass": 141
   },
   "top_orgs": [
    [
     "The Robot Report",
     15
-   ],
-   [
-    "Lex Clips",
-    12
    ],
    [
     "AMD News",
@@ -54,8 +50,12 @@
     7
    ],
    [
-    "Dwarkesh Clips",
+    "Lex Clips",
     7
+   ],
+   [
+    "Dwarkesh Clips",
+    6
    ],
    [
     "NVIDIA",
@@ -70,7 +70,7 @@
     5
    ],
    [
-    "Kimi",
+    "DeepSeek",
     5
    ]
   ],
