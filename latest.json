@@ -1,5 +1,5 @@
 {
- "date": "2026-11-10",
+ "date": "2026-11-11",
  "picks": [
   {
    "source": "github",
@@ -8,13 +8,13 @@
   },
   {
    "source": "huggingface",
-   "title": "speridlabs/idol",
-   "url": "https://huggingface.co/speridlabs/idol"
+   "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+   "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic"
   },
   {
    "source": "youtube",
-   "title": "Is Software Over?",
-   "url": "https://www.youtube.com/watch?v=vug73goPJaM"
+   "title": "State of the War in Ukraine - Military analyst explains | Lex Fridman Podcast",
+   "url": "https://www.youtube.com/watch?v=xqCfLzfKOEo"
   },
   {
    "source": "siliconvalley",
@@ -26,11 +26,11 @@
   "by_source": {
    "github": 20,
    "huggingface": 48,
-   "youtube": 16,
-   "siliconvalley": 27,
-   "arxiv": 66,
+   "youtube": 11,
+   "siliconvalley": 31,
+   "arxiv": 62,
    "hardware": 25,
-   "compass": 141
+   "compass": 150
   },
   "top_orgs": [
    [
@@ -50,19 +50,11 @@
     7
    ],
    [
-    "Lex Clips",
-    7
-   ],
-   [
     "Dwarkesh Clips",
-    6
-   ],
-   [
-    "NVIDIA",
     5
    ],
    [
-    "OpenAI",
+    "NVIDIA",
     5
    ],
    [
@@ -72,9 +64,17 @@
    [
     "DeepSeek",
     5
+   ],
+   [
+    "Kimi",
+    5
+   ],
+   [
+    "Google Gemini",
+    5
    ]
   ],
-  "total": 343
+  "total": 347
  },
  "source": {
   "name": "Signals 4 (Signals API)",
