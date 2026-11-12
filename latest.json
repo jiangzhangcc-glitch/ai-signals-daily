@@ -1,5 +1,5 @@
 {
- "date": "2026-11-11",
+ "date": "2026-11-12",
  "picks": [
   {
    "source": "github",
@@ -13,24 +13,24 @@
   },
   {
    "source": "youtube",
-   "title": "State of the War in Ukraine - Military analyst explains | Lex Fridman Podcast",
-   "url": "https://www.youtube.com/watch?v=xqCfLzfKOEo"
+   "title": "The nature of war: Why we fight | Russia-Ukraine War - Military Analysis",
+   "url": "https://www.youtube.com/watch?v=fMpYUonIIJM"
   },
   {
    "source": "siliconvalley",
-   "title": "Weekly Dose of Optimism #218",
-   "url": "https://www.notboring.co/p/weekly-dose-of-optimism-218"
+   "title": "Of Miracles and Moats",
+   "url": "https://www.notboring.co/p/of-miracles-and-moats"
   }
  ],
  "stats": {
   "by_source": {
    "github": 20,
    "huggingface": 48,
-   "youtube": 11,
-   "siliconvalley": 31,
+   "youtube": 13,
+   "siliconvalley": 23,
    "arxiv": 62,
    "hardware": 25,
-   "compass": 150
+   "compass": 151
   },
   "top_orgs": [
    [
@@ -50,11 +50,15 @@
     7
    ],
    [
-    "Dwarkesh Clips",
-    5
+    "Lex Clips",
+    6
    ],
    [
     "NVIDIA",
+    5
+   ],
+   [
+    "OpenAI",
     5
    ],
    [
@@ -68,13 +72,9 @@
    [
     "Kimi",
     5
-   ],
-   [
-    "Google Gemini",
-    5
    ]
   ],
-  "total": 347
+  "total": 342
  },
  "source": {
   "name": "Signals 4 (Signals API)",
