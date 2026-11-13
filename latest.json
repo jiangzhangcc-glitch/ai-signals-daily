@@ -1,5 +1,5 @@
 {
- "date": "2026-11-12",
+ "date": "2026-11-13",
  "picks": [
   {
    "source": "github",
@@ -13,8 +13,8 @@
   },
   {
    "source": "youtube",
-   "title": "The nature of war: Why we fight | Russia-Ukraine War - Military Analysis",
-   "url": "https://www.youtube.com/watch?v=fMpYUonIIJM"
+   "title": "The shocking reality of drone warfare | Russia-Ukraine War - Military Analysis",
+   "url": "https://www.youtube.com/watch?v=DfFKbb1lcJA"
   },
   {
    "source": "siliconvalley",
@@ -26,16 +26,20 @@
   "by_source": {
    "github": 20,
    "huggingface": 48,
-   "youtube": 13,
-   "siliconvalley": 23,
-   "arxiv": 62,
+   "youtube": 17,
+   "siliconvalley": 19,
+   "arxiv": 60,
    "hardware": 25,
-   "compass": 151
+   "compass": 146
   },
   "top_orgs": [
    [
     "The Robot Report",
     15
+   ],
+   [
+    "Lex Clips",
+    11
    ],
    [
     "AMD News",
@@ -50,19 +54,11 @@
     7
    ],
    [
-    "Lex Clips",
-    6
-   ],
-   [
     "NVIDIA",
     5
    ],
    [
     "OpenAI",
-    5
-   ],
-   [
-    "Anthropic",
     5
    ],
    [
@@ -72,9 +68,13 @@
    [
     "Kimi",
     5
+   ],
+   [
+    "Google Gemini",
+    5
    ]
   ],
-  "total": 342
+  "total": 335
  },
  "source": {
   "name": "Signals 4 (Signals API)",
