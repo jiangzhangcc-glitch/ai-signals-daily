@@ -24,7 +24,7 @@
   "news",
   "rss"
  ],
- "created": "2026-11-12",
+ "created": "2026-11-13",
  "access": {
   "free": "CC-BY-4.0, attribution required",
   "paid_feed": "https://data.jiangzhang.ca/signals4/go?to=landing&src=gh_datapackage_access",
@@ -43,9 +43,9 @@
   },
   {
    "name": "daily-items",
-   "path": "data/2026-11-12.json",
+   "path": "data/2026-11-13.json",
    "profile": "tabular-json",
-   "title": "All items collected on 2026-11-12",
+   "title": "All items collected on 2026-11-13",
    "schema": {
     "path": "data/schema.json"
    },
@@ -54,9 +54,9 @@
   },
   {
    "name": "daily-digest",
-   "path": "data/2026-11-12.md",
+   "path": "data/2026-11-13.md",
    "profile": "markdown",
-   "title": "Human-readable digest for 2026-11-12",
+   "title": "Human-readable digest for 2026-11-13",
    "mediatype": "text/markdown"
   }
  ],
