@@ -1,5 +1,5 @@
 {
- "date": "2026-11-13",
+ "date": "2026-11-14",
  "picks": [
   {
    "source": "github",
@@ -13,33 +13,33 @@
   },
   {
    "source": "youtube",
-   "title": "The shocking reality of drone warfare | Russia-Ukraine War - Military Analysis",
-   "url": "https://www.youtube.com/watch?v=DfFKbb1lcJA"
+   "title": "Funkiest Zoom meeting EVER (Surprise video)",
+   "url": "https://www.youtube.com/watch?v=x7iwI6WfWS0"
   },
   {
    "source": "siliconvalley",
-   "title": "Of Miracles and Moats",
-   "url": "https://www.notboring.co/p/of-miracles-and-moats"
+   "title": "Weekly Dose of Optimism #219",
+   "url": "https://www.notboring.co/p/weekly-dose-of-optimism-219"
   }
  ],
  "stats": {
   "by_source": {
    "github": 20,
-   "huggingface": 48,
-   "youtube": 17,
-   "siliconvalley": 19,
-   "arxiv": 60,
+   "huggingface": 47,
+   "youtube": 21,
+   "siliconvalley": 27,
+   "arxiv": 52,
    "hardware": 25,
    "compass": 146
   },
   "top_orgs": [
    [
-    "The Robot Report",
+    "Lex Clips",
     15
    ],
    [
-    "Lex Clips",
-    11
+    "The Robot Report",
+    15
    ],
    [
     "AMD News",
@@ -51,14 +51,10 @@
    ],
    [
     "Qwen",
-    7
+    6
    ],
    [
     "NVIDIA",
-    5
-   ],
-   [
-    "OpenAI",
     5
    ],
    [
@@ -72,9 +68,13 @@
    [
     "Google Gemini",
     5
+   ],
+   [
+    "xAI",
+    5
    ]
   ],
-  "total": 335
+  "total": 338
  },
  "source": {
   "name": "Signals 4 (Signals API)",
