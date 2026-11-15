@@ -1,5 +1,5 @@
 {
- "date": "2026-11-14",
+ "date": "2026-11-15",
  "picks": [
   {
    "source": "github",
@@ -13,8 +13,8 @@
   },
   {
    "source": "youtube",
-   "title": "Funkiest Zoom meeting EVER (Surprise video)",
-   "url": "https://www.youtube.com/watch?v=x7iwI6WfWS0"
+   "title": "War optimism: The crucial error made by political leaders | Lex Fridman Podcast",
+   "url": "https://www.youtube.com/watch?v=gcTov7iXxPM"
   },
   {
    "source": "siliconvalley",
@@ -26,11 +26,11 @@
   "by_source": {
    "github": 20,
    "huggingface": 47,
-   "youtube": 21,
-   "siliconvalley": 27,
-   "arxiv": 52,
+   "youtube": 19,
+   "siliconvalley": 23,
+   "arxiv": 60,
    "hardware": 25,
-   "compass": 146
+   "compass": 149
   },
   "top_orgs": [
    [
@@ -58,23 +58,23 @@
     5
    ],
    [
+    "OpenAI",
+    5
+   ],
+   [
+    "Anthropic",
+    5
+   ],
+   [
     "DeepSeek",
     5
    ],
    [
     "Kimi",
     5
-   ],
-   [
-    "Google Gemini",
-    5
-   ],
-   [
-    "xAI",
-    5
    ]
   ],
-  "total": 338
+  "total": 343
  },
  "source": {
   "name": "Signals 4 (Signals API)",
