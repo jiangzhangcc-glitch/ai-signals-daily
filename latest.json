@@ -1,5 +1,5 @@
 {
- "date": "2026-11-15",
+ "date": "2026-11-16",
  "picks": [
   {
    "source": "github",
@@ -13,8 +13,8 @@
   },
   {
    "source": "youtube",
-   "title": "War optimism: The crucial error made by political leaders | Lex Fridman Podcast",
-   "url": "https://www.youtube.com/watch?v=gcTov7iXxPM"
+   "title": "Prigozhin's mutiny & assassination: What really happened | Russia-Ukraine War",
+   "url": "https://www.youtube.com/watch?v=D_3x8rc8se8"
   },
   {
    "source": "siliconvalley",
@@ -26,11 +26,11 @@
   "by_source": {
    "github": 20,
    "huggingface": 47,
-   "youtube": 19,
-   "siliconvalley": 23,
-   "arxiv": 60,
+   "youtube": 18,
+   "siliconvalley": 31,
+   "arxiv": 64,
    "hardware": 25,
-   "compass": 149
+   "compass": 148
   },
   "top_orgs": [
    [
@@ -51,7 +51,7 @@
    ],
    [
     "Qwen",
-    6
+    7
    ],
    [
     "NVIDIA",
@@ -62,19 +62,19 @@
     5
    ],
    [
-    "Anthropic",
-    5
-   ],
-   [
     "DeepSeek",
     5
    ],
    [
     "Kimi",
     5
+   ],
+   [
+    "Google Gemini",
+    5
    ]
   ],
-  "total": 343
+  "total": 353
  },
  "source": {
   "name": "Signals 4 (Signals API)",
