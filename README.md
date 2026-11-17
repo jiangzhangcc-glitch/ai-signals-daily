@@ -14,6 +14,7 @@ Every day a machine writes one Markdown file here with that day's picks plus col
 - [`CITATION.cff`](CITATION.cff) · [`LICENSE`](LICENSE) — cite it / CC BY 4.0
 
 ## Days published
+- [2026-11-17](data/2026-11-17.md)
 - [2026-11-16](data/2026-11-16.md)
 - [2026-11-15](data/2026-11-15.md)
 - [2026-11-14](data/2026-11-14.md)
@@ -94,19 +95,19 @@ Every day a machine writes one Markdown file here with that day's picks plus col
 
 ## Standings (computed from our own daily snapshots)
 
-**Models** — ranked 387 of 2624 tracked, as of 2026-11-16:
+**Models** — ranked 394 of 2651 tracked, as of 2026-11-17:
 
-- sentence-transformers/all-MiniLM-L6-v2: ranked #1 of 387 by Hugging Face downloads among the entries we track; downloads -4.2% since 2026-11-09 (as of 2026-11-16). Source: Signals 4 (Signals API) — https://data.jiangzhang.ca/signals4/t/models/sentence-transformers-all-minilm-l6-v2.html
-- argmaxinc/whisperkit-coreml: ranked #2 of 387 by Hugging Face downloads among the entries we track; climbed from #3 to #2; downloads +44.9% since 2026-11-09 (as of 2026-11-16). Source: Signals 4 (Signals API) — https://data.jiangzhang.ca/signals4/t/models/argmaxinc-whisperkit-coreml.html
-- cross-encoder/ms-marco-MiniLM-L6-v2: ranked #3 of 387 by Hugging Face downloads among the entries we track; slipped from #2 to #3; downloads -8.3% since 2026-11-09 (as of 2026-11-16). Source: Signals 4 (Signals API) — https://data.jiangzhang.ca/signals4/t/models/cross-encoder-ms-marco-minilm-l6-v2.html
+- sentence-transformers/all-MiniLM-L6-v2: ranked #1 of 394 by Hugging Face downloads among the entries we track; downloads -4.0% since 2026-11-10 (as of 2026-11-17). Source: Signals 4 (Signals API) — https://data.jiangzhang.ca/signals4/t/models/sentence-transformers-all-minilm-l6-v2.html
+- argmaxinc/whisperkit-coreml: ranked #2 of 394 by Hugging Face downloads among the entries we track; climbed from #3 to #2; downloads +43.0% since 2026-11-10 (as of 2026-11-17). Source: Signals 4 (Signals API) — https://data.jiangzhang.ca/signals4/t/models/argmaxinc-whisperkit-coreml.html
+- cross-encoder/ms-marco-MiniLM-L6-v2: ranked #3 of 394 by Hugging Face downloads among the entries we track; slipped from #2 to #3; downloads -7.8% since 2026-11-10 (as of 2026-11-17). Source: Signals 4 (Signals API) — https://data.jiangzhang.ca/signals4/t/models/cross-encoder-ms-marco-minilm-l6-v2.html
 
-**Repos** — ranked 88 of 88 tracked, as of 2026-11-16:
+**Repos** — ranked 89 of 89 tracked, as of 2026-11-17:
 
-- codecrafters-io/build-your-own-x: ranked #1 of 88 by GitHub stars among the entries we track; stars +0.3% since 2026-11-09 (as of 2026-11-16). Source: Signals 4 (Signals API) — https://data.jiangzhang.ca/signals4/t/repos/codecrafters-io-build-your-own-x.html
-- sindresorhus/awesome: ranked #2 of 88 by GitHub stars among the entries we track; stars +0.7% since 2026-11-09 (as of 2026-11-16). Source: Signals 4 (Signals API) — https://data.jiangzhang.ca/signals4/t/repos/sindresorhus-awesome.html
-- public-apis/public-apis: ranked #3 of 88 by GitHub stars among the entries we track; stars +0.4% since 2026-11-09 (as of 2026-11-16). Source: Signals 4 (Signals API) — https://data.jiangzhang.ca/signals4/t/repos/public-apis-public-apis.html
+- codecrafters-io/build-your-own-x: ranked #1 of 89 by GitHub stars among the entries we track; stars +0.3% since 2026-11-10 (as of 2026-11-17). Source: Signals 4 (Signals API) — https://data.jiangzhang.ca/signals4/t/repos/codecrafters-io-build-your-own-x.html
+- sindresorhus/awesome: ranked #2 of 89 by GitHub stars among the entries we track; stars +0.6% since 2026-11-10 (as of 2026-11-17). Source: Signals 4 (Signals API) — https://data.jiangzhang.ca/signals4/t/repos/sindresorhus-awesome.html
+- public-apis/public-apis: ranked #3 of 89 by GitHub stars among the entries we track; stars +0.4% since 2026-11-10 (as of 2026-11-17). Source: Signals 4 (Signals API) — https://data.jiangzhang.ca/signals4/t/repos/public-apis-public-apis.html
 
-**Latest churn** — 3 new entries, 39 not seen in the latest snapshot, 303 rank moves (between 2026-11-15 and 2026-11-16).
+**Latest churn** — 2 new entries, 39 not seen in the latest snapshot, 108 rank moves (between 2026-11-16 and 2026-11-17).
 
 These numbers are derived from our own snapshots by an automated audit that reconciles the site pages with the JSON endpoints; see https://data.jiangzhang.ca/llms.txt
 
