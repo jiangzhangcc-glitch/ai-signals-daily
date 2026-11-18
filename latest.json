@@ -1,5 +1,5 @@
 {
- "date": "2026-11-17",
+ "date": "2026-11-18",
  "picks": [
   {
    "source": "github",
@@ -13,8 +13,8 @@
   },
   {
    "source": "youtube",
-   "title": "US war against China or Russia: Why military experts are wrong | Lex Fridman Podcast",
-   "url": "https://www.youtube.com/watch?v=uixy3VTzYok"
+   "title": "OpenAI's New Breakthrough Is... Utter Chaos",
+   "url": "https://www.youtube.com/watch?v=gl2U4fGTr6g"
   },
   {
    "source": "siliconvalley",
@@ -25,12 +25,12 @@
  "stats": {
   "by_source": {
    "github": 20,
-   "huggingface": 47,
-   "youtube": 17,
-   "siliconvalley": 23,
-   "arxiv": 60,
+   "huggingface": 48,
+   "youtube": 18,
+   "siliconvalley": 31,
+   "arxiv": 54,
    "hardware": 25,
-   "compass": 149
+   "compass": 150
   },
   "top_orgs": [
    [
@@ -74,7 +74,7 @@
     5
    ]
   ],
-  "total": 341
+  "total": 346
  },
  "source": {
   "name": "Signals 4 (Signals API)",
