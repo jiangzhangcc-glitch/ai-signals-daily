@@ -1,5 +1,5 @@
 {
- "date": "2026-11-18",
+ "date": "2026-11-19",
  "picks": [
   {
    "source": "github",
@@ -8,13 +8,13 @@
   },
   {
    "source": "huggingface",
-   "title": "MiniMaxAI/MiniMax-H3-Image",
-   "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image"
+   "title": "higurashi-ai/Haru-4B",
+   "url": "https://huggingface.co/higurashi-ai/Haru-4B"
   },
   {
    "source": "youtube",
-   "title": "OpenAI's New Breakthrough Is... Utter Chaos",
-   "url": "https://www.youtube.com/watch?v=gl2U4fGTr6g"
+   "title": "DeepMind Just Showed Us What AI Is Really For",
+   "url": "https://www.youtube.com/watch?v=Cy7Wz6Z4TWU"
   },
   {
    "source": "siliconvalley",
@@ -26,11 +26,11 @@
   "by_source": {
    "github": 20,
    "huggingface": 48,
-   "youtube": 18,
+   "youtube": 20,
    "siliconvalley": 31,
-   "arxiv": 54,
+   "arxiv": 66,
    "hardware": 25,
-   "compass": 150
+   "compass": 136
   },
   "top_orgs": [
    [
