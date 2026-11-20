@@ -1,5 +1,5 @@
 {
- "date": "2026-11-19",
+ "date": "2026-11-20",
  "picks": [
   {
    "source": "github",
@@ -13,8 +13,8 @@
   },
   {
    "source": "youtube",
-   "title": "DeepMind Just Showed Us What AI Is Really For",
-   "url": "https://www.youtube.com/watch?v=Cy7Wz6Z4TWU"
+   "title": "Robberies in GTA 6 - jewelry thief explains | Larry Lawton and Lex Fridman",
+   "url": "https://www.youtube.com/watch?v=13Ryd1dClGI"
   },
   {
    "source": "siliconvalley",
@@ -27,10 +27,10 @@
    "github": 20,
    "huggingface": 48,
    "youtube": 20,
-   "siliconvalley": 31,
-   "arxiv": 66,
+   "siliconvalley": 26,
+   "arxiv": 62,
    "hardware": 25,
-   "compass": 136
+   "compass": 126
   },
   "top_orgs": [
    [
@@ -74,7 +74,7 @@
     5
    ]
   ],
-  "total": 346
+  "total": 327
  },
  "source": {
   "name": "Signals 4 (Signals API)",
