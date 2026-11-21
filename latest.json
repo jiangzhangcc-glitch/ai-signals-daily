@@ -1,5 +1,5 @@
 {
- "date": "2026-11-20",
+ "date": "2026-11-21",
  "picks": [
   {
    "source": "github",
@@ -8,29 +8,29 @@
   },
   {
    "source": "huggingface",
-   "title": "higurashi-ai/Haru-4B",
-   "url": "https://huggingface.co/higurashi-ai/Haru-4B"
+   "title": "thinkingmachines/Inkling-2-Mini",
+   "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini"
   },
   {
    "source": "youtube",
-   "title": "Robberies in GTA 6 - jewelry thief explains | Larry Lawton and Lex Fridman",
-   "url": "https://www.youtube.com/watch?v=13Ryd1dClGI"
+   "title": "Playing chess in prison vs serial killer | Larry Lawton and Lex Fridman",
+   "url": "https://www.youtube.com/watch?v=xPz9dDj4V68"
   },
   {
    "source": "siliconvalley",
-   "title": "Weekly Dose of Optimism #219",
-   "url": "https://www.notboring.co/p/weekly-dose-of-optimism-219"
+   "title": "Weekly Dose of Optimism #220",
+   "url": "https://www.notboring.co/p/weekly-dose-of-optimism-220"
   }
  ],
  "stats": {
   "by_source": {
    "github": 20,
-   "huggingface": 48,
-   "youtube": 20,
-   "siliconvalley": 26,
+   "huggingface": 49,
+   "youtube": 19,
+   "siliconvalley": 23,
    "arxiv": 62,
    "hardware": 25,
-   "compass": 126
+   "compass": 141
   },
   "top_orgs": [
    [
@@ -62,19 +62,19 @@
     5
    ],
    [
+    "Anthropic",
+    5
+   ],
+   [
     "DeepSeek",
     5
    ],
    [
     "Kimi",
     5
-   ],
-   [
-    "Google Gemini",
-    5
    ]
   ],
-  "total": 327
+  "total": 339
  },
  "source": {
   "name": "Signals 4 (Signals API)",
