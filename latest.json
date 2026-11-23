@@ -1,5 +1,5 @@
 {
- "date": "2026-11-22",
+ "date": "2026-11-23",
  "picks": [
   {
    "source": "github",
@@ -13,8 +13,8 @@
   },
   {
    "source": "youtube",
-   "title": "How realistic was Scarface? - former criminal explains | Larry Lawton and Lex Fridman",
-   "url": "https://www.youtube.com/watch?v=OBsBdr1pTIs"
+   "title": "Claude AI Solved The Secret Of Black Holes",
+   "url": "https://www.youtube.com/watch?v=1jPdehG3Hms"
   },
   {
    "source": "siliconvalley",
@@ -26,20 +26,20 @@
   "by_source": {
    "github": 20,
    "huggingface": 49,
-   "youtube": 20,
-   "siliconvalley": 23,
-   "arxiv": 62,
+   "youtube": 21,
+   "siliconvalley": 31,
+   "arxiv": 67,
    "hardware": 25,
-   "compass": 141
+   "compass": 142
   },
   "top_orgs": [
    [
-    "Lex Clips",
+    "The Robot Report",
     15
    ],
    [
-    "The Robot Report",
-    15
+    "Lex Clips",
+    14
    ],
    [
     "AMD News",
@@ -58,10 +58,6 @@
     5
    ],
    [
-    "OpenAI",
-    5
-   ],
-   [
     "Anthropic",
     5
    ],
@@ -72,9 +68,13 @@
    [
     "Kimi",
     5
+   ],
+   [
+    "Google Gemini",
+    5
    ]
   ],
-  "total": 340
+  "total": 355
  },
  "source": {
   "name": "Signals 4 (Signals API)",
