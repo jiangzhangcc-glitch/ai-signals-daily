@@ -14,6 +14,7 @@ Every day a machine writes one Markdown file here with that day's picks plus col
 - [`CITATION.cff`](CITATION.cff) · [`LICENSE`](LICENSE) — cite it / CC BY 4.0
 
 ## Days published
+- [2026-11-25](data/2026-11-25.md)
 - [2026-11-24](data/2026-11-24.md)
 - [2026-11-23](data/2026-11-23.md)
 - [2026-11-22](data/2026-11-22.md)
@@ -102,19 +103,19 @@ Every day a machine writes one Markdown file here with that day's picks plus col
 
 ## Standings (computed from our own daily snapshots)
 
-**Models** — ranked 454 of 2884 tracked, as of 2026-11-24:
+**Models** — ranked 460 of 2920 tracked, as of 2026-11-25:
 
-- sentence-transformers/all-MiniLM-L6-v2: ranked #1 of 454 by Hugging Face downloads among the entries we track; downloads -2.8% since 2026-11-17 (as of 2026-11-24). Source: Signals 4 (Signals API) — https://data.jiangzhang.ca/signals4/t/models/sentence-transformers-all-minilm-l6-v2.html
-- argmaxinc/whisperkit-coreml: ranked #2 of 454 by Hugging Face downloads among the entries we track; downloads +29.8% since 2026-11-17 (as of 2026-11-24). Source: Signals 4 (Signals API) — https://data.jiangzhang.ca/signals4/t/models/argmaxinc-whisperkit-coreml.html
-- cross-encoder/ms-marco-MiniLM-L6-v2: ranked #3 of 454 by Hugging Face downloads among the entries we track; downloads -5.3% since 2026-11-17 (as of 2026-11-24). Source: Signals 4 (Signals API) — https://data.jiangzhang.ca/signals4/t/models/cross-encoder-ms-marco-minilm-l6-v2.html
+- sentence-transformers/all-MiniLM-L6-v2: ranked #1 of 460 by Hugging Face downloads among the entries we track; downloads -2.5% since 2026-11-18 (as of 2026-11-25). Source: Signals 4 (Signals API) — https://data.jiangzhang.ca/signals4/t/models/sentence-transformers-all-minilm-l6-v2.html
+- argmaxinc/whisperkit-coreml: ranked #2 of 460 by Hugging Face downloads among the entries we track; downloads +28.2% since 2026-11-18 (as of 2026-11-25). Source: Signals 4 (Signals API) — https://data.jiangzhang.ca/signals4/t/models/argmaxinc-whisperkit-coreml.html
+- cross-encoder/ms-marco-MiniLM-L6-v2: ranked #3 of 460 by Hugging Face downloads among the entries we track; downloads -4.9% since 2026-11-18 (as of 2026-11-25). Source: Signals 4 (Signals API) — https://data.jiangzhang.ca/signals4/t/models/cross-encoder-ms-marco-minilm-l6-v2.html
 
-**Repos** — ranked 92 of 92 tracked, as of 2026-11-24:
+**Repos** — ranked 93 of 93 tracked, as of 2026-11-25:
 
-- codecrafters-io/build-your-own-x: ranked #1 of 92 by GitHub stars among the entries we track; stars +0.3% since 2026-11-17 (as of 2026-11-24). Source: Signals 4 (Signals API) — https://data.jiangzhang.ca/signals4/t/repos/codecrafters-io-build-your-own-x.html
-- sindresorhus/awesome: ranked #2 of 92 by GitHub stars among the entries we track; stars +0.6% since 2026-11-17 (as of 2026-11-24). Source: Signals 4 (Signals API) — https://data.jiangzhang.ca/signals4/t/repos/sindresorhus-awesome.html
-- public-apis/public-apis: ranked #3 of 92 by GitHub stars among the entries we track; stars +0.3% since 2026-11-17 (as of 2026-11-24). Source: Signals 4 (Signals API) — https://data.jiangzhang.ca/signals4/t/repos/public-apis-public-apis.html
+- codecrafters-io/build-your-own-x: ranked #1 of 93 by GitHub stars among the entries we track; stars +0.3% since 2026-11-18 (as of 2026-11-25). Source: Signals 4 (Signals API) — https://data.jiangzhang.ca/signals4/t/repos/codecrafters-io-build-your-own-x.html
+- sindresorhus/awesome: ranked #2 of 93 by GitHub stars among the entries we track; stars +0.7% since 2026-11-18 (as of 2026-11-25). Source: Signals 4 (Signals API) — https://data.jiangzhang.ca/signals4/t/repos/sindresorhus-awesome.html
+- public-apis/public-apis: ranked #3 of 93 by GitHub stars among the entries we track; stars +0.2% since 2026-11-18 (as of 2026-11-25). Source: Signals 4 (Signals API) — https://data.jiangzhang.ca/signals4/t/repos/public-apis-public-apis.html
 
-**Latest churn** — 1 new entries, 39 not seen in the latest snapshot, 328 rank moves (between 2026-11-23 and 2026-11-24).
+**Latest churn** — 3 new entries, 42 not seen in the latest snapshot, 409 rank moves (between 2026-11-24 and 2026-11-25).
 
 These numbers are derived from our own snapshots by an automated audit that reconciles the site pages with the JSON endpoints; see https://data.jiangzhang.ca/llms.txt
 
