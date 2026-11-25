@@ -1,5 +1,5 @@
 {
- "date": "2026-11-24",
+ "date": "2026-11-25",
  "picks": [
   {
    "source": "github",
@@ -13,8 +13,8 @@
   },
   {
    "source": "youtube",
-   "title": "The cost of diamonds explained by former diamond thief | Larry Lawton and Lex Fridman",
-   "url": "https://www.youtube.com/watch?v=BmHFEGvbsNQ"
+   "title": "Claude AI’s Biggest Math Breakthrough Has A Problem.",
+   "url": "https://www.youtube.com/watch?v=hwWlEuI359w"
   },
   {
    "source": "siliconvalley",
@@ -26,20 +26,20 @@
   "by_source": {
    "github": 20,
    "huggingface": 50,
-   "youtube": 22,
+   "youtube": 24,
    "siliconvalley": 23,
-   "arxiv": 50,
+   "arxiv": 62,
    "hardware": 25,
-   "compass": 150
+   "compass": 140
   },
   "top_orgs": [
    [
-    "The Robot Report",
+    "Lex Clips",
     15
    ],
    [
-    "Lex Clips",
-    14
+    "The Robot Report",
+    15
    ],
    [
     "AMD News",
@@ -55,7 +55,7 @@
    ],
    [
     "Dwarkesh Clips",
-    5
+    6
    ],
    [
     "NVIDIA",
@@ -66,15 +66,15 @@
     5
    ],
    [
-    "Anthropic",
+    "DeepSeek",
     5
    ],
    [
-    "DeepSeek",
+    "Kimi",
     5
    ]
   ],
-  "total": 340
+  "total": 344
  },
  "source": {
   "name": "Signals 4 (Signals API)",
